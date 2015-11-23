@@ -11,17 +11,24 @@
       <file name="/Dummy.txt" timestamp="1448164564293">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/dict/sys/FileType.java" timestamp="1448247878669">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="226" column="0" />
-        <mark key="]" line="226" column="0" />
-        <mark key="." line="226" column="0" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/dict/sys/FileType.java" timestamp="1448248821537">
+        <mark key="'" line="226" column="0" />
+        <mark key="[" line="224" column="0" />
+        <mark key="]" line="224" column="0" />
+        <mark key="." line="224" column="0" />
       </file>
-      <file name="D:/project/yanji/src/server/dicts/dev/com.huruomin.dict.sys.FileType.dict" timestamp="1448247359119">
-        <mark key="[" line="1" column="188" />
-        <mark key="]" line="1" column="189" />
-        <mark key="." line="1" column="189" />
-        <mark key="^" line="1" column="136" />
+      <file name="D:/project/yanji/src/server/dicts/dev/com.huruomin.dict.sys.FileType.dict" timestamp="1448249458188">
+        <mark key="[" line="1" column="137" />
+        <mark key="]" line="1" column="142" />
+        <mark key="." line="1" column="142" />
+        <mark key="^" line="1" column="142" />
+      </file>
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" timestamp="1448248750505">
+        <mark key="'" line="133" column="0" />
+        <mark key="[" line="56" column="15" />
+        <mark key="]" line="56" column="27" />
+        <mark key="." line="56" column="27" />
+        <mark key="^" line="56" column="27" />
       </file>
       <file name="D:/project/yanji/src/server/yanji-weixin-message-handler/src/main/java/com/yanji/wmh/Application.java" timestamp="1448157061879">
         <mark key="'" line="30" column="0" />
@@ -82,40 +89,67 @@
       <jump line="6" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/dict/sys/FileType.java" />
       <jump line="4" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/dict/sys/FileType.java" />
       <jump line="0" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/dict/sys/FileType.java" />
+      <jump line="201" column="4" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" />
+      <jump line="213" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" />
+      <jump line="212" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" />
+      <jump line="209" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" />
+      <jump line="202" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" />
+      <jump line="189" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" />
+      <jump line="172" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" />
+      <jump line="161" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" />
+      <jump line="121" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" />
+      <jump line="109" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" />
+      <jump line="94" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" />
+      <jump line="65" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" />
+      <jump line="57" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" />
+      <jump line="43" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" />
+      <jump line="38" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" />
+      <jump line="35" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" />
+      <jump line="32" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" />
+      <jump line="0" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" />
+      <jump line="4" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" />
+      <jump line="15" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" />
+      <jump line="23" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" />
+      <jump line="127" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" />
+      <jump line="145" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" />
+      <jump line="133" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" />
+      <jump line="226" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/dict/sys/FileType.java" />
+      <jump line="238" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/dict/sys/FileType.java" />
+      <jump line="228" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/dict/sys/FileType.java" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlIGZpbGUgPSBuZXcgRmlsZSgpOwo=</text>
+      <register name="1" type="4">
+        <text>o</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlIGZpbGUgPSBuZXcgRmlsZSgpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>o</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlLmdldAo=</text>
+      <register name="2" type="4">
+        <text>t</text>
       </register>
       <register name="3" type="4">
-        <text>i</text>
+        <text>s</text>
       </register>
       <register name="4" type="4">
-        <text>f</text>
+        <text>r</text>
       </register>
       <register name="5" type="4">
-        <text>路</text>
-      </register>
-      <register name="6" type="4">
         <text>e</text>
       </register>
+      <register name="6" type="4">
+        <text>m</text>
+      </register>
       <register name="7" type="4">
-        <text>l</text>
+        <text>o</text>
       </register>
       <register name="8" type="4">
-        <text>i</text>
+        <text>t</text>
       </register>
       <register name="9" type="4">
-        <text>f</text>
+        <text>c</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>o</text>
       </register>
     </registers>
     <search>
@@ -146,6 +180,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
