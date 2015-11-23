@@ -5,7 +5,16 @@
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="EditorSplitLine" />
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="alt insert" />
+  </action>
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
   <action id="KotlinShellExecute" />
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="alt right" />
     <keyboard-shortcut first-keystroke="alt close_bracket" />

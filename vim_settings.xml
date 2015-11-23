@@ -11,24 +11,29 @@
       <file name="/Dummy.txt" timestamp="1448164564293">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/dict/sys/FileType.java" timestamp="1448248821537">
-        <mark key="'" line="226" column="0" />
-        <mark key="[" line="224" column="0" />
-        <mark key="]" line="224" column="0" />
-        <mark key="." line="224" column="0" />
-      </file>
       <file name="D:/project/yanji/src/server/dicts/dev/com.huruomin.dict.sys.FileType.dict" timestamp="1448249458188">
         <mark key="[" line="1" column="137" />
         <mark key="]" line="1" column="142" />
         <mark key="." line="1" column="142" />
         <mark key="^" line="1" column="142" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" timestamp="1448248750505">
-        <mark key="'" line="133" column="0" />
-        <mark key="[" line="56" column="15" />
-        <mark key="]" line="56" column="27" />
-        <mark key="." line="56" column="27" />
-        <mark key="^" line="56" column="27" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" timestamp="1448263705035">
+        <mark key="'" line="141" column="0" />
+        <mark key="]" line="45" column="20" />
+        <mark key="." line="45" column="20" />
+        <mark key="^" line="45" column="20" />
+      </file>
+      <file name="D:/project/yanji/src/server/dicts/dev/com.huruomin.dict.sys.SysParam.dict" timestamp="1448262943276">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="8" column="28" />
+      </file>
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/HttpClientService.java" timestamp="1448263180130">
+        <mark key="[" line="44" column="18" />
+        <mark key="]" line="44" column="18" />
+        <mark key="." line="44" column="18" />
+        <mark key="^" line="44" column="18" />
       </file>
       <file name="D:/project/yanji/src/server/yanji-weixin-message-handler/src/main/java/com/yanji/wmh/Application.java" timestamp="1448157061879">
         <mark key="'" line="30" column="0" />
@@ -36,12 +41,25 @@
         <mark key="]" line="27" column="1" />
         <mark key="." line="27" column="1" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" timestamp="1448245264419">
-        <mark key="'" line="162" column="0" />
-        <mark key="[" line="228" column="30" />
-        <mark key="]" line="228" column="30" />
-        <mark key="." line="228" column="30" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" timestamp="1448263239899">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="236" column="42" />
+        <mark key="]" line="236" column="60" />
+        <mark key="^" line="236" column="60" />
+        <mark key="." line="236" column="60" />
       </file>
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/dict/sys/FileType.java" timestamp="1448263612890">
+        <mark key="'" line="226" column="0" />
+        <mark key="[" line="45" column="14" />
+        <mark key="]" line="45" column="14" />
+        <mark key="." line="45" column="14" />
+      </file>
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/dict/sys/SysParam.java" timestamp="1448263086084">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+      </file>
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/SysService.java" timestamp="1448263971360" />
       <file name="/HTML File.txt.ft" timestamp="1448239369073">
         <mark key="[" line="0" column="0" />
       </file>
@@ -78,7 +96,6 @@
       <jump line="210" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" />
       <jump line="180" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" />
       <jump line="162" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" />
-      <jump line="55" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" />
       <jump line="41" column="6" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/dict/sys/FileType.java" />
       <jump line="38" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/dict/sys/FileType.java" />
       <jump line="33" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/dict/sys/FileType.java" />
@@ -116,8 +133,24 @@
       <jump line="226" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/dict/sys/FileType.java" />
       <jump line="238" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/dict/sys/FileType.java" />
       <jump line="228" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/dict/sys/FileType.java" />
+      <jump line="123" column="5" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" />
+      <jump line="120" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" />
+      <jump line="99" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" />
+      <jump line="86" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" />
+      <jump line="66" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" />
+      <jump line="51" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" />
+      <jump line="55" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" />
+      <jump line="59" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" />
+      <jump line="63" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" />
+      <jump line="83" column="14" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" />
+      <jump line="72" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" />
+      <jump line="69" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" />
+      <jump line="0" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" />
     </jumps>
     <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAvLyCz9cq8u68gaHR0cCBjbGllbnQKICAgICAgICBmaW5hbCBpbnQgbWF4Q29ubmVjdGlvbiA9IHN5c1NlcnZpY2UuZ2V0U3lzUGFyYW1Ub0ludChTeXNQYXJhbS5XRUlYSU5fTVBfSFRUUENMSUVOVF9NQVhfQ09OTkVDVElPTik7CiAgICAgICAgZmluYWwgaW50IHNvY2tldFRpbWVvdXQgPSBzeXNTZXJ2aWNlLmdldFN5c1BhcmFtVG9JbnQoU3lzUGFyYW0uV0VJWElOX01QX0hUVFBDTElFTlRfU09DS0VUX1RJTUVPVVQpOwogICAgICAgIGZpbmFsIGludCBjb25uVGltZW91dCA9IHN5c1NlcnZpY2UuZ2V0U3lzUGFyYW1Ub0ludChTeXNQYXJhbS5XRUlYSU5fTVBfSFRUUENMSUVOVF9DT05ORUNUSU9OX1RJTUVPVVQpOwogICAgICAgIFBvb2xpbmdIdHRwQ2xpZW50Q29ubmVjdGlvbk1hbmFnZXIgY29ubk1hbmFnZXIgPSBuZXcgUG9vbGluZ0h0dHBDbGllbnRDb25uZWN0aW9uTWFuYWdlcigpOwogICAgICAgIGNvbm5NYW5hZ2VyLnNldE1heFRvdGFsKG1heENvbm5lY3Rpb24pOwogICAgICAgIFJlcXVlc3RDb25maWcgcmVxdWVzdENvbmZpZyA9IFJlcXVlc3RDb25maWcuY3VzdG9tKCkuc2V0U29ja2V0VGltZW91dChzb2NrZXRUaW1lb3V0KS5zZXRDb25uZWN0VGltZW91dChjb25uVGltZW91dCkuYnVpbGQoKTsKICAgICAgICBodHRwQ2xpZW50ID0gSHR0cENsaWVudHMuY3VzdG9tKCkuc2V0Q29ubmVjdGlvbk1hbmFnZXIoY29ubk1hbmFnZXIpLnNldERlZmF1bHRSZXF1ZXN0Q29uZmlnKHJlcXVlc3RDb25maWcpLmJ1aWxkKCk7Cg==</text>
+      </register>
       <register name="1" type="4">
         <text>o</text>
       </register>
@@ -125,28 +158,28 @@
         <text>o</text>
       </register>
       <register name="2" type="4">
-        <text>t</text>
+        <text>改</text>
       </register>
       <register name="3" type="4">
-        <text>s</text>
+        <text>更</text>
       </register>
       <register name="4" type="4">
-        <text>r</text>
+        <text>被</text>
       </register>
       <register name="5" type="4">
-        <text>e</text>
+        <text>会</text>
       </register>
       <register name="6" type="4">
-        <text>m</text>
+        <text>将</text>
       </register>
       <register name="7" type="4">
-        <text>o</text>
+        <text>名</text>
       </register>
       <register name="8" type="4">
-        <text>t</text>
+        <text>展</text>
       </register>
       <register name="9" type="4">
-        <text>c</text>
+        <text>扩</text>
       </register>
       <register name="-" type="4">
         <text>o</text>
@@ -183,6 +216,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
