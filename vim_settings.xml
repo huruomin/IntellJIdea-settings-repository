@@ -17,11 +17,12 @@
         <mark key="." line="1" column="142" />
         <mark key="^" line="1" column="142" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" timestamp="1448263705035">
-        <mark key="'" line="141" column="0" />
-        <mark key="]" line="45" column="20" />
-        <mark key="." line="45" column="20" />
-        <mark key="^" line="45" column="20" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" timestamp="1448264603928">
+        <mark key="'" line="144" column="0" />
+        <mark key="[" line="116" column="83" />
+        <mark key="]" line="117" column="7" />
+        <mark key="." line="117" column="7" />
+        <mark key="^" line="117" column="7" />
       </file>
       <file name="D:/project/yanji/src/server/dicts/dev/com.huruomin.dict.sys.SysParam.dict" timestamp="1448262943276">
         <mark key="[" line="18" column="0" />
@@ -151,38 +152,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvLyCz9cq8u68gaHR0cCBjbGllbnQKICAgICAgICBmaW5hbCBpbnQgbWF4Q29ubmVjdGlvbiA9IHN5c1NlcnZpY2UuZ2V0U3lzUGFyYW1Ub0ludChTeXNQYXJhbS5XRUlYSU5fTVBfSFRUUENMSUVOVF9NQVhfQ09OTkVDVElPTik7CiAgICAgICAgZmluYWwgaW50IHNvY2tldFRpbWVvdXQgPSBzeXNTZXJ2aWNlLmdldFN5c1BhcmFtVG9JbnQoU3lzUGFyYW0uV0VJWElOX01QX0hUVFBDTElFTlRfU09DS0VUX1RJTUVPVVQpOwogICAgICAgIGZpbmFsIGludCBjb25uVGltZW91dCA9IHN5c1NlcnZpY2UuZ2V0U3lzUGFyYW1Ub0ludChTeXNQYXJhbS5XRUlYSU5fTVBfSFRUUENMSUVOVF9DT05ORUNUSU9OX1RJTUVPVVQpOwogICAgICAgIFBvb2xpbmdIdHRwQ2xpZW50Q29ubmVjdGlvbk1hbmFnZXIgY29ubk1hbmFnZXIgPSBuZXcgUG9vbGluZ0h0dHBDbGllbnRDb25uZWN0aW9uTWFuYWdlcigpOwogICAgICAgIGNvbm5NYW5hZ2VyLnNldE1heFRvdGFsKG1heENvbm5lY3Rpb24pOwogICAgICAgIFJlcXVlc3RDb25maWcgcmVxdWVzdENvbmZpZyA9IFJlcXVlc3RDb25maWcuY3VzdG9tKCkuc2V0U29ja2V0VGltZW91dChzb2NrZXRUaW1lb3V0KS5zZXRDb25uZWN0VGltZW91dChjb25uVGltZW91dCkuYnVpbGQoKTsKICAgICAgICBodHRwQ2xpZW50ID0gSHR0cENsaWVudHMuY3VzdG9tKCkuc2V0Q29ubmVjdGlvbk1hbmFnZXIoY29ubk1hbmFnZXIpLnNldERlZmF1bHRSZXF1ZXN0Q29uZmlnKHJlcXVlc3RDb25maWcpLmJ1aWxkKCk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>o</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBKU09OLgo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>o</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBKU09OLgo=</text>
       </register>
       <register name="2" type="4">
-        <text>改</text>
+        <text encoding="base64">IGFhYQ==</text>
       </register>
       <register name="3" type="4">
-        <text>更</text>
+        <text>o</text>
       </register>
       <register name="4" type="4">
-        <text>被</text>
+        <text>改</text>
       </register>
       <register name="5" type="4">
-        <text>会</text>
+        <text>更</text>
       </register>
       <register name="6" type="4">
-        <text>将</text>
+        <text>被</text>
       </register>
       <register name="7" type="4">
-        <text>名</text>
+        <text>会</text>
       </register>
       <register name="8" type="4">
-        <text>展</text>
+        <text>将</text>
       </register>
       <register name="9" type="4">
-        <text>扩</text>
+        <text>名</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text encoding="base64">IGFhYQ==</text>
       </register>
     </registers>
     <search>
