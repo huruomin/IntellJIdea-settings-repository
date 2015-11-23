@@ -17,8 +17,11 @@
         <mark key="]" line="27" column="1" />
         <mark key="." line="27" column="1" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" timestamp="1448239943637">
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" timestamp="1448242283961">
         <mark key="'" line="162" column="0" />
+        <mark key="[" line="228" column="30" />
+        <mark key="]" line="228" column="30" />
+        <mark key="." line="228" column="30" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1448239369073">
         <mark key="[" line="0" column="0" />
@@ -59,13 +62,16 @@
     </jumps>
     <registers>
       <register name="1" type="4">
-        <text>SpringBootApplication</text>
+        <text>;</text>
       </register>
       <register name="&quot;" type="4">
+        <text>;</text>
+      </register>
+      <register name="2" type="4">
         <text>SpringBootApplication</text>
       </register>
       <register name="-" type="4">
-        <text>SpringBootApplication</text>
+        <text>;</text>
       </register>
     </registers>
     <search>
