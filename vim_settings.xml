@@ -1,0 +1,96 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="D:/project/yanji/src/server/yanji-weixin-message-handler/src/main/java/com/yanji/wmh/Keygen.java" timestamp="1448155558015">
+        <mark key="[" line="9" column="40" />
+        <mark key="]" line="9" column="41" />
+        <mark key="." line="9" column="41" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1448164564293">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/project/yanji/src/server/yanji-weixin-message-handler/src/main/java/com/yanji/wmh/Application.java" timestamp="1448157061879">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="27" column="1" />
+        <mark key="]" line="27" column="1" />
+        <mark key="." line="27" column="1" />
+      </file>
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" timestamp="1448239943637">
+        <mark key="'" line="162" column="0" />
+      </file>
+      <file name="/HTML File.txt.ft" timestamp="1448239369073">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1448239332575">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="0" column="0" filename="D:/project/yanji/src/server/yanji-weixin-message-handler/src/main/java/com/yanji/wmh/Application.java" />
+      <jump line="3" column="0" filename="D:/project/yanji/src/server/yanji-weixin-message-handler/src/main/java/com/yanji/wmh/Application.java" />
+      <jump line="5" column="0" filename="D:/project/yanji/src/server/yanji-weixin-message-handler/src/main/java/com/yanji/wmh/Application.java" />
+      <jump line="15" column="0" filename="D:/project/yanji/src/server/yanji-weixin-message-handler/src/main/java/com/yanji/wmh/Application.java" />
+      <jump line="17" column="0" filename="D:/project/yanji/src/server/yanji-weixin-message-handler/src/main/java/com/yanji/wmh/Application.java" />
+      <jump line="35" column="0" filename="D:/project/yanji/src/server/yanji-weixin-message-handler/src/main/java/com/yanji/wmh/Application.java" />
+      <jump line="30" column="0" filename="D:/project/yanji/src/server/yanji-weixin-message-handler/src/main/java/com/yanji/wmh/Application.java" />
+      <jump line="137" column="13" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" />
+      <jump line="149" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" />
+      <jump line="393" column="48" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" />
+      <jump line="185" column="11" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" />
+      <jump line="376" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" />
+      <jump line="364" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" />
+      <jump line="355" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" />
+      <jump line="342" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" />
+      <jump line="335" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" />
+      <jump line="307" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" />
+      <jump line="299" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" />
+      <jump line="285" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" />
+      <jump line="276" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" />
+      <jump line="252" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" />
+      <jump line="248" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" />
+      <jump line="229" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" />
+      <jump line="227" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" />
+      <jump line="213" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" />
+      <jump line="210" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" />
+      <jump line="180" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" />
+      <jump line="162" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" />
+    </jumps>
+    <registers>
+      <register name="1" type="4">
+        <text>SpringBootApplication</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>SpringBootApplication</text>
+      </register>
+      <register name="-" type="4">
+        <text>SpringBootApplication</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
