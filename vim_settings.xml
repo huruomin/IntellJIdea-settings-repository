@@ -35,6 +35,11 @@
         <mark key="." line="33" column="17" />
         <mark key="^" line="33" column="17" />
       </file>
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" timestamp="1448326171732">
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="133" column="0" />
+        <mark key="." line="133" column="0" />
+      </file>
       <file name="D:/project/yanji/src/server/yanji-weixin-message-handler/src/main/java/com/yanji/wmh/Application.java" timestamp="1448157061879">
         <mark key="'" line="30" column="0" />
         <mark key="[" line="27" column="1" />
@@ -192,29 +197,29 @@
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>fileType</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IHBvc3RDb25zdHJ1Y3Q=</text>
+        <text>fileType</text>
       </register>
       <register name="4" type="4">
-        <text>;</text>
+        <text encoding="base64">IHBvc3RDb25zdHJ1Y3Q=</text>
       </register>
       <register name="5" type="4">
-        <text>(</text>
+        <text>;</text>
       </register>
       <register name="6" type="4">
-        <text>n</text>
+        <text>(</text>
       </register>
       <register name="7" type="4">
-        <text>l</text>
+        <text>n</text>
       </register>
       <register name="8" type="4">
-        <text>t</text>
+        <text>l</text>
       </register>
       <register name="9" type="4">
-        <text>n</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
         <text>fileType</text>
