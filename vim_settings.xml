@@ -35,11 +35,8 @@
         <mark key="." line="33" column="17" />
         <mark key="^" line="33" column="17" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" timestamp="1448327586136">
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="0" />
-        <mark key="." line="101" column="0" />
-        <mark key="^" line="94" column="33" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" timestamp="1448328560738">
+        <mark key="[" line="140" column="35" />
       </file>
       <file name="D:/project/yanji/src/server/yanji-weixin-message-handler/src/main/java/com/yanji/wmh/Application.java" timestamp="1448157061879">
         <mark key="'" line="30" column="0" />
@@ -193,34 +190,34 @@
         <text encoding="base64">ICAgICAgICBIdHRwUmVzcG9uc2UgcmVzcG9uc2UgPSBodHRwQ2xpZW50U2VydmljZS5nZXRDbGllbnQoKS5leGVjdXRlKHJlcXVlc3QpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">dm9pZCA=</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">bG9uZyA=</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">IG5vdw==</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>getUserid</text>
+        <text encoding="base64">dm9pZCA=</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IHVzZXJpZA==</text>
+        <text encoding="base64">bG9uZyA=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">dXNlcmlkIA==</text>
+        <text encoding="base64">IG5vdw==</text>
       </register>
       <register name="9" type="4">
-        <text>0</text>
+        <text>getUserid</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">dm9pZCA=</text>
