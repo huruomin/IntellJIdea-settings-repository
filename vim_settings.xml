@@ -30,10 +30,10 @@
         <mark key="." line="70" column="58" />
         <mark key="^" line="70" column="58" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/model/sys/RedisKey.java" timestamp="1448331633764">
-        <mark key="[" line="15" column="23" />
-        <mark key="]" line="15" column="46" />
-        <mark key="." line="15" column="46" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/model/sys/RedisKey.java" timestamp="1448332655685">
+        <mark key="[" line="15" column="32" />
+        <mark key="]" line="15" column="32" />
+        <mark key="." line="15" column="32" />
         <mark key="^" line="15" column="46" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/HttpClientService.java" timestamp="1448268593552">
@@ -42,12 +42,12 @@
         <mark key="." line="33" column="17" />
         <mark key="^" line="33" column="17" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" timestamp="1448331807120">
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" timestamp="1448335471441">
         <mark key="'" line="144" column="0" />
-        <mark key="[" line="150" column="0" />
-        <mark key="]" line="150" column="0" />
-        <mark key="." line="150" column="0" />
-        <mark key="^" line="146" column="110" />
+        <mark key="[" line="162" column="0" />
+        <mark key="]" line="162" column="0" />
+        <mark key="." line="162" column="0" />
+        <mark key="^" line="201" column="19" />
       </file>
       <file name="D:/project/yanji/src/server/yanji-weixin-message-handler/src/main/java/com/yanji/wmh/Application.java" timestamp="1448157061879">
         <mark key="'" line="30" column="0" />
@@ -209,7 +209,7 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">LyoqCiAqIG90c7XEdXBkYXRlIHJvd7LZ1/eyzsr9tcS88rWlt+LXsAogKgogKiBAYXV0aG9yIGh1cnVvbWluCiAqLwo=</text>
+        <text encoding="base64">ICAgICAgICBpc0VxdWFsID0gaXNFcXVhbCAmJiBPYmplY3RzLmVxdWFsKHVzZXIuZ2V0V3hTdWJzY3JpYmUoKSwgd3hVc2VyLmdldFN1YnNjcmliZSgpKTsKICAgICAgICBpc0VxdWFsID0gaXNFcXVhbCAmJiBPYmplY3RzLmVxdWFsKHVzZXIuZ2V0V3hOaWNrbmFtZSgpLCB3eFVzZXIuZ2V0Tmlja25hbWUoKSk7CiAgICAgICAgaXNFcXVhbCA9IGlzRXF1YWwgJiYgT2JqZWN0cy5lcXVhbCh1c2VyLmdldFd4U2V4KCksIFN0cmluZy52YWx1ZU9mKHd4VXNlci5nZXRTZXgoKSkpOwogICAgICAgIGlzRXF1YWwgPSBpc0VxdWFsICYmIE9iamVjdHMuZXF1YWwodXNlci5nZXRXeENpdHkoKSwgd3hVc2VyLmdldENpdHkoKSk7CiAgICAgICAgaXNFcXVhbCA9IGlzRXF1YWwgJiYgT2JqZWN0cy5lcXVhbCh1c2VyLmdldFd4Q291bnRyeSgpLCB3eFVzZXIuZ2V0Q291bnRyeSgpKTsKICAgICAgICBpc0VxdWFsID0gaXNFcXVhbCAmJiBPYmplY3RzLmVxdWFsKHVzZXIuZ2V0V3hQcm92aW5jZSgpLCB3eFVzZXIuZ2V0UHJvdmluY2UoKSk7CiAgICAgICAgaXNFcXVhbCA9IGlzRXF1YWwgJiYgT2JqZWN0cy5lcXVhbCh1c2VyLmdldFd4TGFuZ3VhZ2UoKSwgd3hVc2VyLmdldExhbmd1YWdlKCkpOwogICAgICAgIGlzRXF1YWwgPSBpc0VxdWFsICYmIE9iamVjdHMuZXF1YWwodXNlci5nZXRXeEhlYWRpbWd1cmwoKSwgd3hVc2VyLmdldEhlYWRJbWdVcmwoKSk7CiAgICAgICAgaXNFcXVhbCA9IGlzRXF1YWwgJiYgT2JqZWN0cy5lcXVhbCh1c2VyLmdldFd4U3Vic2NyaWJlVGltZSgpLCBTdHJpbmcudmFsdWVPZih3eFVzZXIuZ2V0U3Vic2NyaWJlVGltZSgpKSk7CiAgICAgICAgaXNFcXVhbCA9IGlzRXF1YWwgJiYgT2JqZWN0cy5lcXVhbCh1c2VyLmdldFd4VW5pb25pZCgpLCB3eFVzZXIuZ2V0VW5pb25pZCgpKTsKICAgICAgICBpc0VxdWFsID0gaXNFcXVhbCAmJiBPYmplY3RzLmVxdWFsKHVzZXIuZ2V0V3hHcm91cGlkKCksIFN0cmluZy52YWx1ZU9mKHd4VXNlci5nZXRHcm91cGlkKCkpKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -217,32 +217,32 @@
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICBpc0VxdWFsID0gaXNFcXVhbCAmJiBPYmplY3RzLmVxdWFsKHVzZXIuZ2V0V3hTdWJzY3JpYmUoKSwgd3hVc2VyLmdldFN1YnNjcmliZSgpKTsKICAgICAgICBpc0VxdWFsID0gaXNFcXVhbCAmJiBPYmplY3RzLmVxdWFsKHVzZXIuZ2V0V3hOaWNrbmFtZSgpLCB3eFVzZXIuZ2V0Tmlja25hbWUoKSk7CiAgICAgICAgaXNFcXVhbCA9IGlzRXF1YWwgJiYgT2JqZWN0cy5lcXVhbCh1c2VyLmdldFd4U2V4KCksIFN0cmluZy52YWx1ZU9mKHd4VXNlci5nZXRTZXgoKSkpOwogICAgICAgIGlzRXF1YWwgPSBpc0VxdWFsICYmIE9iamVjdHMuZXF1YWwodXNlci5nZXRXeENpdHkoKSwgd3hVc2VyLmdldENpdHkoKSk7CiAgICAgICAgaXNFcXVhbCA9IGlzRXF1YWwgJiYgT2JqZWN0cy5lcXVhbCh1c2VyLmdldFd4Q291bnRyeSgpLCB3eFVzZXIuZ2V0Q291bnRyeSgpKTsKICAgICAgICBpc0VxdWFsID0gaXNFcXVhbCAmJiBPYmplY3RzLmVxdWFsKHVzZXIuZ2V0V3hQcm92aW5jZSgpLCB3eFVzZXIuZ2V0UHJvdmluY2UoKSk7CiAgICAgICAgaXNFcXVhbCA9IGlzRXF1YWwgJiYgT2JqZWN0cy5lcXVhbCh1c2VyLmdldFd4TGFuZ3VhZ2UoKSwgd3hVc2VyLmdldExhbmd1YWdlKCkpOwogICAgICAgIGlzRXF1YWwgPSBpc0VxdWFsICYmIE9iamVjdHMuZXF1YWwodXNlci5nZXRXeEhlYWRpbWd1cmwoKSwgd3hVc2VyLmdldEhlYWRJbWdVcmwoKSk7CiAgICAgICAgaXNFcXVhbCA9IGlzRXF1YWwgJiYgT2JqZWN0cy5lcXVhbCh1c2VyLmdldFd4U3Vic2NyaWJlVGltZSgpLCBTdHJpbmcudmFsdWVPZih3eFVzZXIuZ2V0U3Vic2NyaWJlVGltZSgpKSk7CiAgICAgICAgaXNFcXVhbCA9IGlzRXF1YWwgJiYgT2JqZWN0cy5lcXVhbCh1c2VyLmdldFd4VW5pb25pZCgpLCB3eFVzZXIuZ2V0VW5pb25pZCgpKTsKICAgICAgICBpc0VxdWFsID0gaXNFcXVhbCAmJiBPYmplY3RzLmVxdWFsKHVzZXIuZ2V0V3hHcm91cGlkKCksIFN0cmluZy52YWx1ZU9mKHd4VXNlci5nZXRHcm91cGlkKCkpKTs=</text>
       </register>
       <register name="3" type="4">
-        <text>d</text>
+        <text>;</text>
       </register>
       <register name="4" type="4">
-        <text>i</text>
+        <text>)</text>
       </register>
       <register name="5" type="4">
-        <text>n</text>
+        <text>;</text>
       </register>
       <register name="6" type="4">
-        <text>e</text>
+        <text>)</text>
       </register>
-      <register name="7" type="4">
-        <text>p</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="4">
-        <text>O</text>
+        <text>)</text>
       </register>
       <register name="9" type="4">
-        <text>x</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>;</text>
       </register>
     </registers>
     <search>
@@ -251,7 +251,9 @@
     </search>
     <history>
       <history-search />
-      <history-cmd />
+      <history-cmd>
+        <entry encoding="base64">JXMvL2lzRXF1YWwgPSBpc0VxdWFsICYmIC9n</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
@@ -285,6 +287,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
