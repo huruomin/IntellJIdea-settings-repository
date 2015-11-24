@@ -30,11 +30,11 @@
         <mark key="." line="70" column="58" />
         <mark key="^" line="70" column="58" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/model/sys/RedisKey.java" timestamp="1448332655685">
-        <mark key="[" line="15" column="32" />
-        <mark key="]" line="15" column="32" />
-        <mark key="." line="15" column="32" />
-        <mark key="^" line="15" column="46" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/model/sys/RedisKey.java" timestamp="1448337127626">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="13" column="15" />
+        <mark key="." line="13" column="15" />
+        <mark key="^" line="13" column="15" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/HttpClientService.java" timestamp="1448268593552">
         <mark key="[" line="31" column="7" />
@@ -42,12 +42,12 @@
         <mark key="." line="33" column="17" />
         <mark key="^" line="33" column="17" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" timestamp="1448336544645">
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" timestamp="1448337968929">
         <mark key="'" line="144" column="0" />
-        <mark key="[" line="167" column="14" />
-        <mark key="]" line="167" column="18" />
-        <mark key="." line="167" column="18" />
-        <mark key="^" line="167" column="18" />
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="154" column="96" />
+        <mark key="." line="152" column="0" />
+        <mark key="^" line="162" column="8" />
       </file>
       <file name="D:/project/yanji/src/server/yanji-weixin-message-handler/src/main/java/com/yanji/wmh/Application.java" timestamp="1448157061879">
         <mark key="'" line="30" column="0" />
@@ -74,11 +74,11 @@
         <mark key="." line="130" column="7" />
         <mark key="^" line="130" column="6" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/RedisService.java" timestamp="1448335735205">
-        <mark key="[" line="127" column="13" />
-        <mark key="]" line="128" column="38" />
-        <mark key="^" line="128" column="38" />
-        <mark key="." line="128" column="38" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/RedisService.java" timestamp="1448337103833">
+        <mark key="[" line="326" column="18" />
+        <mark key="]" line="326" column="23" />
+        <mark key="^" line="326" column="23" />
+        <mark key="." line="326" column="23" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/model/sys/OtsRowUpdate.java" timestamp="1448330798928">
         <mark key="[" line="14" column="0" />
@@ -208,41 +208,47 @@
       <jump line="144" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgc3luY0ludGVydmFsID0gc3lzU2VydmljZS5nZXRTeXNQYXJhbVRvSW50KFN5c1BhcmFtLlVTRVJfU1lOQ19GUk9NX1dFSVhJTl9JTlRFUlZBTCk7CiAgICAgICAgbG9uZyBub3cgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsK</text>
+      <register name="0" type="4">
+        <text>Jedis jedis = null;
+        try {
+            jedis = getJedisFromPool();
+            return jedis.incr(key);
+        } finally {
+            closeJedis(jedis);
+        }</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IGZhbHNl</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHJlZGlzS2V5ID0gcmVkaXNTZXJ2aWNlLmJ1aWxkS2V5KFJlZGlzS2V5LkxBU1RfU1lOQ19VU0VSX0ZST01fV0VJWElOLCB1c2VyLmdldFVzZXJpZCgpKTsKICAgICAgICAgICAgbG9uZyBub3cgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsKICAgICAgICAgICAgaW50IHN5bmNJbnRlcnZhbCA9IHN5c1NlcnZpY2UuZ2V0U3lzUGFyYW1Ub0ludChTeXNQYXJhbS5VU0VSX1NZTkNfRlJPTV9XRUlYSU5fSU5URVJWQUwpOwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IGZhbHNl</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHJlZGlzS2V5ID0gcmVkaXNTZXJ2aWNlLmJ1aWxkS2V5KFJlZGlzS2V5LkxBU1RfU1lOQ19VU0VSX0ZST01fV0VJWElOLCB1c2VyLmdldFVzZXJpZCgpKTsKICAgICAgICAgICAgbG9uZyBub3cgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsKICAgICAgICAgICAgaW50IHN5bmNJbnRlcnZhbCA9IHN5c1NlcnZpY2UuZ2V0U3lzUGFyYW1Ub0ludChTeXNQYXJhbS5VU0VSX1NZTkNfRlJPTV9XRUlYSU5fSU5URVJWQUwpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nIG5vdyA9IFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgc3luY0ludGVydmFsID0gc3lzU2VydmljZS5nZXRTeXNQYXJhbVRvSW50KFN5c1BhcmFtLlVTRVJfU1lOQ19GUk9NX1dFSVhJTl9JTlRFUlZBTCk7CiAgICAgICAgbG9uZyBub3cgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nIHQgPSBub3cgLSBzeW5jSW50ZXJ2YWwgKiAxMDAwOwo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">IGlzRm9yY2U=</text>
       </register>
       <register name="5" type="4">
-        <text>t</text>
+        <text encoding="base64">cHVibGljIA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="6" type="4">
+        <text>wxOpenid</text>
       </register>
-      <register name="7" type="4">
-        <text>)</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gzqLQxbnY16LXtMyssrvS1Hd4VXNlckluZm/Oqte8o6zI57Tm1Nqyu9K71sK1xMfpv/ajrNPJuvPQ+LXEzqLQxdPDu6fQxc+izayyvciltKbA7Qo=</text>
       </register>
-      <register name="8" type="4">
-        <text>)</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBHZXRVc2VySW5mb1Jlc3BvbnNlIHd4VXNlckluZm8gPSBnZXRXZWl4aW5Vc2VyKG9wZW5pZCk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>)</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29weVByb3BlcnRpZXMod3hVc2VySW5mbywgdXNlcik7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGZhbHNl</text>
+        <text encoding="base64">IGlzRm9yY2U=</text>
       </register>
     </registers>
     <search>
