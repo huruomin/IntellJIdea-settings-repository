@@ -42,14 +42,13 @@
         <mark key="." line="33" column="17" />
         <mark key="^" line="33" column="17" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" timestamp="1448348429037">
-        <mark key="'" line="146" column="53" />
-        <mark key="[" line="196" column="14" />
-        <mark key="]" line="196" column="23" />
-        <mark key="." line="196" column="23" />
-        <mark key="^" line="196" column="23" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" timestamp="1448353068040">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="125" column="0" />
+        <mark key="." line="125" column="0" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" timestamp="1448348411272">
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" timestamp="1448353224988">
         <mark key="[" line="64" column="19" />
         <mark key="]" line="64" column="33" />
       </file>
@@ -95,12 +94,12 @@
         <mark key="." line="243" column="0" />
         <mark key="^" line="243" column="128" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/controller/WeixinController.java" timestamp="1448269836399">
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/controller/WeixinController.java" timestamp="1448352793113">
         <mark key="'" line="181" column="0" />
-        <mark key="[" line="180" column="186" />
-        <mark key="]" line="180" column="187" />
-        <mark key="^" line="180" column="187" />
-        <mark key="." line="180" column="187" />
+        <mark key="[" line="173" column="24" />
+        <mark key="]" line="174" column="19" />
+        <mark key="^" line="174" column="19" />
+        <mark key="." line="174" column="19" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1448239369073">
         <mark key="[" line="0" column="0" />
@@ -110,16 +109,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="149" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" />
-      <jump line="167" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" />
-      <jump line="225" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" />
-      <jump line="171" column="32" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" />
-      <jump line="54" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" />
-      <jump line="49" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" />
-      <jump line="46" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" />
-      <jump line="43" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" />
-      <jump line="34" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" />
-      <jump line="23" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" />
       <jump line="5" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" />
       <jump line="22" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" />
       <jump line="32" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" />
@@ -177,14 +166,12 @@
       <jump line="51" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" />
       <jump line="56" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" />
       <jump line="60" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" />
-      <jump line="67" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" />
       <jump line="77" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" />
       <jump line="81" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" />
       <jump line="90" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" />
       <jump line="102" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" />
       <jump line="161" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" />
       <jump line="158" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" />
-      <jump line="108" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" />
       <jump line="113" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" />
       <jump line="128" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" />
       <jump line="6" column="0" filename="D:/project/yanji/src/server/dicts/dev/com.huruomin.dict.sys.SysParam.dict" />
@@ -210,43 +197,55 @@
       <jump line="55" column="22" filename="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.2.2.RELEASE/spring-core-4.2.2.RELEASE-sources.jar!/org/springframework/util/Assert.java" />
       <jump line="201" column="9" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" />
       <jump line="146" column="53" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" />
+      <jump line="67" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" />
+      <jump line="74" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" />
+      <jump line="84" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" />
+      <jump line="91" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" />
+      <jump line="95" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" />
+      <jump line="104" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" />
+      <jump line="108" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" />
+      <jump line="129" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" />
+      <jump line="133" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" />
+      <jump line="149" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" />
+      <jump line="210" column="24" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" />
+      <jump line="0" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" />
     </jumps>
     <registers>
       <register name="0" type="4">
         <text>wxSubscribeTime</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IG51bGw=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IG51bGw=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZXN0LnNldFd4T3BlbmlkKHNyYy5nZXRPcGVuaWQoKSk7Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICBwcml2YXRlIExpc3Q8U3RyaW5nPiB1cGRhdGVQcm9wZXJ0aWVzKEdldFVzZXJJbmZvUmVzcG9uc2Ugc3JjLCBVc2VyIGRlc3QpIHsKICAgICAgICBBc3NlcnQubm90TnVsbChzcmMpOwogICAgICAgIEFzc2VydC5ub3ROdWxsKGRlc3QpOwogICAgICAgIGRlc3Quc2V0V3hTdWJzY3JpYmUoU3RyaW5nLnZhbHVlT2Yoc3JjLmdldFN1YnNjcmliZSgpKSk7CiAgICAgICAgZGVzdC5zZXRXeE5pY2tuYW1lKHNyYy5nZXROaWNrbmFtZSgpKTsKICAgICAgICBkZXN0LnNldFd4U2V4KFN0cmluZy52YWx1ZU9mKHNyYy5nZXRTZXgoKSkpOwogICAgICAgIGRlc3Quc2V0V3hDaXR5KHNyYy5nZXRDaXR5KCkpOwogICAgICAgIGRlc3Quc2V0V3hDb3VudHJ5KHNyYy5nZXRDb3VudHJ5KCkpOwogICAgICAgIGRlc3Quc2V0V3hQcm92aW5jZShzcmMuZ2V0UHJvdmluY2UoKSk7CiAgICAgICAgZGVzdC5zZXRXeExhbmd1YWdlKHNyYy5nZXRMYW5ndWFnZSgpKTsKICAgICAgICBkZXN0LnNldFd4SGVhZGltZ3VybChzcmMuZ2V0SGVhZEltZ1VybCgpKTsKICAgICAgICBkZXN0LnNldFd4U3Vic2NyaWJlVGltZShTdHJpbmcudmFsdWVPZihzcmMuZ2V0U3Vic2NyaWJlVGltZSgpKSk7CiAgICAgICAgZGVzdC5zZXRXeFVuaW9uaWQoc3JjLmdldFVuaW9uaWQoKSk7CiAgICAgICAgZGVzdC5zZXRXeFJlbWFyayhzcmMuZ2V0UmVtYXJrKCkpOwogICAgICAgIGRlc3Quc2V0V3hHcm91cGlkKFN0cmluZy52YWx1ZU9mKHNyYy5nZXRHcm91cGlkKCkpKTsKCiAgICAgICAgTGlzdDxTdHJpbmc+IGNvbHNUb0RlbCA9IExpc3RzLm5ld0xpbmtlZExpc3QoKTsKICAgICAgICBpZiAobnVsbCA9PSBzcmMuZ2V0Tmlja25hbWUoKSkgewogICAgICAgICAgICBjb2xzVG9EZWwuYWRkKCJ3eE5pY2tuYW1lIik7CiAgICAgICAgfQogICAgICAgIGlmIChudWxsID09IHNyYy5nZXRTZXgoKSkgewogICAgICAgICAgICBjb2xzVG9EZWwuYWRkKCJ3eFNleCIpOwogICAgICAgIH0KICAgICAgICBpZiAobnVsbCA9PSBzcmMuZ2V0Q2l0eSgpKSB7CiAgICAgICAgICAgIGNvbHNUb0RlbC5hZGQoInd4Q2l0eSIpOwogICAgICAgIH0KICAgICAgICBpZiAobnVsbCA9PSBzcmMuZ2V0Q291bnRyeSgpKSB7CiAgICAgICAgICAgIGNvbHNUb0RlbC5hZGQoInd4Q291bnRyeSIpOwogICAgICAgIH0KICAgICAgICBpZiAobnVsbCA9PSBzcmMuZ2V0UHJvdmluY2UoKSkgewogICAgICAgICAgICBjb2xzVG9EZWwuYWRkKCJ3eFByb3ZpbmNlIik7CiAgICAgICAgfQogICAgICAgIGlmIChudWxsID09IHNyYy5nZXRMYW5ndWFnZSgpKSB7CiAgICAgICAgICAgIGNvbHNUb0RlbC5hZGQoInd4TGFuZ3VhZ2UiKTsKICAgICAgICB9CiAgICAgICAgaWYgKG51bGwgPT0gc3JjLmdldEhlYWRJbWdVcmwoKSkgewogICAgICAgICAgICBjb2xzVG9EZWwuYWRkKCJ3eEhlYWRpbWd1cmwiKTsKICAgICAgICB9CiAgICAgICAgaWYgKG51bGwgPT0gc3JjLmdldFN1YnNjcmliZVRpbWUoKSkgewogICAgICAgICAgICBjb2xzVG9EZWwuYWRkKCJ3eFN1YnNjcmliZVRpbWUiKTsKICAgICAgICB9CiAgICAgICAgaWYgKG51bGwgPT0gc3JjLmdldFVuaW9uaWQoKSkgewogICAgICAgICAgICBjb2xzVG9EZWwuYWRkKCJ3eFVuaW9uaWQiKTsKICAgICAgICB9CiAgICAgICAgaWYgKG51bGwgPT0gc3JjLmdldFJlbWFyaygpKSB7CiAgICAgICAgICAgIGNvbHNUb0RlbC5hZGQoInd4UmVtYXJrIik7CiAgICAgICAgfQogICAgICAgIGlmIChudWxsID09IHNyYy5nZXRHcm91cGlkKCkpIHsKICAgICAgICAgICAgY29sc1RvRGVsLmFkZCgid3hHcm91cGlkIik7CiAgICAgICAgfQogICAgICAgIHJldHVybiBjb2xzVG9EZWw7CiAgICB9CgogICAgcHJpdmF0ZSB2b2lkIHVwZGF0ZVVzZXIoVXNlciB1c2VyLCBTdHJpbmcuLi4gY29sc1RvRGVsKSB7CiAgICAgICAgQXNzZXJ0Lm5vdE51bGwodXNlcik7CiAgICAgICAgT3RzUm93VXBkYXRlIG90c1Jvd1VwZGF0ZSA9IE90c1Jvd1VwZGF0ZS5uZXdJbnN0YW5jZShVc2VyLlRBQkxFX05BTUUpLmZpZWxkcyh1c2VyKTsKICAgICAgICBpZiAobnVsbCAhPSBjb2xzVG9EZWwpIHsKICAgICAgICAgICAgb3RzUm93VXBkYXRlLmNvbFRvRGVsKGNvbHNUb0RlbCk7CiAgICAgICAgfQogICAgICAgIG90c1NlcnZpY2UudXBkYXRlUm93KG90c1Jvd1VwZGF0ZSk7CiAgICB9CgogICAgcHJpdmF0ZSB2b2lkIHVwZGF0ZVVzZXIoVXNlciBvbGRVc2VyLCBVc2VyIG5ld1VzZXIpIHsKICAgICAgICBBc3NlcnQubm90TnVsbChvbGRVc2VyKTsKICAgICAgICBBc3NlcnQubm90TnVsbChuZXdVc2VyKTsKICAgICAgICAKICAgIH0=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="4" type="4">
+        <text>o</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="5" type="4">
+        <text>T</text>
       </register>
       <register name="6" type="4">
-        <text />
+        <text>e</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">dm9pZCA=</text>
+        <text>v</text>
       </register>
       <register name="8" type="4">
-        <text>y</text>
+        <text>o</text>
       </register>
       <register name="9" type="4">
-        <text>p</text>
+        <text>m</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG51bGw=</text>
+        <text>o</text>
       </register>
     </registers>
     <search>
