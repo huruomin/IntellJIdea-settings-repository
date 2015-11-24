@@ -42,12 +42,12 @@
         <mark key="." line="33" column="17" />
         <mark key="^" line="33" column="17" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" timestamp="1448335471441">
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" timestamp="1448336544645">
         <mark key="'" line="144" column="0" />
-        <mark key="[" line="162" column="0" />
-        <mark key="]" line="162" column="0" />
-        <mark key="." line="162" column="0" />
-        <mark key="^" line="201" column="19" />
+        <mark key="[" line="167" column="14" />
+        <mark key="]" line="167" column="18" />
+        <mark key="." line="167" column="18" />
+        <mark key="^" line="167" column="18" />
       </file>
       <file name="D:/project/yanji/src/server/yanji-weixin-message-handler/src/main/java/com/yanji/wmh/Application.java" timestamp="1448157061879">
         <mark key="'" line="30" column="0" />
@@ -74,11 +74,11 @@
         <mark key="." line="130" column="7" />
         <mark key="^" line="130" column="6" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/RedisService.java" timestamp="1448331758779">
-        <mark key="[" line="64" column="14" />
-        <mark key="]" line="64" column="22" />
-        <mark key="^" line="64" column="22" />
-        <mark key="." line="64" column="22" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/RedisService.java" timestamp="1448335735205">
+        <mark key="[" line="127" column="13" />
+        <mark key="]" line="128" column="38" />
+        <mark key="^" line="128" column="38" />
+        <mark key="." line="128" column="38" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/model/sys/OtsRowUpdate.java" timestamp="1448330798928">
         <mark key="[" line="14" column="0" />
@@ -209,40 +209,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpc0VxdWFsID0gaXNFcXVhbCAmJiBPYmplY3RzLmVxdWFsKHVzZXIuZ2V0V3hTdWJzY3JpYmUoKSwgd3hVc2VyLmdldFN1YnNjcmliZSgpKTsKICAgICAgICBpc0VxdWFsID0gaXNFcXVhbCAmJiBPYmplY3RzLmVxdWFsKHVzZXIuZ2V0V3hOaWNrbmFtZSgpLCB3eFVzZXIuZ2V0Tmlja25hbWUoKSk7CiAgICAgICAgaXNFcXVhbCA9IGlzRXF1YWwgJiYgT2JqZWN0cy5lcXVhbCh1c2VyLmdldFd4U2V4KCksIFN0cmluZy52YWx1ZU9mKHd4VXNlci5nZXRTZXgoKSkpOwogICAgICAgIGlzRXF1YWwgPSBpc0VxdWFsICYmIE9iamVjdHMuZXF1YWwodXNlci5nZXRXeENpdHkoKSwgd3hVc2VyLmdldENpdHkoKSk7CiAgICAgICAgaXNFcXVhbCA9IGlzRXF1YWwgJiYgT2JqZWN0cy5lcXVhbCh1c2VyLmdldFd4Q291bnRyeSgpLCB3eFVzZXIuZ2V0Q291bnRyeSgpKTsKICAgICAgICBpc0VxdWFsID0gaXNFcXVhbCAmJiBPYmplY3RzLmVxdWFsKHVzZXIuZ2V0V3hQcm92aW5jZSgpLCB3eFVzZXIuZ2V0UHJvdmluY2UoKSk7CiAgICAgICAgaXNFcXVhbCA9IGlzRXF1YWwgJiYgT2JqZWN0cy5lcXVhbCh1c2VyLmdldFd4TGFuZ3VhZ2UoKSwgd3hVc2VyLmdldExhbmd1YWdlKCkpOwogICAgICAgIGlzRXF1YWwgPSBpc0VxdWFsICYmIE9iamVjdHMuZXF1YWwodXNlci5nZXRXeEhlYWRpbWd1cmwoKSwgd3hVc2VyLmdldEhlYWRJbWdVcmwoKSk7CiAgICAgICAgaXNFcXVhbCA9IGlzRXF1YWwgJiYgT2JqZWN0cy5lcXVhbCh1c2VyLmdldFd4U3Vic2NyaWJlVGltZSgpLCBTdHJpbmcudmFsdWVPZih3eFVzZXIuZ2V0U3Vic2NyaWJlVGltZSgpKSk7CiAgICAgICAgaXNFcXVhbCA9IGlzRXF1YWwgJiYgT2JqZWN0cy5lcXVhbCh1c2VyLmdldFd4VW5pb25pZCgpLCB3eFVzZXIuZ2V0VW5pb25pZCgpKTsKICAgICAgICBpc0VxdWFsID0gaXNFcXVhbCAmJiBPYmplY3RzLmVxdWFsKHVzZXIuZ2V0V3hHcm91cGlkKCksIFN0cmluZy52YWx1ZU9mKHd4VXNlci5nZXRHcm91cGlkKCkpKTsK</text>
+        <text encoding="base64">ICAgICAgICBpbnQgc3luY0ludGVydmFsID0gc3lzU2VydmljZS5nZXRTeXNQYXJhbVRvSW50KFN5c1BhcmFtLlVTRVJfU1lOQ19GUk9NX1dFSVhJTl9JTlRFUlZBTCk7CiAgICAgICAgbG9uZyBub3cgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IGZhbHNl</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGZhbHNl</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICBpc0VxdWFsID0gaXNFcXVhbCAmJiBPYmplY3RzLmVxdWFsKHVzZXIuZ2V0V3hTdWJzY3JpYmUoKSwgd3hVc2VyLmdldFN1YnNjcmliZSgpKTsKICAgICAgICBpc0VxdWFsID0gaXNFcXVhbCAmJiBPYmplY3RzLmVxdWFsKHVzZXIuZ2V0V3hOaWNrbmFtZSgpLCB3eFVzZXIuZ2V0Tmlja25hbWUoKSk7CiAgICAgICAgaXNFcXVhbCA9IGlzRXF1YWwgJiYgT2JqZWN0cy5lcXVhbCh1c2VyLmdldFd4U2V4KCksIFN0cmluZy52YWx1ZU9mKHd4VXNlci5nZXRTZXgoKSkpOwogICAgICAgIGlzRXF1YWwgPSBpc0VxdWFsICYmIE9iamVjdHMuZXF1YWwodXNlci5nZXRXeENpdHkoKSwgd3hVc2VyLmdldENpdHkoKSk7CiAgICAgICAgaXNFcXVhbCA9IGlzRXF1YWwgJiYgT2JqZWN0cy5lcXVhbCh1c2VyLmdldFd4Q291bnRyeSgpLCB3eFVzZXIuZ2V0Q291bnRyeSgpKTsKICAgICAgICBpc0VxdWFsID0gaXNFcXVhbCAmJiBPYmplY3RzLmVxdWFsKHVzZXIuZ2V0V3hQcm92aW5jZSgpLCB3eFVzZXIuZ2V0UHJvdmluY2UoKSk7CiAgICAgICAgaXNFcXVhbCA9IGlzRXF1YWwgJiYgT2JqZWN0cy5lcXVhbCh1c2VyLmdldFd4TGFuZ3VhZ2UoKSwgd3hVc2VyLmdldExhbmd1YWdlKCkpOwogICAgICAgIGlzRXF1YWwgPSBpc0VxdWFsICYmIE9iamVjdHMuZXF1YWwodXNlci5nZXRXeEhlYWRpbWd1cmwoKSwgd3hVc2VyLmdldEhlYWRJbWdVcmwoKSk7CiAgICAgICAgaXNFcXVhbCA9IGlzRXF1YWwgJiYgT2JqZWN0cy5lcXVhbCh1c2VyLmdldFd4U3Vic2NyaWJlVGltZSgpLCBTdHJpbmcudmFsdWVPZih3eFVzZXIuZ2V0U3Vic2NyaWJlVGltZSgpKSk7CiAgICAgICAgaXNFcXVhbCA9IGlzRXF1YWwgJiYgT2JqZWN0cy5lcXVhbCh1c2VyLmdldFd4VW5pb25pZCgpLCB3eFVzZXIuZ2V0VW5pb25pZCgpKTsKICAgICAgICBpc0VxdWFsID0gaXNFcXVhbCAmJiBPYmplY3RzLmVxdWFsKHVzZXIuZ2V0V3hHcm91cGlkKCksIFN0cmluZy52YWx1ZU9mKHd4VXNlci5nZXRHcm91cGlkKCkpKTs=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBsb25nIG5vdyA9IFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text>;</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpbnQgc3luY0ludGVydmFsID0gc3lzU2VydmljZS5nZXRTeXNQYXJhbVRvSW50KFN5c1BhcmFtLlVTRVJfU1lOQ19GUk9NX1dFSVhJTl9JTlRFUlZBTCk7CiAgICAgICAgbG9uZyBub3cgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsK</text>
       </register>
-      <register name="4" type="4">
-        <text>)</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBsb25nIHQgPSBub3cgLSBzeW5jSW50ZXJ2YWwgKiAxMDAwOwo=</text>
       </register>
       <register name="5" type="4">
-        <text>;</text>
+        <text>t</text>
       </register>
-      <register name="6" type="4">
-        <text>)</text>
-      </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="7" type="4">
+        <text>)</text>
       </register>
       <register name="8" type="4">
         <text>)</text>
       </register>
       <register name="9" type="4">
-        <text>;</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">IGZhbHNl</text>
       </register>
     </registers>
     <search>
