@@ -42,12 +42,12 @@
         <mark key="." line="33" column="17" />
         <mark key="^" line="33" column="17" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" timestamp="1448337968929">
-        <mark key="'" line="144" column="0" />
-        <mark key="[" line="152" column="0" />
-        <mark key="]" line="154" column="96" />
-        <mark key="." line="152" column="0" />
-        <mark key="^" line="162" column="8" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" timestamp="1448347408873">
+        <mark key="'" line="201" column="9" />
+        <mark key="[" line="144" column="0" />
+        <mark key="]" line="144" column="0" />
+        <mark key="." line="144" column="0" />
+        <mark key="^" line="142" column="59" />
       </file>
       <file name="D:/project/yanji/src/server/yanji-weixin-message-handler/src/main/java/com/yanji/wmh/Application.java" timestamp="1448157061879">
         <mark key="'" line="30" column="0" />
@@ -106,8 +106,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="235" column="68" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/SysService.java" />
-      <jump line="98" column="2" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" />
       <jump line="107" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" />
       <jump line="118" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" />
       <jump line="136" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" />
@@ -206,6 +204,8 @@
       <jump line="136" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" />
       <jump line="140" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" />
       <jump line="144" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" />
+      <jump line="142" column="23" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" />
+      <jump line="201" column="9" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" />
     </jumps>
     <registers>
       <register name="0" type="4">
@@ -218,37 +218,64 @@
         }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHJlZGlzS2V5ID0gcmVkaXNTZXJ2aWNlLmJ1aWxkS2V5KFJlZGlzS2V5LkxBU1RfU1lOQ19VU0VSX0ZST01fV0VJWElOLCB1c2VyLmdldFVzZXJpZCgpKTsKICAgICAgICAgICAgbG9uZyBub3cgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsKICAgICAgICAgICAgaW50IHN5bmNJbnRlcnZhbCA9IHN5c1NlcnZpY2UuZ2V0U3lzUGFyYW1Ub0ludChTeXNQYXJhbS5VU0VSX1NZTkNfRlJPTV9XRUlYSU5fSU5URVJWQUwpOwo=</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHJlZGlzS2V5ID0gcmVkaXNTZXJ2aWNlLmJ1aWxkS2V5KFJlZGlzS2V5LkxBU1RfU1lOQ19VU0VSX0ZST01fV0VJWElOLCB1c2VyLmdldFVzZXJpZCgpKTsKICAgICAgICAgICAgbG9uZyBub3cgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsKICAgICAgICAgICAgaW50IHN5bmNJbnRlcnZhbCA9IHN5c1NlcnZpY2UuZ2V0U3lzUGFyYW1Ub0ludChTeXNQYXJhbS5VU0VSX1NZTkNfRlJPTV9XRUlYSU5fSU5URVJWQUwpOwo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IGlzRm9yY2U=</text>
+      <register name="2" type="4">
+        <text>private boolean isEqual(GetUserInfoResponse wxUser, User user) {
+        Assert.notNull(wxUser);
+        Assert.notNull(user);
+        if (!Objects.equal(user.getWxSubscribe(), wxUser.getSubscribe())) {
+            return false;
+        } else if (!Objects.equal(user.getWxNickname(), wxUser.getNickname())) {
+            return false;
+        } else if (!Objects.equal(user.getWxSex(), String.valueOf(wxUser.getSex()))) {
+            return false;
+        } else if (!Objects.equal(user.getWxCity(), wxUser.getCity())) {
+            return false;
+        } else if (!Objects.equal(user.getWxCountry(), wxUser.getCountry())) {
+            return false;
+        } else if (!Objects.equal(user.getWxProvince(), wxUser.getProvince())) {
+            return false;
+        } else if (!Objects.equal(user.getWxLanguage(), wxUser.getLanguage())) {
+            return false;
+        } else if (!Objects.equal(user.getWxHeadimgurl(), wxUser.getHeadImgUrl())) {
+            return false;
+        } else if (!Objects.equal(user.getWxSubscribeTime(), String.valueOf(wxUser.getSubscribeTime()))) {
+            return false;
+        } else if (!Objects.equal(user.getWxUnionid(), wxUser.getUnionid())) {
+            return false;
+        } else if (!Objects.equal(user.getWxGroupid(), String.valueOf(wxUser.getGroupid()))) {
+            return false;
+        }
+        return true;
+    }</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">IGZhbHNl</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBzeW5jVXNlckZyb21XZWl4aW4oVXNlciB1c2VyLCBib29sZWFuIGZvcmNlU3luYykgewogICAgICAgIEFzc2VydC5ub3ROdWxsKHVzZXIpOwogICAgICAgIGlmIChudWxsID09IHVzZXIuZ2V0V3hPcGVuaWQoKSkgewogICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQoKICAgICAgICBTdHJpbmcgcmVkaXNLZXkgPSByZWRpc1NlcnZpY2UuYnVpbGRLZXkoUmVkaXNLZXkuTEFTVF9TWU5DX1VTRVJfRlJPTV9XRUlYSU4sIHVzZXIuZ2V0VXNlcmlkKCkpOwogICAgICAgIGxvbmcgbm93ID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7CiAgICAgICAgaW50IHN5bmNJbnRlcnZhbCA9IHN5c1NlcnZpY2UuZ2V0U3lzUGFyYW1Ub0ludChTeXNQYXJhbS5VU0VSX1NZTkNfRlJPTV9XRUlYSU5fSU5URVJWQUwpOwogICAgICAgIGlmICghZm9yY2VTeW5jKSB7CiAgICAgICAgICAgIC8vILj5vt3NrLK9vOS49MXQts/Kx7fx0OjSqs2ssr0KICAgICAgICAgICAgU3RyaW5nIGxhc3RTeW5jRGF0ZSA9IHJlZGlzU2VydmljZS5nZXQocmVkaXNLZXkpOwogICAgICAgICAgICBpZiAobnVsbCAhPSBsYXN0U3luY0RhdGUgJiYgbm93IDw9IExvbmcudmFsdWVPZihsYXN0U3luY0RhdGUpICsgc3luY0ludGVydmFsICogMTAwMCkgewogICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICB9CiAgICAgICAgfQoKICAgICAgICAvLyDXvLG4zayyvQogICAgICAgIEdldFVzZXJJbmZvUmVzcG9uc2Ugd3hVc2VyID0gcXVlcnlXZWl4aW5Vc2VyKHVzZXIuZ2V0V3hPcGVuaWQoKSk7CiAgICAgICAgaWYgKCFpc0VxdWFsKHd4VXNlciwgdXNlcikpIHsKICAgICAgICAgICAgbW92ZVRvSGlzdCh1c2VyKTsKICAgICAgICAgICAgY29weVByb3BlcnRpZXMod3hVc2VyLCB1c2VyKTsKICAgICAgICB9CiAgICAgICAgcmVkaXNTZXJ2aWNlLnNldGV4KHJlZGlzS2V5LCBzeW5jSW50ZXJ2YWwsIFN0cmluZy52YWx1ZU9mKG5vdykpOwogICAgICAgIHJldHVybiB0cnVlOwogICAgfQo=</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+        <text>t</text>
       </register>
       <register name="6" type="4">
-        <text>wxOpenid</text>
+        <text>e</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gzqLQxbnY16LXtMyssrvS1Hd4VXNlckluZm/Oqte8o6zI57Tm1Nqyu9K71sK1xMfpv/ajrNPJuvPQ+LXEzqLQxdPDu6fQxc+izayyvciltKbA7Qo=</text>
+      <register name="7" type="4">
+        <text>g</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBHZXRVc2VySW5mb1Jlc3BvbnNlIHd4VXNlckluZm8gPSBnZXRXZWl4aW5Vc2VyKG9wZW5pZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHJlZGlzS2V5ID0gcmVkaXNTZXJ2aWNlLmJ1aWxkS2V5KFJlZGlzS2V5LkxBU1RfU1lOQ19VU0VSX0ZST01fV0VJWElOLCB1c2VyLmdldFVzZXJpZCgpKTsKICAgICAgICAgICAgbG9uZyBub3cgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsKICAgICAgICAgICAgaW50IHN5bmNJbnRlcnZhbCA9IHN5c1NlcnZpY2UuZ2V0U3lzUGFyYW1Ub0ludChTeXNQYXJhbS5VU0VSX1NZTkNfRlJPTV9XRUlYSU5fSU5URVJWQUwpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29weVByb3BlcnRpZXMod3hVc2VySW5mbywgdXNlcik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGlzRm9yY2U=</text>
+        <text encoding="base64">IGZhbHNl</text>
       </register>
     </registers>
     <search>
