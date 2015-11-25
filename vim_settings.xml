@@ -103,12 +103,12 @@
         <mark key="." line="20" column="67" />
         <mark key="^" line="20" column="70" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityUtils.java" timestamp="1448441418184">
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityUtils.java" timestamp="1448442063235">
         <mark key="'" line="156" column="0" />
-        <mark key="[" line="66" column="32" />
-        <mark key="]" line="62" column="37" />
-        <mark key="^" line="62" column="37" />
-        <mark key="." line="62" column="37" />
+        <mark key="[" line="199" column="27" />
+        <mark key="]" line="197" column="89" />
+        <mark key="^" line="197" column="89" />
+        <mark key="." line="197" column="89" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.2.RELEASE/spring-beans-4.2.2.RELEASE-sources.jar!/org/springframework/beans/BeanUtils.java" timestamp="1448422229406">
         <mark key="[" line="618" column="32" />
@@ -278,10 +278,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>c</text>
+        <text encoding="base64">dm9pZCA=</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text encoding="base64">dm9pZCA=</text>
       </register>
       <register name="/" type="4">
         <text>ignoreFields</text>
@@ -290,31 +290,31 @@
         <text encoding="base64">IExpc3Q8UHJvcGVydHlEZXNjcmlwdG9yPiBzcmNQZHMgPSBnZXRQcm9wZXJ0eURlc2NyaXB0b3Ioc3JjLmdldENsYXNzKCksIGlnbm9yZVByb3BlcnRpZXMpOwogICAgICAgIGlmIChudWxsID09IHNyY1BkcykgewogICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQ==</text>
       </register>
       <register name="1" type="4">
-        <text>c</text>
+        <text encoding="base64">dm9pZCA=</text>
       </register>
       <register name="2" type="4">
-        <text>r</text>
-      </register>
-      <register name="3" type="4">
-        <text>s</text>
-      </register>
-      <register name="4" type="4">
         <text>c</text>
       </register>
-      <register name="5" type="4">
+      <register name="3" type="4">
         <text>r</text>
       </register>
-      <register name="6" type="4">
+      <register name="4" type="4">
         <text>s</text>
       </register>
+      <register name="5" type="4">
+        <text>c</text>
+      </register>
+      <register name="6" type="4">
+        <text>r</text>
+      </register>
       <register name="7" type="4">
+        <text>s</text>
+      </register>
+      <register name="8" type="4">
         <text>src</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>
