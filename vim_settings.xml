@@ -66,12 +66,12 @@
         <mark key="." line="20" column="67" />
         <mark key="^" line="20" column="70" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityUtils.java" timestamp="1448427625524">
-        <mark key="'" line="67" column="23" />
-        <mark key="[" line="60" column="49" />
-        <mark key="]" line="60" column="53" />
-        <mark key="." line="60" column="53" />
-        <mark key="^" line="60" column="53" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityUtils.java" timestamp="1448428664946">
+        <mark key="'" line="72" column="45" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+        <mark key="^" line="85" column="3" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.2.RELEASE/spring-beans-4.2.2.RELEASE-sources.jar!/org/springframework/beans/BeanUtils.java" timestamp="1448422229406">
         <mark key="[" line="618" column="32" />
@@ -171,7 +171,6 @@
       <jump line="105" column="22" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityUtils.java" />
       <jump line="101" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityUtils.java" />
       <jump line="97" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityUtils.java" />
-      <jump line="72" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityUtils.java" />
       <jump line="68" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityUtils.java" />
       <jump line="29" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityUtils.java" />
       <jump line="23" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityUtils.java" />
@@ -225,43 +224,44 @@
       <jump line="217" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" />
       <jump line="228" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" />
       <jump line="245" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" />
+      <jump line="72" column="45" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityUtils.java" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text>!ClassUtils.isAssignable(writeMethod.getParameterTypes()[0], readMethod.getReturnType())</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBBc3NlcnQubm90TnVsbChlbnRpdHkpOwogICAgICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gcmVzdWx0ID0gTWFwcy5uZXdIYXNoTWFwKCk7CiAgICAgICAgTGlzdDxQcm9wZXJ0eURlc2NyaXB0b3I+IHBkcyA9IGdldFByb3BlcnR5RGVzY3JpcHRvcihlbnRpdHkuZ2V0Q2xhc3MoKSwgaWdub3JlRmllbGRzKTsKICAgICAgICBpZiAobnVsbCA9PSBwZHMpIHsKICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgfQogICAgICAgIGZvciAoUHJvcGVydHlEZXNjcmlwdG9yIHBkIDogcGRzKSB7CiAgICAgICAgICAgIGlmIChDb2xsZWN0aW9uVXRpbHMuY29udGFpbnNJbnN0YW5jZShlbnRpdHkuZ2V0UGtzKCksIHBkLmdldE5hbWUoKSkpIHsKICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICB9CiAgICAgICAgICAgIE9iamVjdCBmaWVsZFZhbHVlOwogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgZmllbGRWYWx1ZSA9IHBkLmdldFJlYWRNZXRob2QoKS5pbnZva2UoZW50aXR5KTsKICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIHRocm93IFRocm93YWJsZXMucHJvcGFnYXRlKGUpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGlmIChudWxsICE9IGZpZWxkVmFsdWUpIHsKICAgICAgICAgICAgICAgIHJlc3VsdC5wdXQocGQuZ2V0TmFtZSgpLCBmaWVsZFZhbHVlKTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICByZXR1cm4gMCA9PSByZXN1bHQuc2l6ZSgpID8gbnVsbCA6IHJlc3VsdDsK</text>
       </register>
-      <register name="1" type="4">
-        <text>l</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>l</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="2" type="4">
-        <text>l</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>u</text>
+        <text encoding="base64">cHVibGljIHN0YXRpYyBNYXA8U3RyaW5nLCBPYmplY3Q+IHRhYmxlRmllbGRzVG9QdXQoRW50aXR5IGVudGl0eSkgewogICAgICAgIHJldHVybiB0YWJsZUZpZWxkc1RvUHV0KGVudGl0eSwgbmV3IFN0cmluZ1tde30pOwogICAgfQ==</text>
       </register>
       <register name="4" type="4">
-        <text>n</text>
+        <text>s</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBFbnRpdHlVdGlscy5lcXUK</text>
+      <register name="5" type="4">
+        <text>d</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9uVXRpbHMuCg==</text>
+      <register name="6" type="4">
+        <text>l</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBBcnJheXMuYXNMaXN0KElHTk9SRV9GSUVMRF9USU1FU1RBTVApOwo=</text>
+      <register name="7" type="4">
+        <text>e</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IG51bGw=</text>
+        <text>i</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IG51bGw=</text>
+        <text>F</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>s</text>
       </register>
     </registers>
     <search>
