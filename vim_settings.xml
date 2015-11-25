@@ -28,7 +28,7 @@
         <mark key="." line="130" column="7" />
         <mark key="^" line="130" column="6" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/model/sys/OtsRowUpdate.java" timestamp="1448330798928">
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/model/sys/OtsRowUpdate.java" timestamp="1448417101430">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="18" column="2" />
       </file>
@@ -50,17 +50,18 @@
         <mark key="." line="1" column="139" />
         <mark key="^" line="1" column="142" />
       </file>
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/model/sys/OtsRowPut.java" timestamp="1448417017974" />
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/model/sys/RedisKey.java" timestamp="1448356495129">
         <mark key="[" line="20" column="67" />
         <mark key="]" line="20" column="67" />
         <mark key="." line="20" column="67" />
         <mark key="^" line="20" column="70" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityUtils.java" timestamp="1448416944045">
-        <mark key="[" line="51" column="22" />
-        <mark key="]" line="51" column="32" />
-        <mark key="." line="51" column="32" />
-        <mark key="^" line="51" column="32" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityUtils.java" timestamp="1448417496459">
+        <mark key="[" line="63" column="46" />
+        <mark key="]" line="63" column="52" />
+        <mark key="." line="63" column="52" />
+        <mark key="^" line="63" column="52" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.2.RELEASE/spring-beans-4.2.2.RELEASE-sources.jar!/org/springframework/beans/BeanUtils.java" timestamp="1448412876457">
         <mark key="[" line="357" column="18" />
@@ -107,7 +108,7 @@
         <mark key="." line="21" column="9" />
         <mark key="^" line="21" column="9" />
       </file>
-      <file name="/fragment.java" timestamp="1448354007674">
+      <file name="/fragment.java" timestamp="1448417195899">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -217,38 +218,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgTGlzdDxTdHJpbmc+IGNvbXBhcmUoRW50aXR5IGUxLCBFbnRpdHkgZTIpIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgTWV0aG9kIGdldFJlYWRNZXRob2QoRW50aXR5IG9iaiwgKQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">IHNyYw==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgTWV0aG9kIGdldFJlYWRNZXRob2QoRW50aXR5IG9iaiwgKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHNyYw==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzb3VyY2UuZ2V0Q2xhc3MoKS5pCg==</text>
+      <register name="2" type="4">
+        <text>;</text>
       </register>
       <register name="3" type="4">
-        <text>2</text>
+        <text>e</text>
       </register>
       <register name="4" type="4">
-        <text>e</text>
+        <text>r</text>
       </register>
       <register name="5" type="4">
-        <text>1</text>
+        <text>a</text>
       </register>
       <register name="6" type="4">
-        <text>e</text>
+        <text>p</text>
       </register>
       <register name="7" type="4">
-        <text>2</text>
+        <text>m</text>
       </register>
       <register name="8" type="4">
-        <text>e</text>
+        <text>o</text>
       </register>
       <register name="9" type="4">
-        <text>1</text>
+        <text>c</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text encoding="base64">IHNyYw==</text>
       </register>
     </registers>
     <search>
