@@ -16,6 +16,9 @@
         <mark key="." line="70" column="55" />
         <mark key="^" line="70" column="55" />
       </file>
+      <file name="/a.dummy" timestamp="1448441118306">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/HttpClientService.java" timestamp="1448268593552">
         <mark key="[" line="31" column="7" />
         <mark key="]" line="33" column="17" />
@@ -70,6 +73,12 @@
       <file name="/Dummy.txt" timestamp="1448357529870">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/PropertyCopyable.java" timestamp="1448441269506">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="15" column="3" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="D:/project/yanji/src/server/dicts/dev/com.huruomin.dict.sys.FileType.dict" timestamp="1448271420658">
         <mark key="[" line="1" column="138" />
         <mark key="]" line="1" column="139" />
@@ -94,12 +103,12 @@
         <mark key="." line="20" column="67" />
         <mark key="^" line="20" column="70" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityUtils.java" timestamp="1448440553673">
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityUtils.java" timestamp="1448441418184">
         <mark key="'" line="156" column="0" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="^" line="60" column="40" />
-        <mark key="." line="60" column="0" />
+        <mark key="[" line="66" column="32" />
+        <mark key="]" line="62" column="37" />
+        <mark key="^" line="62" column="37" />
+        <mark key="." line="62" column="37" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.2.RELEASE/spring-beans-4.2.2.RELEASE-sources.jar!/org/springframework/beans/BeanUtils.java" timestamp="1448422229406">
         <mark key="[" line="618" column="32" />
@@ -111,11 +120,9 @@
         <mark key="." line="170" column="161" />
         <mark key="^" line="170" column="161" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" timestamp="1448355630781">
-        <mark key="'" line="14" column="26" />
-        <mark key="[" line="577" column="0" />
-        <mark key="]" line="577" column="0" />
-        <mark key="." line="577" column="0" />
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.7/fastjson-1.2.7-sources.jar!/com/alibaba/fastjson/annotation/JSONField.java" timestamp="1448441233737">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="29" column="72" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" timestamp="1448269579234">
         <mark key="'" line="225" column="0" />
@@ -270,44 +277,44 @@
       <jump line="156" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityUtils.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZXN0LmdldENsYXNzKCkuZ2V0RGVjbGFyZWRGaWVsZCgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>c</text>
       </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>ignoreFields</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50KGEuZ2V0Q2xhc3MoKS5nZXRDb21wb25lbnRUeXBlKCkpOwogICAgICAgIGlmIChhLmdldENsYXNzKCkuZ2V0Q29tcG9uZW50VHlwZSgpLmVxdWFscyhCeXRlLmNsYXNzKSkgewo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">IExpc3Q8UHJvcGVydHlEZXNjcmlwdG9yPiBzcmNQZHMgPSBnZXRQcm9wZXJ0eURlc2NyaXB0b3Ioc3JjLmdldENsYXNzKCksIGlnbm9yZVByb3BlcnRpZXMpOwogICAgICAgIGlmIChudWxsID09IHNyY1BkcykgewogICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQ==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZXN0LmdldENsYXNzKCkuZ2V0RGVjbGFyZWRGaWVsZCgpCg==</text>
+      <register name="1" type="4">
+        <text>c</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>r</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>s</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIHN0YXRpYyBib29sZWFuIGlzVGFibGVQcmltYXJ5S2V5VHlwZVN1cHBvcnRlZChDbGFzczw/PiBwcmltYXJ5S2V5VHlwZSkgewogICAgICAgIEFzc2VydC5ub3ROdWxsKHByaW1hcnlLZXlUeXBlKTsKICAgICAgICByZXR1cm4gU3RyaW5nLmNsYXNzLmVxdWFscyhwcmltYXJ5S2V5VHlwZSkgfHwgTG9uZy5jbGFzcy5lcXVhbHMocHJpbWFyeUtleVR5cGUpOwogICAgfQo=</text>
+      <register name="4" type="4">
+        <text>c</text>
       </register>
       <register name="5" type="4">
-        <text>T</text>
+        <text>r</text>
       </register>
       <register name="6" type="4">
-        <text>d</text>
+        <text>s</text>
       </register>
       <register name="7" type="4">
-        <text>l</text>
+        <text>src</text>
       </register>
-      <register name="8" type="4">
-        <text>e</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>i</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>
