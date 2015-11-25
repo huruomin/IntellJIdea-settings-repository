@@ -70,7 +70,7 @@
         <mark key="]" line="9" column="41" />
         <mark key="." line="9" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1448357529870">
+      <file name="/Dummy.txt" timestamp="1448446067120">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/PropertyCopyable.java" timestamp="1448441269506">
@@ -103,12 +103,12 @@
         <mark key="." line="20" column="67" />
         <mark key="^" line="20" column="70" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityUtils.java" timestamp="1448445270653">
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityUtils.java" timestamp="1448445873637">
         <mark key="'" line="211" column="50" />
-        <mark key="[" line="72" column="16" />
-        <mark key="]" line="74" column="15" />
-        <mark key="^" line="74" column="15" />
-        <mark key="." line="74" column="15" />
+        <mark key="[" line="72" column="30" />
+        <mark key="]" line="72" column="30" />
+        <mark key="^" line="72" column="30" />
+        <mark key="." line="72" column="30" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.2.RELEASE/spring-beans-4.2.2.RELEASE-sources.jar!/org/springframework/beans/BeanUtils.java" timestamp="1448422229406">
         <mark key="[" line="618" column="32" />
@@ -281,11 +281,11 @@
       <jump line="211" column="50" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityUtils.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>Anno</text>
@@ -293,32 +293,32 @@
       <register name="0" type="4">
         <text encoding="base64">IExpc3Q8UHJvcGVydHlEZXNjcmlwdG9yPiBzcmNQZHMgPSBnZXRQcm9wZXJ0eURlc2NyaXB0b3Ioc3JjLmdldENsYXNzKCksIGlnbm9yZVByb3BlcnRpZXMpOwogICAgICAgIGlmIChudWxsID09IHNyY1BkcykgewogICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQ==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>)</text>
       </register>
       <register name="2" type="4">
-        <text>}</text>
+        <text>(</text>
       </register>
       <register name="3" type="4">
-        <text>A</text>
+        <text>s</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>s</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBBbm5vdGF0ZWRFbGVtZW50IGFlID0gbnVsbCA9PSB3cmkK</text>
+      <register name="5" type="4">
+        <text>a</text>
       </register>
       <register name="6" type="4">
-        <text>getAnnotation</text>
+        <text>l</text>
       </register>
       <register name="7" type="4">
-        <text>.</text>
+        <text>C</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IHByb3BlcnR5</text>
+        <text>m</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB3cml0ZU1ldGhvZC5nZXRBbm5vdGF0aW9uKFByb3BlcnR5Q29weWFibGUuY2xhc3MpOwo=</text>
+      <register name="9" type="4">
+        <text>o</text>
       </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>
