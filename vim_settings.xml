@@ -32,11 +32,11 @@
         <mark key="." line="19" column="67" />
         <mark key="^" line="19" column="67" />
       </file>
-      <file name="D:/project/yanji/src/server/yanji-weixin-message-handler/src/main/java/com/yanji/wmh/Application.java" timestamp="1448438032431">
+      <file name="D:/project/yanji/src/server/yanji-weixin-message-handler/src/main/java/com/yanji/wmh/Application.java" timestamp="1448443929598">
         <mark key="'" line="30" column="0" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+        <mark key="[" line="37" column="51" />
+        <mark key="]" line="37" column="52" />
+        <mark key="." line="37" column="52" />
       </file>
       <file name="C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/beans/PropertyDescriptor.java" timestamp="1448440505673">
         <mark key="'" line="102" column="0" />
@@ -103,12 +103,12 @@
         <mark key="." line="20" column="67" />
         <mark key="^" line="20" column="70" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityUtils.java" timestamp="1448442063235">
-        <mark key="'" line="156" column="0" />
-        <mark key="[" line="199" column="27" />
-        <mark key="]" line="197" column="89" />
-        <mark key="^" line="197" column="89" />
-        <mark key="." line="197" column="89" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityUtils.java" timestamp="1448445270653">
+        <mark key="'" line="211" column="50" />
+        <mark key="[" line="72" column="16" />
+        <mark key="]" line="74" column="15" />
+        <mark key="^" line="74" column="15" />
+        <mark key="." line="74" column="15" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.2.RELEASE/spring-beans-4.2.2.RELEASE-sources.jar!/org/springframework/beans/BeanUtils.java" timestamp="1448422229406">
         <mark key="[" line="618" column="32" />
@@ -150,6 +150,7 @@
       <file name="/Class.txt.ft" timestamp="1448354029954">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.2.2.RELEASE/spring-core-4.2.2.RELEASE-sources.jar!/org/springframework/core/annotation/AnnotationUtils.java" timestamp="1448444764998" />
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/SysService.java" timestamp="1448266688229">
         <mark key="'" line="243" column="68" />
         <mark key="[" line="243" column="0" />
@@ -169,14 +170,15 @@
         <mark key="." line="21" column="9" />
         <mark key="^" line="21" column="9" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.2.2.RELEASE/spring-core-4.2.2.RELEASE-sources.jar!/org/springframework/util/ReflectionUtils.java" timestamp="1448444603093">
+        <mark key="'" line="45" column="22" />
+      </file>
       <file name="/fragment.java" timestamp="1448417195899">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/util/LinkedList.java" timestamp="1448429356932" />
     </filemarks>
     <jumps>
-      <jump line="140" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" />
-      <jump line="144" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" />
       <jump line="142" column="23" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" />
       <jump line="148" column="9" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" />
       <jump line="55" column="22" filename="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.2.2.RELEASE/spring-core-4.2.2.RELEASE-sources.jar!/org/springframework/util/Assert.java" />
@@ -275,61 +277,68 @@
       <jump line="11" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/UniqueIndex.java" />
       <jump line="176" column="76" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityUtils.java" />
       <jump line="156" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityUtils.java" />
+      <jump line="45" column="22" filename="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.2.2.RELEASE/spring-core-4.2.2.RELEASE-sources.jar!/org/springframework/util/ReflectionUtils.java" />
+      <jump line="211" column="50" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityUtils.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">dm9pZCA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dm9pZCA=</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>ignoreFields</text>
+        <text>Anno</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IExpc3Q8UHJvcGVydHlEZXNjcmlwdG9yPiBzcmNQZHMgPSBnZXRQcm9wZXJ0eURlc2NyaXB0b3Ioc3JjLmdldENsYXNzKCksIGlnbm9yZVByb3BlcnRpZXMpOwogICAgICAgIGlmIChudWxsID09IHNyY1BkcykgewogICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQ==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">dm9pZCA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>c</text>
+        <text>}</text>
       </register>
       <register name="3" type="4">
-        <text>r</text>
+        <text>A</text>
       </register>
-      <register name="4" type="4">
-        <text>s</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>c</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBBbm5vdGF0ZWRFbGVtZW50IGFlID0gbnVsbCA9PSB3cmkK</text>
       </register>
       <register name="6" type="4">
-        <text>r</text>
+        <text>getAnnotation</text>
       </register>
       <register name="7" type="4">
-        <text>s</text>
+        <text>.</text>
       </register>
       <register name="8" type="4">
-        <text>src</text>
+        <text encoding="base64">IHByb3BlcnR5</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB3cml0ZU1ldGhvZC5nZXRBbm5vdGF0aW9uKFByb3BlcnR5Q29weWFibGUuY2xhc3MpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>
       </register>
     </registers>
     <search>
-      <last-pattern>ignoreFields</last-pattern>
+      <last-search>Anno</last-search>
+      <last-offset />
+      <last-pattern>Anno</last-pattern>
       <last-replace>ignoreProperties</last-replace>
       <last-substitute>ignoreFields</last-substitute>
-      <last-dir>0</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>ignoreFields</entry>
+        <entry>PropertyDes</entry>
+        <entry>anno</entry>
+        <entry>Anno</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvL2lzRXF1YWwgPSBpc0VxdWFsICYmIC9n</entry>
