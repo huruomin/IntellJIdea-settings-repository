@@ -35,7 +35,7 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/beans/PropertyDescriptor.java" timestamp="1448421512164">
+      <file name="C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/beans/PropertyDescriptor.java" timestamp="1448440505673">
         <mark key="'" line="102" column="0" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/dict/sys/SysParam.java" timestamp="1448330338213">
@@ -94,12 +94,12 @@
         <mark key="." line="20" column="67" />
         <mark key="^" line="20" column="70" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityUtils.java" timestamp="1448438342253">
-        <mark key="'" line="176" column="76" />
-        <mark key="[" line="160" column="70" />
-        <mark key="]" line="160" column="78" />
-        <mark key="^" line="160" column="78" />
-        <mark key="." line="160" column="78" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityUtils.java" timestamp="1448440553673">
+        <mark key="'" line="156" column="0" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="^" line="60" column="40" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.2.RELEASE/spring-beans-4.2.2.RELEASE-sources.jar!/org/springframework/beans/BeanUtils.java" timestamp="1448422229406">
         <mark key="[" line="618" column="32" />
@@ -150,6 +150,7 @@
         <mark key="." line="243" column="0" />
         <mark key="^" line="243" column="128" />
       </file>
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/PropertyMapping.java" timestamp="1448439745375" />
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/controller/WeixinController.java" timestamp="1448427182296">
         <mark key="[" line="187" column="0" />
         <mark key="]" line="187" column="0" />
@@ -167,7 +168,6 @@
       <file name="C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/util/LinkedList.java" timestamp="1448429356932" />
     </filemarks>
     <jumps>
-      <jump line="136" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" />
       <jump line="140" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" />
       <jump line="144" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" />
       <jump line="142" column="23" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" />
@@ -267,13 +267,14 @@
       <jump line="18" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/UniqueIndex.java" />
       <jump line="11" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/UniqueIndex.java" />
       <jump line="176" column="76" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityUtils.java" />
+      <jump line="156" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityUtils.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkZXN0LmdldENsYXNzKCkuZ2V0RGVjbGFyZWRGaWVsZCgpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>T</text>
       </register>
       <register name="/" type="4">
         <text>ignoreFields</text>
@@ -281,20 +282,20 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50KGEuZ2V0Q2xhc3MoKS5nZXRDb21wb25lbnRUeXBlKCkpOwogICAgICAgIGlmIChhLmdldENsYXNzKCkuZ2V0Q29tcG9uZW50VHlwZSgpLmVxdWFscyhCeXRlLmNsYXNzKSkgewo=</text>
       </register>
-      <register name="1" type="4">
-        <text>d</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBkZXN0LmdldENsYXNzKCkuZ2V0RGVjbGFyZWRGaWVsZCgpCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>l</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>e</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>i</text>
+      <register name="4" type="2">
+        <text encoding="base64">CiAgICBwcml2YXRlIHN0YXRpYyBib29sZWFuIGlzVGFibGVQcmltYXJ5S2V5VHlwZVN1cHBvcnRlZChDbGFzczw/PiBwcmltYXJ5S2V5VHlwZSkgewogICAgICAgIEFzc2VydC5ub3ROdWxsKHByaW1hcnlLZXlUeXBlKTsKICAgICAgICByZXR1cm4gU3RyaW5nLmNsYXNzLmVxdWFscyhwcmltYXJ5S2V5VHlwZSkgfHwgTG9uZy5jbGFzcy5lcXVhbHMocHJpbWFyeUtleVR5cGUpOwogICAgfQo=</text>
       </register>
       <register name="5" type="4">
-        <text>F</text>
+        <text>T</text>
       </register>
       <register name="6" type="4">
         <text>d</text>
