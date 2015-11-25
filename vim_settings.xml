@@ -94,12 +94,12 @@
         <mark key="." line="20" column="67" />
         <mark key="^" line="20" column="70" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityUtils.java" timestamp="1448436928327">
-        <mark key="'" line="57" column="29" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="^" line="55" column="45" />
-        <mark key="." line="57" column="0" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityUtils.java" timestamp="1448438342253">
+        <mark key="'" line="176" column="76" />
+        <mark key="[" line="160" column="70" />
+        <mark key="]" line="160" column="78" />
+        <mark key="^" line="160" column="78" />
+        <mark key="." line="160" column="78" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.2.RELEASE/spring-beans-4.2.2.RELEASE-sources.jar!/org/springframework/beans/BeanUtils.java" timestamp="1448422229406">
         <mark key="[" line="618" column="32" />
@@ -167,7 +167,6 @@
       <file name="C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/util/LinkedList.java" timestamp="1448429356932" />
     </filemarks>
     <jumps>
-      <jump line="132" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" />
       <jump line="136" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" />
       <jump line="140" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" />
       <jump line="144" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" />
@@ -267,53 +266,66 @@
       <jump line="23" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/UniqueIndex.java" />
       <jump line="18" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/UniqueIndex.java" />
       <jump line="11" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/UniqueIndex.java" />
+      <jump line="176" column="76" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityUtils.java" />
     </jumps>
     <registers>
+      <register name="&quot;" type="4">
+        <text>d</text>
+      </register>
+      <register name="-" type="4">
+        <text>d</text>
+      </register>
+      <register name="/" type="4">
+        <text>ignoreFields</text>
+      </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50KGEuZ2V0Q2xhc3MoKS5nZXRDb21wb25lbnRUeXBlKCkpOwogICAgICAgIGlmIChhLmdldENsYXNzKCkuZ2V0Q29tcG9uZW50VHlwZSgpLmVxdWFscyhCeXRlLmNsYXNzKSkgewo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>d</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGEuZ2V0Q2xhc3MoKS5nZXRDb21wb25lbnRUeXBlKCkuZXF1YWxzKEJ5dGUuY2xhc3MpKSB7Cg==</text>
+      <register name="2" type="4">
+        <text>l</text>
       </register>
       <register name="3" type="4">
-        <text>)</text>
+        <text>e</text>
       </register>
       <register name="4" type="4">
-        <text>(</text>
-      </register>
-      <register name="5" type="4">
-        <text>t</text>
-      </register>
-      <register name="6" type="4">
-        <text>s</text>
-      </register>
-      <register name="7" type="4">
         <text>i</text>
       </register>
+      <register name="5" type="4">
+        <text>F</text>
+      </register>
+      <register name="6" type="4">
+        <text>d</text>
+      </register>
+      <register name="7" type="4">
+        <text>l</text>
+      </register>
       <register name="8" type="4">
-        <text>L</text>
+        <text>e</text>
       </register>
       <register name="9" type="4">
-        <text>s</text>
+        <text>i</text>
       </register>
-      <register name="-" type="4">
-        <text>)</text>
+      <register name=":" type="4">
+        <text>%s/ignoreFields/ignoreProperties/g</text>
       </register>
     </registers>
     <search>
+      <last-pattern>ignoreFields</last-pattern>
+      <last-replace>ignoreProperties</last-replace>
+      <last-substitute>ignoreFields</last-substitute>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>ignoreFields</entry>
+      </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvL2lzRXF1YWwgPSBpc0VxdWFsICYmIC9n</entry>
+        <entry>%s/ignoreFields/ignoreProperties/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
