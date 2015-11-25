@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" timestamp="1448270578783">
-        <mark key="'" line="108" column="0" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
-      </file>
       <file name="D:/project/yanji/src/server/dicts/dev/com.huruomin.dict.sys.SysParam.dict" timestamp="1448347713332">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="70" column="54" />
@@ -62,9 +56,10 @@
         <mark key="." line="20" column="67" />
         <mark key="^" line="20" column="70" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityUtils.java" timestamp="1448413906153">
-        <mark key="'" line="30" column="17" />
-        <mark key="[" line="39" column="98" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityUtils.java" timestamp="1448414674957">
+        <mark key="[" line="43" column="60" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.2.RELEASE/spring-beans-4.2.2.RELEASE-sources.jar!/org/springframework/beans/BeanUtils.java" timestamp="1448412876457">
         <mark key="[" line="357" column="18" />
@@ -89,12 +84,7 @@
         <mark key="^" line="236" column="60" />
         <mark key="." line="236" column="60" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/dict/sys/FileType.java" timestamp="1448263612890">
-        <mark key="'" line="226" column="0" />
-        <mark key="[" line="45" column="14" />
-        <mark key="]" line="45" column="14" />
-        <mark key="." line="45" column="14" />
-      </file>
+      <file name="C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/beans/FeatureDescriptor.java" timestamp="1448414620945" />
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1448354028372">
         <mark key="[" line="0" column="0" />
       </file>
@@ -121,9 +111,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" />
-      <jump line="70" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" />
-      <jump line="78" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" />
       <jump line="107" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" />
       <jump line="129" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" />
       <jump line="142" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" />
@@ -221,43 +208,46 @@
       <jump line="187" column="21" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" />
       <jump line="26" column="32" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityUtils.java" />
       <jump line="29" column="17" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityUtils.java" />
+      <jump line="27" column="18" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityUtils.java" />
+      <jump line="39" column="37" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityUtils.java" />
+      <jump line="44" column="23" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityUtils.java" />
     </jumps>
     <registers>
       <register name="0" type="4">
         <text>PropertyDescriptor[]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHBkLmdldE5hbWUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBkLmdldFZhbHVlKCkK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHBkLmdldE5hbWUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBkLmdldFZhbHVlKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Jg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Jg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBvc3NTZXJ2aWNlLnB1dEZpbGVGcm9tVXJsKGZpbGVUeXBlLCAiaHVydW9taW4iLCAiaHR0cDovL3d4LnFsb2dvLmNuL21tb3Blbi9nM01vblVadE5Ia2RtemljSWxpYng2aWFGcUFjNTZ2eExTVWZwYjZuNVdLU1lWWTBDaFFLa2lhSlNnUTFkWnVUT2d2TExyaEpiRVJRUTRlTXN2ODRlYXZIaWFpY2VxeGliSnhDZkhlLzAiKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlVHlwZSBmaWxlVHlwZSA9IHN5c1NlcnZpY2UuZ2V0RGljdChGaWxlVHlwZS5jbGFzcywgInVzZXItYXZhdGFyIik7Cg==</text>
-      </register>
-      <register name="7" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IGZhbHNl</text>
-      </register>
-      <register name="9" type="4">
+      <register name="5" type="4">
         <text>)</text>
       </register>
+      <register name="6" type="4">
+        <text>(</text>
+      </register>
+      <register name="7" type="4">
+        <text>s</text>
+      </register>
+      <register name="8" type="4">
+        <text>s</text>
+      </register>
+      <register name="9" type="4">
+        <text>a</text>
+      </register>
       <register name="-" type="4">
-        <text encoding="base64">Jg==</text>
+        <text>)</text>
       </register>
     </registers>
     <search>
