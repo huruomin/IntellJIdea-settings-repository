@@ -103,12 +103,12 @@
         <mark key="." line="20" column="67" />
         <mark key="^" line="20" column="70" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityUtils.java" timestamp="1448504596164">
-        <mark key="'" line="210" column="50" />
-        <mark key="[" line="279" column="49" />
-        <mark key="]" line="280" column="15" />
-        <mark key="^" line="280" column="15" />
-        <mark key="." line="280" column="15" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityUtils.java" timestamp="1448506091181">
+        <mark key="'" line="59" column="0" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+        <mark key="^" line="54" column="22" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.2.RELEASE/spring-beans-4.2.2.RELEASE-sources.jar!/org/springframework/beans/BeanUtils.java" timestamp="1448422229406">
         <mark key="[" line="618" column="32" />
@@ -123,6 +123,11 @@
       <file name="$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.7/fastjson-1.2.7-sources.jar!/com/alibaba/fastjson/annotation/JSONField.java" timestamp="1448441233737">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="29" column="72" />
+      </file>
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" timestamp="1448505413740">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" timestamp="1448269579234">
         <mark key="'" line="225" column="0" />
@@ -156,10 +161,11 @@
         <mark key="." line="243" column="0" />
         <mark key="^" line="243" column="128" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/controller/WeixinController.java" timestamp="1448427182296">
-        <mark key="[" line="187" column="0" />
-        <mark key="]" line="187" column="0" />
-        <mark key="." line="187" column="0" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/controller/WeixinController.java" timestamp="1448505864703">
+        <mark key="[" line="184" column="8" />
+        <mark key="]" line="184" column="44" />
+        <mark key="." line="184" column="44" />
+        <mark key="^" line="184" column="44" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/UserHist.java" timestamp="1448355774399">
         <mark key="[" line="21" column="7" />
@@ -175,7 +181,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="23" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" />
       <jump line="148" column="9" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" />
       <jump line="55" column="22" filename="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.2.2.RELEASE/spring-core-4.2.2.RELEASE-sources.jar!/org/springframework/util/Assert.java" />
       <jump line="201" column="9" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" />
@@ -275,46 +280,47 @@
       <jump line="156" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityUtils.java" />
       <jump line="45" column="22" filename="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.2.2.RELEASE/spring-core-4.2.2.RELEASE-sources.jar!/org/springframework/util/ReflectionUtils.java" />
       <jump line="211" column="50" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityUtils.java" />
+      <jump line="43" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityUtils.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogv8vCoda4tqi1xMq1zOUKICAgICAqIEBwYXJhbSBlbnRpdHkg1ri2qLXEyrXM5QogICAgICogICAgICAgICAgICAgICBACiAgICAgKiBAcGFyYW0gPFQ+INa4tqi1xMq1zOXA4NDNCiAgICAgKiBAcmV0dXJuIL/LwqGz9sC0tcTQwsq1zOUKICAgICAqLwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>src</text>
       </register>
       <register name="/" type="4">
         <text>Anno</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IExpc3Q8UHJvcGVydHlEZXNjcmlwdG9yPiBzcmNQZHMgPSBnZXRQcm9wZXJ0eURlc2NyaXB0b3Ioc3JjLmdldENsYXNzKCksIGlnbm9yZVByb3BlcnRpZXMpOwogICAgICAgIGlmIChudWxsID09IHNyY1BkcykgewogICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQ==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogv8vCoda4tqi1xMq1zOUKICAgICAqIEBwYXJhbSBlbnRpdHkg1ri2qLXEyrXM5QogICAgICogQHBhcmFtIDxUPiDWuLaotcTKtczlwODQzQogICAgICogQHJldHVybiC/y8Khs/bAtLXE0MLKtczlCiAgICAgKi8K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogv8vCoda4tqi1xMq1zOUKICAgICAqIEBwYXJhbSBlbnRpdHkg1ri2qLXEyrXM5QogICAgICogICAgICAgICAgICAgICBACiAgICAgKiBAcGFyYW0gPFQ+INa4tqi1xMq1zOXA4NDNCiAgICAgKiBAcmV0dXJuIL/LwqGz9sC0tcTQwsq1zOUKICAgICAqLwo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBVc2VyIHVzZXIyID0gbmV3IFVzZXIoKTsK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB1c2VyLnNldEtleSgiYmJiIik7Cg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>src</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEBKU09ORmllbGQoc2VyaWFsaXplID0gZmFsc2UsIGRlc2VyaWFsaXplID0gZmFsc2UpCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>则</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIEBKU09ORmllbGQoc2VyaWFsaXplID0gZmFsc2UsIGRlc2VyaWFsaXplID0gZmFsc2UpCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>则</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIEBKU09ORmllbGQoc2VyaWFsaXplID0gZmFsc2UsIGRlc2VyaWFsaXplID0gZmFsc2UpCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>该</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIEBKU09ORmllbGQoc2VyaWFsaXplID0gZmFsc2UsIGRlc2VyaWFsaXplID0gZmFsc2UpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>
