@@ -81,11 +81,11 @@
         <mark key="^" line="33" column="26" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" timestamp="1448530866036">
-        <mark key="[" line="117" column="27" />
-        <mark key="]" line="117" column="35" />
-        <mark key="." line="117" column="35" />
-        <mark key="^" line="117" column="35" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" timestamp="1448531902243">
+        <mark key="[" line="211" column="19" />
+        <mark key="]" line="211" column="19" />
+        <mark key="." line="211" column="19" />
+        <mark key="^" line="200" column="19" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" timestamp="1448269579234">
         <mark key="'" line="225" column="0" />
@@ -168,7 +168,7 @@
       <file name="/HTML File.txt.ft" timestamp="1448519805290">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1448519296170">
+      <file name="/Dummy.txt" timestamp="1448531905486">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/PropertyCopyable.java" timestamp="1448441269506">
@@ -310,10 +310,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>全</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>全</text>
       </register>
       <register name="/" type="4">
         <text>Anno</text>
@@ -322,31 +322,31 @@
         <text encoding="base64">ICAgICAgICBzZXRLZXkodXNlcmlkICsgS0VZX1NFUEFSQVRPUiArIGhpc3RUaW1lc3RhbXApOwogICAgICAgIHJldHVybiBnZXRLZXkoKTsK</text>
       </register>
       <register name="1" type="4">
-        <text>)</text>
+        <text>全</text>
       </register>
       <register name="2" type="4">
-        <text>g</text>
+        <text>完</text>
       </register>
       <register name="3" type="4">
-        <text>n</text>
+        <text>法</text>
       </register>
       <register name="4" type="4">
-        <text>o</text>
+        <text>方</text>
       </register>
       <register name="5" type="4">
-        <text>L</text>
+        <text>此</text>
       </register>
       <register name="6" type="4">
-        <text>m</text>
+        <text>作</text>
       </register>
       <register name="7" type="4">
-        <text>o</text>
+        <text>操</text>
       </register>
       <register name="8" type="4">
-        <text>r</text>
+        <text>s</text>
       </register>
       <register name="9" type="4">
-        <text>F</text>
+        <text>t</text>
       </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>
