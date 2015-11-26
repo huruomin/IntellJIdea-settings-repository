@@ -103,12 +103,12 @@
         <mark key="." line="20" column="67" />
         <mark key="^" line="20" column="70" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityUtils.java" timestamp="1448506091181">
-        <mark key="'" line="59" column="0" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="54" column="22" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityUtils.java" timestamp="1448507965469">
+        <mark key="'" line="61" column="0" />
+        <mark key="[" line="26" column="34" />
+        <mark key="]" line="28" column="2" />
+        <mark key="." line="28" column="2" />
+        <mark key="^" line="28" column="2" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.2.RELEASE/spring-beans-4.2.2.RELEASE-sources.jar!/org/springframework/beans/BeanUtils.java" timestamp="1448422229406">
         <mark key="[" line="618" column="32" />
@@ -284,43 +284,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogv8vCoda4tqi1xMq1zOUKICAgICAqIEBwYXJhbSBlbnRpdHkg1ri2qLXEyrXM5QogICAgICogICAgICAgICAgICAgICBACiAgICAgKiBAcGFyYW0gPFQ+INa4tqi1xMq1zOXA4NDNCiAgICAgKiBAcmV0dXJuIL/LwqGz9sC0tcTQwsq1zOUKICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAqIDGhosr00NTA4NDNzqrS1M/CwODQzdau0rujulN0cmluZywgTG9uZywgQm9vbGVhbiwgRG91YmxlLCBieXRlW12juzxicj4KICAgICAqIDKhosr00NS+37G4uavT0LXEZ2V0dGVyL3NldHRlcre9t6ijuzxicj4KICAgICAqIDxicj4K</text>
       </register>
       <register name="-" type="4">
-        <text>src</text>
+        <text>通</text>
       </register>
       <register name="/" type="4">
         <text>Anno</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogv8vCoda4tqi1xMq1zOUKICAgICAqIEBwYXJhbSBlbnRpdHkg1ri2qLXEyrXM5QogICAgICogQHBhcmFtIDxUPiDWuLaotcTKtczlwODQzQogICAgICogQHJldHVybiC/y8Khs/bAtLXE0MLKtczlCiAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAqIDGhosr00NTA4NDNzqrS1M/CwODQzdau0rujulN0cmluZywgTG9uZywgQm9vbGVhbiwgRG91YmxlLCBieXRlW12juzxicj4KICAgICAqIDKhosr00NS+37G4uavT0LXEZ2V0dGVyL3NldHRlcre9t6ijuzxicj4KICAgICAqIDxicj4K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogv8vCoda4tqi1xMq1zOUKICAgICAqIEBwYXJhbSBlbnRpdHkg1ri2qLXEyrXM5QogICAgICogICAgICAgICAgICAgICBACiAgICAgKiBAcGFyYW0gPFQ+INa4tqi1xMq1zOXA4NDNCiAgICAgKiBAcmV0dXJuIL/LwqGz9sC0tcTQwsq1zOUKICAgICAqLwo=</text>
+      <register name="1" type="4">
+        <text>通</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIAo=</text>
+      <register name="2" type="4">
+        <text>普</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyIHVzZXIyID0gbmV3IFVzZXIoKTsK</text>
+      <register name="3" type="4">
+        <text>名</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyLnNldEtleSgiYmJiIik7Cg==</text>
+      <register name="4" type="4">
+        <text>制</text>
       </register>
       <register name="5" type="4">
-        <text>src</text>
+        <text>复</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIEBKU09ORmllbGQoc2VyaWFsaXplID0gZmFsc2UsIGRlc2VyaWFsaXplID0gZmFsc2UpCg==</text>
+      <register name="6" type="4">
+        <text>不</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIEBKU09ORmllbGQoc2VyaWFsaXplID0gZmFsc2UsIGRlc2VyaWFsaXplID0gZmFsc2UpCg==</text>
+      <register name="7" type="4">
+        <text>行</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIEBKU09ORmllbGQoc2VyaWFsaXplID0gZmFsc2UsIGRlc2VyaWFsaXplID0gZmFsc2UpCg==</text>
+      <register name="8" type="4">
+        <text>进</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIEBKU09ORmllbGQoc2VyaWFsaXplID0gZmFsc2UsIGRlc2VyaWFsaXplID0gZmFsc2UpCg==</text>
+      <register name="9" type="4">
+        <text>名</text>
       </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>
