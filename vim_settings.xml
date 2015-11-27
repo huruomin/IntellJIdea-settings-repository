@@ -97,11 +97,11 @@
         <mark key="^" line="33" column="26" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" timestamp="1448615971986">
-        <mark key="[" line="222" column="8" />
-        <mark key="]" line="235" column="16" />
-        <mark key="." line="222" column="8" />
-        <mark key="^" line="222" column="7" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" timestamp="1448616334047">
+        <mark key="[" line="245" column="0" />
+        <mark key="]" line="245" column="0" />
+        <mark key="." line="245" column="0" />
+        <mark key="^" line="243" column="25" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" timestamp="1448589894755" />
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" timestamp="1448269579234">
@@ -351,24 +351,11 @@
       <jump line="114" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/model/sys/OtsRowPut.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>String openid = wxOpenid.trim();
-
-        User user = getUserByWxOpenid(wxOpenid);
-        if (null == user) {
-            String seq = sysService.getNextHashVal(Sequence.USER_ID);
-            user = new User();
-            user.setTimestampFromLong(timestamp);
-            user.setKey(seq);
-            user.setUserid(seq);
-            user.setWxOpenid(openid);
-            user.wxUnsubscribe(timestamp);
-            UniqueIndex index = user.addUniqueIndex(User.INDEX_WX_OPEN_ID, openid);
-            newUser(user, index);
-        } else {</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHN5bmNFdmVudCA9PSBldmVudF9zdWJzY3JpYmUpIHsKICAgICAgICAgICAgICAgIHVzZXIud3hTdWJzY3JpYmUodGltZXN0YW1wKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHVzZXI=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
@@ -389,32 +376,32 @@
             newUser(user, index);
         } else {</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IHVzZXI=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHN5bmNFdmVudCA9PSBldmVudF9zdWJzY3JpYmUpIHsKICAgICAgICAgICAgICAgIHVzZXIud3hTdWJzY3JpYmUodGltZXN0YW1wKTsKICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">VXNlciA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>i</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="4" type="4">
-        <text>近</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>最</text>
+        <text>,</text>
       </register>
       <register name="6" type="4">
-        <text>userid</text>
+        <text>a</text>
       </register>
       <register name="7" type="4">
-        <text>d</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>I</text>
+        <text>g</text>
       </register>
       <register name="9" type="4">
-        <text>识</text>
+        <text>n</text>
       </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>
