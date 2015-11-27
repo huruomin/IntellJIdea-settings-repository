@@ -117,10 +117,10 @@
         <mark key="^" line="184" column="44" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/UserHist.java" timestamp="1448529249269">
-        <mark key="[" line="27" column="14" />
-        <mark key="]" line="27" column="22" />
-        <mark key="^" line="27" column="22" />
-        <mark key="." line="27" column="22" />
+        <mark key="[" line="25" column="14" />
+        <mark key="]" line="25" column="22" />
+        <mark key="^" line="25" column="22" />
+        <mark key="." line="25" column="22" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/model/sys/OtsUseColumns.java" timestamp="1448526942050">
         <mark key="[" line="45" column="0" />
@@ -177,12 +177,11 @@
         <mark key="." line="20" column="67" />
         <mark key="^" line="20" column="70" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityUtils.java" timestamp="1448530458619">
-        <mark key="'" line="365" column="0" />
-        <mark key="[" line="271" column="42" />
-        <mark key="]" line="271" column="69" />
-        <mark key="^" line="271" column="69" />
-        <mark key="." line="271" column="69" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityUtils.java" timestamp="1448589783788">
+        <mark key="'" line="367" column="0" />
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="0" />
+        <mark key="." line="119" column="0" />
       </file>
       <file name="/I18nized Expression.txt.ft" timestamp="1448519605993">
         <mark key="[" line="0" column="0" />
@@ -303,53 +302,53 @@
       <jump line="114" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/model/sys/OtsRowPut.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>全</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdHJ5IHsK</text>
       </register>
       <register name="-" type="4">
-        <text>全</text>
+        <text>writeMethod</text>
       </register>
       <register name="/" type="4">
-        <text>Anno</text>
+        <text>TODO</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZXRLZXkodXNlcmlkICsgS0VZX1NFUEFSQVRPUiArIGhpc3RUaW1lc3RhbXApOwogICAgICAgIHJldHVybiBnZXRLZXkoKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>全</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdHJ5IHsK</text>
       </register>
-      <register name="2" type="4">
-        <text>完</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsK</text>
       </register>
-      <register name="3" type="4">
-        <text>法</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="4" type="4">
-        <text>方</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>此</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRocm93IFRocm93YWJsZXMucHJvcGFnYXRlKGUpOwo=</text>
       </register>
       <register name="6" type="4">
-        <text>作</text>
+        <text>writeMethod</text>
       </register>
       <register name="7" type="4">
-        <text>操</text>
+        <text>)</text>
       </register>
       <register name="8" type="4">
-        <text>s</text>
+        <text>(</text>
       </register>
       <register name="9" type="4">
-        <text>t</text>
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>
       </register>
     </registers>
     <search>
-      <last-search>Anno</last-search>
+      <last-search>TODO</last-search>
       <last-offset />
-      <last-pattern>Anno</last-pattern>
+      <last-pattern>TODO</last-pattern>
       <last-replace>ignoreProperties</last-replace>
       <last-substitute>ignoreFields</last-substitute>
       <last-dir>1</last-dir>
@@ -361,6 +360,7 @@
         <entry>PropertyDes</entry>
         <entry>anno</entry>
         <entry>Anno</entry>
+        <entry>TODO</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvL2lzRXF1YWwgPSBpc0VxdWFsICYmIC9n</entry>
