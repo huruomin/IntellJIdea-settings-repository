@@ -97,11 +97,11 @@
         <mark key="^" line="33" column="26" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" timestamp="1448613645024">
-        <mark key="[" line="188" column="28" />
-        <mark key="]" line="188" column="28" />
-        <mark key="." line="188" column="28" />
-        <mark key="^" line="191" column="52" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" timestamp="1448615971986">
+        <mark key="[" line="222" column="8" />
+        <mark key="]" line="235" column="16" />
+        <mark key="." line="222" column="8" />
+        <mark key="^" line="222" column="7" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" timestamp="1448589894755" />
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" timestamp="1448269579234">
@@ -352,43 +352,69 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>近</text>
+        <text>String openid = wxOpenid.trim();
+
+        User user = getUserByWxOpenid(wxOpenid);
+        if (null == user) {
+            String seq = sysService.getNextHashVal(Sequence.USER_ID);
+            user = new User();
+            user.setTimestampFromLong(timestamp);
+            user.setKey(seq);
+            user.setUserid(seq);
+            user.setWxOpenid(openid);
+            user.wxUnsubscribe(timestamp);
+            UniqueIndex index = user.addUniqueIndex(User.INDEX_WX_OPEN_ID, openid);
+            newUser(user, index);
+        } else {</text>
       </register>
       <register name="-" type="4">
-        <text>近</text>
+        <text encoding="base64">IHVzZXI=</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyIHVzZXIgPSBnZXRVc2VyQnlXeE9wZW5pZCh3eE9wZW5pZCk7Cg==</text>
+      <register name="0" type="4">
+        <text>String openid = wxOpenid.trim();
+
+        User user = getUserByWxOpenid(wxOpenid);
+        if (null == user) {
+            String seq = sysService.getNextHashVal(Sequence.USER_ID);
+            user = new User();
+            user.setTimestampFromLong(timestamp);
+            user.setKey(seq);
+            user.setUserid(seq);
+            user.setWxOpenid(openid);
+            user.wxUnsubscribe(timestamp);
+            UniqueIndex index = user.addUniqueIndex(User.INDEX_WX_OPEN_ID, openid);
+            newUser(user, index);
+        } else {</text>
       </register>
       <register name="1" type="4">
-        <text>近</text>
+        <text encoding="base64">IHVzZXI=</text>
       </register>
       <register name="2" type="4">
-        <text>最</text>
+        <text encoding="base64">VXNlciA=</text>
       </register>
       <register name="3" type="4">
-        <text>userid</text>
+        <text>i</text>
       </register>
       <register name="4" type="4">
-        <text>d</text>
+        <text>近</text>
       </register>
       <register name="5" type="4">
-        <text>I</text>
+        <text>最</text>
       </register>
       <register name="6" type="4">
-        <text>识</text>
+        <text>userid</text>
       </register>
       <register name="7" type="4">
-        <text>标</text>
+        <text>d</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">dXNlcmlkICAgIA==</text>
+        <text>I</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IHVzZXJpZA==</text>
+        <text>识</text>
       </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>
