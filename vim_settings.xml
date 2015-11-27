@@ -3,8 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/File Header.txt.ft" timestamp="1448519832922">
-        <mark key="[" line="0" column="0" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/weixin/SimpleAutoReplyStep.java" timestamp="1448592099104">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="25" column="31" />
       </file>
       <file name="D:/project/yanji/src/server/dicts/dev/com.huruomin.dict.sys.SysParam.dict" timestamp="1448347713332">
         <mark key="'" line="6" column="0" />
@@ -13,9 +14,6 @@
         <mark key="." line="70" column="55" />
         <mark key="^" line="70" column="55" />
       </file>
-      <file name="/a.dummy" timestamp="1448526449373">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/UniqueIndex.java" timestamp="1448437964007">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="19" column="67" />
@@ -23,23 +21,29 @@
         <mark key="." line="19" column="67" />
         <mark key="^" line="19" column="67" />
       </file>
+      <file name="D:/project/yanji/src/server/yanji-weixin-message-handler/src/main/java/com/yanji/wmh/Application.java" timestamp="1448590912733">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/model/sys/OtsRowDelete.java" timestamp="1448526646657">
         <mark key="[" line="30" column="7" />
         <mark key="]" line="31" column="18" />
         <mark key="." line="31" column="18" />
         <mark key="^" line="31" column="18" />
       </file>
-      <file name="/Interface.txt.ft" timestamp="1448519585877">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Groovy JUnit SetUp Method.txt.ft" timestamp="1448519604761">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/model/sys/OtsRowGet.java" timestamp="1448526689157">
         <mark key="[" line="49" column="7" />
         <mark key="]" line="50" column="18" />
         <mark key="." line="50" column="18" />
         <mark key="^" line="50" column="18" />
+      </file>
+      <file name="D:/project/yanji/src/server/yanji-weixin-message-handler/src/main/resources/application-context.xml" timestamp="1448591809566">
+        <mark key="[" line="40" column="49" />
+        <mark key="]" line="40" column="61" />
+        <mark key="^" line="40" column="61" />
+        <mark key="." line="40" column="61" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/model/sys/OtsUsePrimaryKeys.java" timestamp="1448526562777">
         <mark key="[" line="25" column="19" />
@@ -52,12 +56,6 @@
         <mark key="]" line="28" column="0" />
         <mark key="^" line="89" column="18" />
         <mark key="." line="28" column="0" />
-      </file>
-      <file name="/Unnamed.txt.ft" timestamp="1448519710754">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/ActionScript File Header.txt.ft" timestamp="1448519832447">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/project/yanji/src/server/dicts/dev/com.huruomin.dict.sys.FileType.dict" timestamp="1448271420658">
         <mark key="[" line="1" column="138" />
@@ -81,6 +79,13 @@
         <mark key="^" line="33" column="26" />
         <mark key="." line="61" column="0" />
       </file>
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" timestamp="1448593063923">
+        <mark key="[" line="68" column="15" />
+        <mark key="]" line="68" column="41" />
+        <mark key="." line="68" column="41" />
+        <mark key="^" line="68" column="41" />
+      </file>
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" timestamp="1448589894755" />
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" timestamp="1448269579234">
         <mark key="'" line="225" column="0" />
         <mark key="[" line="236" column="0" />
@@ -94,8 +99,11 @@
         <mark key="." line="99" column="0" />
         <mark key="^" line="35" column="3" />
       </file>
-      <file name="/Arquillian Deployment Method.txt.ft" timestamp="1448519603490">
-        <mark key="[" line="0" column="0" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/dict/sys/FileType.java" timestamp="1448263612890">
+        <mark key="'" line="226" column="0" />
+        <mark key="[" line="45" column="14" />
+        <mark key="]" line="45" column="14" />
+        <mark key="." line="45" column="14" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/RedisService.java" timestamp="1448337103833">
         <mark key="[" line="326" column="18" />
@@ -110,11 +118,17 @@
         <mark key="." line="243" column="0" />
         <mark key="^" line="243" column="128" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/controller/WeixinController.java" timestamp="1448505864703">
-        <mark key="[" line="184" column="8" />
-        <mark key="]" line="184" column="44" />
-        <mark key="." line="184" column="44" />
-        <mark key="^" line="184" column="44" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/controller/WeixinController.java" timestamp="1448592665328">
+        <mark key="[" line="148" column="31" />
+        <mark key="]" line="148" column="34" />
+        <mark key="." line="148" column="34" />
+        <mark key="^" line="148" column="34" />
+      </file>
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/weixin/UserSubscribeStep.java" timestamp="1448592565709">
+        <mark key="[" line="35" column="45" />
+        <mark key="]" line="35" column="45" />
+        <mark key="." line="35" column="45" />
+        <mark key="^" line="35" column="45" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/UserHist.java" timestamp="1448529249269">
         <mark key="[" line="25" column="14" />
@@ -134,11 +148,23 @@
         <mark key="." line="81" column="40" />
         <mark key="^" line="81" column="40" />
       </file>
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" timestamp="1448427470106">
+        <mark key="'" line="245" column="0" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+      </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/model/sys/OtsUseColumnsToPut.java" timestamp="1448525501186">
         <mark key="[" line="11" column="18" />
         <mark key="]" line="11" column="18" />
         <mark key="." line="11" column="18" />
         <mark key="^" line="11" column="18" />
+      </file>
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/param/weixin/UserSubscribeResponse.java" timestamp="1448590701075">
+        <mark key="[" line="31" column="26" />
+        <mark key="]" line="31" column="32" />
+        <mark key="." line="31" column="32" />
+        <mark key="^" line="31" column="32" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/HttpClientService.java" timestamp="1448268593552">
         <mark key="[" line="31" column="7" />
@@ -146,6 +172,7 @@
         <mark key="." line="33" column="17" />
         <mark key="^" line="33" column="17" />
       </file>
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/weixin/MessageDispatchStep.java" timestamp="1448592391464" />
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/dict/sys/SysParam.java" timestamp="1448330338213">
         <mark key="[" line="130" column="7" />
         <mark key="]" line="130" column="60" />
@@ -159,10 +186,7 @@
         <mark key="." line="24" column="67" />
         <mark key="^" line="24" column="67" />
       </file>
-      <file name="/HTML File.txt.ft" timestamp="1448519805290">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1448531905486">
+      <file name="/Dummy.txt" timestamp="1448592508802">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/PropertyCopyable.java" timestamp="1448441269506">
@@ -177,26 +201,12 @@
         <mark key="." line="20" column="67" />
         <mark key="^" line="20" column="70" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityUtils.java" timestamp="1448589783788">
-        <mark key="'" line="367" column="0" />
-        <mark key="[" line="119" column="0" />
-        <mark key="]" line="119" column="0" />
-        <mark key="." line="119" column="0" />
-      </file>
-      <file name="/I18nized Expression.txt.ft" timestamp="1448519605993">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Class.txt.ft" timestamp="1448519813657">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/AnnotationType.txt.ft" timestamp="1448519814673">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Groovy JUnit Test Method.txt.ft" timestamp="1448519605436">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1448417195899">
-        <mark key="[" line="0" column="0" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityUtils.java" timestamp="1448593297128">
+        <mark key="'" line="369" column="0" />
+        <mark key="[" line="294" column="16" />
+        <mark key="]" line="294" column="16" />
+        <mark key="." line="294" column="16" />
+        <mark key="^" line="294" column="16" />
       </file>
     </filemarks>
     <jumps>
@@ -303,43 +313,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdHJ5IHsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>writeMethod</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRLZXkodXNlcmlkICsgS0VZX1NFUEFSQVRPUiArIGhpc3RUaW1lc3RhbXApOwogICAgICAgIHJldHVybiBnZXRLZXkoKTsK</text>
+        <text encoding="base64">ICAgIC8qIGFwaWNsaWVudCAqLwogICAgQEF1dG93aXJlZAogICAgcHJpdmF0ZSBBcGlDbGllbnQgYXBpQ2xpZW50Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdHJ5IHsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsK</text>
+      <register name="2" type="4">
+        <text>;</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRocm93IFRocm93YWJsZXMucHJvcGFnYXRlKGUpOwo=</text>
-      </register>
-      <register name="6" type="4">
-        <text>writeMethod</text>
-      </register>
-      <register name="7" type="4">
+      <register name="3" type="4">
         <text>)</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICByZXN1bHQuCg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">IFdlaXhpblJlc3BvbnNl</text>
+      </register>
+      <register name="6" type="4">
+        <text>t</text>
+      </register>
+      <register name="7" type="4">
+        <text>s</text>
+      </register>
       <register name="8" type="4">
-        <text>(</text>
+        <text>u</text>
       </register>
       <register name="9" type="4">
-        <text>e</text>
+        <text>c</text>
       </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>
