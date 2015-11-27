@@ -97,7 +97,7 @@
         <mark key="^" line="33" column="26" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" timestamp="1448594961995">
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" timestamp="1448598615579">
         <mark key="[" line="68" column="15" />
         <mark key="]" line="68" column="41" />
         <mark key="." line="68" column="41" />
@@ -224,12 +224,12 @@
         <mark key="." line="20" column="67" />
         <mark key="^" line="20" column="70" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityUtils.java" timestamp="1448593297128">
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityUtils.java" timestamp="1448598042451">
         <mark key="'" line="369" column="0" />
-        <mark key="[" line="294" column="16" />
-        <mark key="]" line="294" column="16" />
-        <mark key="." line="294" column="16" />
-        <mark key="^" line="294" column="16" />
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="111" column="0" />
+        <mark key="." line="111" column="0" />
+        <mark key="^" line="111" column="88" />
       </file>
       <file name="/I18nized Expression.txt.ft" timestamp="1448519605993">
         <mark key="[" line="0" column="0" />
@@ -352,43 +352,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBKU09ORmllbGQoc2VyaWFsaXplID0gZmFsc2UsIGRlc2VyaWFsaXplID0gZmFsc2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUHJvcGVydHlEZXNjcmlwdG9yIHNyY1BkID0gZ2V0UHJvcGVydHlEZXNjcmlwdG9yKG1hcHBlZFByb3BlcnR5TmFtZSwgc3JjLmdldENsYXNzKCkpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qIGFwaWNsaWVudCAqLwogICAgQEF1dG93aXJlZAogICAgcHJpdmF0ZSBBcGlDbGllbnQgYXBpQ2xpZW50Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgUHJvcGVydHlEZXNjcmlwdG9yIHNyY1BkID0gZ2V0UHJvcGVydHlEZXNjcmlwdG9yKG1hcHBlZFByb3BlcnR5TmFtZSwgc3JjLmdldENsYXNzKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBKU09ORmllbGQoc2VyaWFsaXplID0gZmFsc2UsIGRlc2VyaWFsaXplID0gZmFsc2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUHJvcGVydHlEZXNjcmlwdG9yIHNyY1BkID0gZ2V0UHJvcGVydHlEZXNjcmlwdG9yKG1hcHBlZFByb3BlcnR5TmFtZSwgc3JjLmdldENsYXNzKCkpOwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIEBKU09ORmllbGQoc2VyaWFsaXplID0gZmFsc2UsIGRlc2VyaWFsaXplID0gZmFsc2UpCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>(</text>
+        <text>,</text>
       </register>
       <register name="4" type="4">
-        <text>g</text>
+        <text>mappedPropertyName</text>
       </register>
-      <register name="5" type="4">
-        <text>n</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEBKU09ORmllbGQoc2VyaWFsaXplID0gZmFsc2UsIGRlc2VyaWFsaXplID0gZmFsc2UpCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>o</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEBKU09ORmllbGQoc2VyaWFsaXplID0gZmFsc2UsIGRlc2VyaWFsaXplID0gZmFsc2UpCg==</text>
       </register>
       <register name="7" type="4">
-        <text>L</text>
+        <text>(</text>
       </register>
       <register name="8" type="4">
-        <text>m</text>
+        <text>g</text>
       </register>
       <register name="9" type="4">
-        <text>o</text>
+        <text>n</text>
       </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>
