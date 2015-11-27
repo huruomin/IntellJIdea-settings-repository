@@ -97,11 +97,11 @@
         <mark key="^" line="33" column="26" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" timestamp="1448606012385">
-        <mark key="[" line="164" column="0" />
-        <mark key="]" line="164" column="0" />
-        <mark key="." line="164" column="0" />
-        <mark key="^" line="147" column="82" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" timestamp="1448612619398">
+        <mark key="[" line="188" column="28" />
+        <mark key="]" line="188" column="28" />
+        <mark key="." line="188" column="28" />
+        <mark key="^" line="191" column="52" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" timestamp="1448589894755" />
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" timestamp="1448269579234">
@@ -351,11 +351,11 @@
       <jump line="114" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/model/sys/OtsRowPut.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyIHVzZXIgPSBnZXRVc2VyQnlJbmRleChVc2VyLklOREVYX1RBQkxFX05BTUUsIG9wZW5pZCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>近</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG9wZW5pZA==</text>
+        <text>近</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
@@ -363,32 +363,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBVc2VyIHVzZXIgPSBnZXRVc2VyQnlXeE9wZW5pZCh3eE9wZW5pZCk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyIHVzZXIgPSBnZXRVc2VyQnlJbmRleChVc2VyLklOREVYX1RBQkxFX05BTUUsIG9wZW5pZCk7Cg==</text>
+      <register name="1" type="4">
+        <text>近</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IG9wZW5pZA==</text>
+        <text>最</text>
       </register>
       <register name="3" type="4">
-        <text>openid</text>
+        <text>userid</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgb3BlbmlkID0gd3hPcGVuaWQudHJpbSgpOwo=</text>
+      <register name="4" type="4">
+        <text>d</text>
       </register>
       <register name="5" type="4">
-        <text>openid</text>
+        <text>I</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>识</text>
       </register>
       <register name="7" type="4">
-        <text>,</text>
+        <text>标</text>
       </register>
       <register name="8" type="4">
-        <text>D</text>
+        <text encoding="base64">dXNlcmlkICAgIA==</text>
       </register>
       <register name="9" type="4">
-        <text>I</text>
+        <text encoding="base64">IHVzZXJpZA==</text>
       </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>
