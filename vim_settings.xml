@@ -208,12 +208,9 @@
         <mark key="." line="130" column="7" />
         <mark key="^" line="130" column="6" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityWithUniqueIndex.java" timestamp="1448683272757">
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityWithUniqueIndex.java" timestamp="1448690426609">
         <mark key="'" line="14" column="43" />
-        <mark key="[" line="44" column="50" />
-        <mark key="]" line="44" column="70" />
-        <mark key="." line="44" column="70" />
-        <mark key="^" line="44" column="70" />
+        <mark key="[" line="57" column="9" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1448519805290">
         <mark key="[" line="0" column="0" />
@@ -372,10 +369,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBKU09ORmllbGQoc2VyaWFsaXplID0gZmFsc2UsIGRlc2VyaWFsaXplID0gZmFsc2UpCg==</text>
+        <text encoding="base64">ICAgICAgICB1bmlxdWVJbmRleC5zZXQK</text>
       </register>
       <register name="-" type="4">
-        <text>E</text>
+        <text>printStackTrace</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
@@ -384,31 +381,31 @@
         <text>当前表类对应的ots表名</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBKU09ORmllbGQoc2VyaWFsaXplID0gZmFsc2UsIGRlc2VyaWFsaXplID0gZmFsc2UpCg==</text>
+        <text encoding="base64">ICAgICAgICB1bmlxdWVJbmRleC5zZXQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBKU09ORmllbGQoc2VyaWFsaXplID0gZmFsc2UsIGRlc2VyaWFsaXplID0gZmFsc2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
-      <register name="3" type="4">
-        <text>E</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJbGxlZ2FsQWNjZXNzRXhjZXB0aW9uIGUpIHsK</text>
       </register>
-      <register name="4" type="4">
-        <text>M</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZS4oKTsK</text>
       </register>
       <register name="5" type="4">
-        <text>A</text>
+        <text>printStackTrace</text>
       </register>
       <register name="6" type="4">
-        <text>N</text>
+        <text>n</text>
       </register>
       <register name="7" type="4">
-        <text>_</text>
+        <text>o</text>
       </register>
       <register name="8" type="4">
-        <text>E</text>
+        <text>i</text>
       </register>
       <register name="9" type="4">
-        <text>L</text>
+        <text>t</text>
       </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>
