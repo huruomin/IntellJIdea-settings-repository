@@ -97,13 +97,18 @@
         <mark key="^" line="33" column="26" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" timestamp="1448616334047">
-        <mark key="[" line="245" column="0" />
-        <mark key="]" line="245" column="0" />
-        <mark key="." line="245" column="0" />
-        <mark key="^" line="243" column="25" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" timestamp="1448672240075">
+        <mark key="[" line="129" column="59" />
+        <mark key="]" line="129" column="59" />
+        <mark key="." line="129" column="59" />
+        <mark key="^" line="129" column="23" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" timestamp="1448589894755" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" timestamp="1448671965853">
+        <mark key="[" line="92" column="14" />
+        <mark key="]" line="92" column="29" />
+        <mark key="^" line="92" column="29" />
+        <mark key="." line="92" column="29" />
+      </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" timestamp="1448269579234">
         <mark key="'" line="225" column="0" />
         <mark key="[" line="236" column="0" />
@@ -345,11 +350,11 @@
       <jump line="114" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/model/sys/OtsRowPut.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHN5bmNFdmVudCA9PSBldmVudF9zdWJzY3JpYmUpIHsKICAgICAgICAgICAgICAgIHVzZXIud3hTdWJzY3JpYmUodGltZXN0YW1wKTsKICAgICAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>息</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>息</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
@@ -370,32 +375,32 @@
             newUser(user, index);
         } else {</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHN5bmNFdmVudCA9PSBldmVudF9zdWJzY3JpYmUpIHsKICAgICAgICAgICAgICAgIHVzZXIud3hTdWJzY3JpYmUodGltZXN0YW1wKTsKICAgICAgICAgICAgfQo=</text>
+      <register name="1" type="4">
+        <text>息</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="2" type="4">
+        <text>信</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
+      <register name="3" type="4">
+        <text>信</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>微</text>
       </register>
       <register name="5" type="4">
-        <text>,</text>
+        <text>的</text>
       </register>
       <register name="6" type="4">
-        <text>a</text>
+        <text>往</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>以</text>
       </register>
       <register name="8" type="4">
-        <text>g</text>
+        <text>户</text>
       </register>
       <register name="9" type="4">
-        <text>n</text>
+        <text>用</text>
       </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>
