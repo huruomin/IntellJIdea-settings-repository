@@ -17,7 +17,7 @@
         <mark key="." line="70" column="55" />
         <mark key="^" line="70" column="55" />
       </file>
-      <file name="/a.dummy" timestamp="1448526449373">
+      <file name="/a.dummy" timestamp="1448672847902">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/UniqueIndex.java" timestamp="1448594375212">
@@ -26,6 +26,11 @@
         <mark key="]" line="137" column="0" />
         <mark key="." line="137" column="0" />
         <mark key="^" line="147" column="14" />
+      </file>
+      <file name="D:/project/huruomin/huruomin-java/pom.xml" timestamp="1448673397753">
+        <mark key="[" line="34" column="32" />
+        <mark key="]" line="34" column="33" />
+        <mark key="." line="34" column="33" />
       </file>
       <file name="D:/project/yanji/src/server/yanji-weixin-message-handler/src/main/java/com/yanji/wmh/Application.java" timestamp="1448590912733">
         <mark key="'" line="26" column="0" />
@@ -51,11 +56,11 @@
         <mark key="." line="50" column="18" />
         <mark key="^" line="50" column="18" />
       </file>
-      <file name="D:/project/yanji/src/server/yanji-weixin-message-handler/src/main/resources/application-context.xml" timestamp="1448591809566">
+      <file name="D:/project/yanji/src/server/yanji-weixin-message-handler/src/main/resources/application-context.xml" timestamp="1448672923023">
         <mark key="[" line="40" column="49" />
-        <mark key="]" line="40" column="61" />
-        <mark key="^" line="40" column="61" />
-        <mark key="." line="40" column="61" />
+        <mark key="]" line="40" column="56" />
+        <mark key="^" line="40" column="56" />
+        <mark key="." line="40" column="56" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/model/sys/OtsUsePrimaryKeys.java" timestamp="1448526562777">
         <mark key="[" line="25" column="19" />
@@ -97,11 +102,11 @@
         <mark key="^" line="33" column="26" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" timestamp="1448672240075">
-        <mark key="[" line="129" column="59" />
-        <mark key="]" line="129" column="59" />
-        <mark key="." line="129" column="59" />
-        <mark key="^" line="129" column="23" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" timestamp="1448673941421">
+        <mark key="[" line="201" column="24" />
+        <mark key="]" line="201" column="24" />
+        <mark key="." line="201" column="24" />
+        <mark key="^" line="201" column="24" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" timestamp="1448671965853">
         <mark key="[" line="92" column="14" />
@@ -143,6 +148,11 @@
         <mark key="]" line="243" column="0" />
         <mark key="." line="243" column="0" />
         <mark key="^" line="243" column="128" />
+      </file>
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/controller/WeixinController.java" timestamp="1448672713688">
+        <mark key="[" line="157" column="0" />
+        <mark key="]" line="157" column="0" />
+        <mark key="." line="157" column="0" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/weixin/UserSubscribeStep.java" timestamp="1448592565709">
         <mark key="[" line="35" column="45" />
@@ -208,6 +218,11 @@
       <file name="/HTML File.txt.ft" timestamp="1448519805290">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/project/yanji/src/server/yanji-weixin-message-handler/src/main/java/com/yanji/wmh/Keygen.java" timestamp="1448155558015">
+        <mark key="[" line="9" column="40" />
+        <mark key="]" line="9" column="41" />
+        <mark key="." line="9" column="41" />
+      </file>
       <file name="/Dummy.txt" timestamp="1448618604727">
         <mark key="[" line="0" column="0" />
       </file>
@@ -223,12 +238,12 @@
         <mark key="." line="20" column="67" />
         <mark key="^" line="20" column="70" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityUtils.java" timestamp="1448598042451">
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityUtils.java" timestamp="1448674389124">
         <mark key="'" line="369" column="0" />
-        <mark key="[" line="111" column="0" />
-        <mark key="]" line="111" column="0" />
-        <mark key="." line="111" column="0" />
-        <mark key="^" line="111" column="88" />
+        <mark key="[" line="342" column="36" />
+        <mark key="]" line="342" column="36" />
+        <mark key="." line="342" column="36" />
+        <mark key="^" line="342" column="36" />
       </file>
       <file name="/I18nized Expression.txt.ft" timestamp="1448519605993">
         <mark key="[" line="0" column="0" />
@@ -351,10 +366,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>息</text>
+        <text>为</text>
       </register>
       <register name="-" type="4">
-        <text>息</text>
+        <text>为</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
@@ -376,31 +391,31 @@
         } else {</text>
       </register>
       <register name="1" type="4">
-        <text>息</text>
+        <text>为</text>
       </register>
       <register name="2" type="4">
-        <text>信</text>
+        <text>不</text>
       </register>
       <register name="3" type="4">
-        <text>信</text>
+        <text>永</text>
       </register>
       <register name="4" type="4">
-        <text>微</text>
+        <text>为</text>
       </register>
       <register name="5" type="4">
-        <text>的</text>
+        <text>不</text>
       </register>
       <register name="6" type="4">
-        <text>往</text>
+        <text>永</text>
       </register>
       <register name="7" type="4">
-        <text>以</text>
+        <text>userSubscribe</text>
       </register>
       <register name="8" type="4">
-        <text>户</text>
+        <text>userSubscribeStep</text>
       </register>
       <register name="9" type="4">
-        <text>用</text>
+        <text>userSubscribe</text>
       </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>

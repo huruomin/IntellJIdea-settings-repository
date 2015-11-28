@@ -1,4 +1,5 @@
 <keymap version="1" name="hurm-win" parent="Default for XWin">
+  <action id="AutoIndentLines" />
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="ctrl k" />
     <keyboard-shortcut first-keystroke="alt k" />
@@ -45,6 +46,10 @@
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="alt left" />
     <keyboard-shortcut first-keystroke="alt open_bracket" />
+  </action>
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="shift ctrl i" />
+    <keyboard-shortcut first-keystroke="ctrl alt i" />
   </action>
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="ctrl q" />
