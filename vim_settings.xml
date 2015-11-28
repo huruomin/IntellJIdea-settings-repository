@@ -20,12 +20,12 @@
       <file name="/a.dummy" timestamp="1448672847902">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/UniqueIndex.java" timestamp="1448594375212">
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/UniqueIndex.java" timestamp="1448683222646">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="137" column="0" />
-        <mark key="]" line="137" column="0" />
-        <mark key="." line="137" column="0" />
-        <mark key="^" line="147" column="14" />
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="." line="91" column="0" />
+        <mark key="^" line="14" column="15" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/pom.xml" timestamp="1448673397753">
         <mark key="[" line="34" column="32" />
@@ -96,17 +96,17 @@
         <mark key="^" line="78" column="18" />
         <mark key="." line="78" column="18" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/Entity.java" timestamp="1448681592745">
-        <mark key="[" line="40" column="23" />
-        <mark key="]" line="40" column="31" />
-        <mark key="." line="40" column="31" />
-        <mark key="^" line="40" column="31" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/Entity.java" timestamp="1448682993421">
+        <mark key="[" line="26" column="14" />
+        <mark key="]" line="26" column="14" />
+        <mark key="." line="26" column="14" />
+        <mark key="^" line="26" column="14" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" timestamp="1448681318314">
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="128" column="7" />
-        <mark key="." line="128" column="7" />
-        <mark key="^" line="128" column="7" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" timestamp="1448683086286">
+        <mark key="[" line="139" column="71" />
+        <mark key="]" line="139" column="71" />
+        <mark key="." line="139" column="71" />
+        <mark key="^" line="139" column="70" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" timestamp="1448671965853">
         <mark key="[" line="92" column="14" />
@@ -208,11 +208,12 @@
         <mark key="." line="130" column="7" />
         <mark key="^" line="130" column="6" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityWithUniqueIndex.java" timestamp="1448594288781">
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityWithUniqueIndex.java" timestamp="1448683272757">
         <mark key="'" line="14" column="43" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+        <mark key="[" line="44" column="50" />
+        <mark key="]" line="44" column="70" />
+        <mark key="." line="44" column="70" />
+        <mark key="^" line="44" column="70" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1448519805290">
         <mark key="[" line="0" column="0" />
@@ -253,6 +254,13 @@
       <file name="/AnnotationType.txt.ft" timestamp="1448519814673">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/UserBehavior.java" timestamp="1448683059534">
+        <mark key="'" line="109" column="22" />
+        <mark key="[" line="16" column="7" />
+        <mark key="]" line="16" column="7" />
+        <mark key="." line="16" column="7" />
+        <mark key="^" line="17" column="11" />
+      </file>
       <file name="/Groovy JUnit Test Method.txt.ft" timestamp="1448519605436">
         <mark key="[" line="0" column="0" />
       </file>
@@ -261,8 +269,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityUtils.java" />
-      <jump line="81" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityUtils.java" />
       <jump line="77" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityUtils.java" />
       <jump line="60" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityUtils.java" />
       <jump line="52" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityUtils.java" />
@@ -361,59 +367,48 @@
       <jump line="98" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/model/sys/OtsRowPut.java" />
       <jump line="105" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/model/sys/OtsRowPut.java" />
       <jump line="114" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/model/sys/OtsRowPut.java" />
+      <jump line="39" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/UserBehavior.java" />
+      <jump line="103" column="22" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/UserBehavior.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgVXNlckJlaGF2aW9yKCkgewogICAgICAgIHN1cGVyKCk7CiAgICB9CgogICAgLyoqCiAgICAgKiC5udTsuq/K/QogICAgICogQHBhcmFtIGtleSC31sasvPyjumtleQogICAgICogQHBhcmFtIHRpbWVzdGFtcCAKICAgICAqIEBwYXJhbSB2YWx1ZQogICAgICogQHBhcmFtIGJlaGF2aW9yCiAgICAgKi8KICAgIHB1YmxpYyBVc2VyQmVoYXZpb3IoU3RyaW5nIGtleSwgU3RyaW5nIHRpbWVzdGFtcCwgU3RyaW5nIHZhbHVlLCBTdHJpbmcgYmVoYXZpb3IpIHsKICAgICAgICBzdXBlcih0aW1lc3RhbXApOwogICAgICAgIHRoaXMudmFsdWUgPSB2YWx1ZTsKICAgICAgICB0aGlzLmJlaGF2aW9yID0gYmVoYXZpb3I7CiAgICAgICAgdGhpcy5rZXkgPSBrZXk7CiAgICB9Cg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBKU09ORmllbGQoc2VyaWFsaXplID0gZmFsc2UsIGRlc2VyaWFsaXplID0gZmFsc2UpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>字段：key</text>
+        <text>E</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
       </register>
       <register name="0" type="4">
-        <text>String openid = wxOpenid.trim();
-
-        User user = getUserByWxOpenid(wxOpenid);
-        if (null == user) {
-            String seq = sysService.getNextHashVal(Sequence.USER_ID);
-            user = new User();
-            user.setTimestampFromLong(timestamp);
-            user.setKey(seq);
-            user.setUserid(seq);
-            user.setWxOpenid(openid);
-            user.wxUnsubscribe(timestamp);
-            UniqueIndex index = user.addUniqueIndex(User.INDEX_WX_OPEN_ID, openid);
-            newUser(user, index);
-        } else {</text>
+        <text>当前表类对应的ots表名</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgVXNlckJlaGF2aW9yKCkgewogICAgICAgIHN1cGVyKCk7CiAgICB9CgogICAgLyoqCiAgICAgKiC5udTsuq/K/QogICAgICogQHBhcmFtIGtleSC31sasvPyjumtleQogICAgICogQHBhcmFtIHRpbWVzdGFtcCAKICAgICAqIEBwYXJhbSB2YWx1ZQogICAgICogQHBhcmFtIGJlaGF2aW9yCiAgICAgKi8KICAgIHB1YmxpYyBVc2VyQmVoYXZpb3IoU3RyaW5nIGtleSwgU3RyaW5nIHRpbWVzdGFtcCwgU3RyaW5nIHZhbHVlLCBTdHJpbmcgYmVoYXZpb3IpIHsKICAgICAgICBzdXBlcih0aW1lc3RhbXApOwogICAgICAgIHRoaXMudmFsdWUgPSB2YWx1ZTsKICAgICAgICB0aGlzLmJlaGF2aW9yID0gYmVoYXZpb3I7CiAgICAgICAgdGhpcy5rZXkgPSBrZXk7CiAgICB9Cg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIEBKU09ORmllbGQoc2VyaWFsaXplID0gZmFsc2UsIGRlc2VyaWFsaXplID0gZmFsc2UpCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>字段：key</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIEBKU09ORmllbGQoc2VyaWFsaXplID0gZmFsc2UsIGRlc2VyaWFsaXplID0gZmFsc2UpCg==</text>
       </register>
       <register name="3" type="4">
-        <text>键</text>
+        <text>E</text>
       </register>
       <register name="4" type="4">
-        <text>主</text>
+        <text>M</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogubnU7Lqvyv0KICAgICAqCiAgICAgKiBAcGFyYW0gdGltZXN0YW1wILzHwry0tL2otcTKsbzktMEKICAgICAqLwo=</text>
+      <register name="5" type="4">
+        <text>A</text>
       </register>
       <register name="6" type="4">
-        <text>, String key</text>
+        <text>N</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="7" type="4">
+        <text>_</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+      <register name="8" type="4">
+        <text>E</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIAo=</text>
+      <register name="9" type="4">
+        <text>L</text>
       </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>
