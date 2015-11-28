@@ -96,17 +96,17 @@
         <mark key="^" line="78" column="18" />
         <mark key="." line="78" column="18" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/Entity.java" timestamp="1448530128816">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="^" line="33" column="26" />
-        <mark key="." line="61" column="0" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/Entity.java" timestamp="1448681592745">
+        <mark key="[" line="40" column="23" />
+        <mark key="]" line="40" column="31" />
+        <mark key="." line="40" column="31" />
+        <mark key="^" line="40" column="31" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" timestamp="1448676493185">
-        <mark key="[" line="201" column="24" />
-        <mark key="]" line="201" column="24" />
-        <mark key="." line="201" column="24" />
-        <mark key="^" line="201" column="24" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" timestamp="1448681318314">
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="128" column="7" />
+        <mark key="." line="128" column="7" />
+        <mark key="^" line="128" column="7" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" timestamp="1448671965853">
         <mark key="[" line="92" column="14" />
@@ -253,9 +253,6 @@
       <file name="/AnnotationType.txt.ft" timestamp="1448519814673">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/UserBehavior.java" timestamp="1448680398578">
-        <mark key="[" line="32" column="0" />
-      </file>
       <file name="/Groovy JUnit Test Method.txt.ft" timestamp="1448519605436">
         <mark key="[" line="0" column="0" />
       </file>
@@ -366,11 +363,11 @@
       <jump line="114" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/model/sys/OtsRowPut.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CiAgICBwdWJsaWMgVXNlckJlaGF2aW9yKCkgewogICAgICAgIHN1cGVyKCk7CiAgICB9CgogICAgLyoqCiAgICAgKiC5udTsuq/K/QogICAgICogQHBhcmFtIGtleSC31sasvPyjumtleQogICAgICogQHBhcmFtIHRpbWVzdGFtcCAKICAgICAqIEBwYXJhbSB2YWx1ZQogICAgICogQHBhcmFtIGJlaGF2aW9yCiAgICAgKi8KICAgIHB1YmxpYyBVc2VyQmVoYXZpb3IoU3RyaW5nIGtleSwgU3RyaW5nIHRpbWVzdGFtcCwgU3RyaW5nIHZhbHVlLCBTdHJpbmcgYmVoYXZpb3IpIHsKICAgICAgICBzdXBlcih0aW1lc3RhbXApOwogICAgICAgIHRoaXMudmFsdWUgPSB2YWx1ZTsKICAgICAgICB0aGlzLmJlaGF2aW9yID0gYmVoYXZpb3I7CiAgICAgICAgdGhpcy5rZXkgPSBrZXk7CiAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>字段：key</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
@@ -391,32 +388,32 @@
             newUser(user, index);
         } else {</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICBwdWJsaWMgVXNlckJlaGF2aW9yKCkgewogICAgICAgIHN1cGVyKCk7CiAgICB9CgogICAgLyoqCiAgICAgKiC5udTsuq/K/QogICAgICogQHBhcmFtIGtleSC31sasvPyjumtleQogICAgICogQHBhcmFtIHRpbWVzdGFtcCAKICAgICAqIEBwYXJhbSB2YWx1ZQogICAgICogQHBhcmFtIGJlaGF2aW9yCiAgICAgKi8KICAgIHB1YmxpYyBVc2VyQmVoYXZpb3IoU3RyaW5nIGtleSwgU3RyaW5nIHRpbWVzdGFtcCwgU3RyaW5nIHZhbHVlLCBTdHJpbmcgYmVoYXZpb3IpIHsKICAgICAgICBzdXBlcih0aW1lc3RhbXApOwogICAgICAgIHRoaXMudmFsdWUgPSB2YWx1ZTsKICAgICAgICB0aGlzLmJlaGF2aW9yID0gYmVoYXZpb3I7CiAgICAgICAgdGhpcy5rZXkgPSBrZXk7CiAgICB9Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="2" type="4">
+        <text>字段：key</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIH0KfQo=</text>
+      <register name="3" type="4">
+        <text>键</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgU3RyaW5nIGdldEtleSgpIHsKICAgICAgICByZXR1cm4ga2V5OwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldEtleShTdHJpbmcga2V5KSB7CiAgICAgICAgdGhpcy5rZXkgPSBrZXk7CiAgICB9CgogICAgcHVibGljIFN0cmluZyBnZXRCZWhhdmlvcigpIHsKICAgICAgICByZXR1cm4gYmVoYXZpb3I7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0QmVoYXZpb3IoU3RyaW5nIGJlaGF2aW9yKSB7CiAgICAgICAgdGhpcy5iZWhhdmlvciA9IGJlaGF2aW9yOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0VmFsdWUoKSB7CiAgICAgICAgcmV0dXJuIHZhbHVlOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFZhbHVlKFN0cmluZyB2YWx1ZSkgewogICAgICAgIHRoaXMudmFsdWUgPSB2YWx1ZTsK</text>
+      <register name="4" type="4">
+        <text>主</text>
       </register>
-      <register name="5" type="4">
-        <text>n</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogubnU7Lqvyv0KICAgICAqCiAgICAgKiBAcGFyYW0gdGltZXN0YW1wILzHwry0tL2otcTKsbzktMEKICAgICAqLwo=</text>
       </register>
       <register name="6" type="4">
-        <text>c</text>
+        <text>, String key</text>
       </register>
-      <register name="7" type="4">
-        <text>.</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>m</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>o</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>
