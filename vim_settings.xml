@@ -236,7 +236,6 @@
         <mark key="." line="33" column="17" />
         <mark key="^" line="33" column="17" />
       </file>
-      <file name="D:/project/yanji/src/server/dicts/dev/com.huruomin.dict.user.UserBehavior.dict" timestamp="1448848530157" />
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/weixin/MessageDispatchStep.java" timestamp="1448699089708">
         <mark key="[" line="20" column="31" />
         <mark key="]" line="22" column="29" />
@@ -285,14 +284,12 @@
       <file name="/I18nized Expression.txt.ft" timestamp="1448519605993">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/project/yanji/src/server/yanji-server/src/main/resources/profiles/dev/application.properties" timestamp="1448846802376" />
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/weixin/SaveUserBehaviorStep.java" timestamp="1448861213022">
         <mark key="[" line="49" column="28" />
         <mark key="]" line="47" column="24" />
         <mark key="." line="47" column="24" />
         <mark key="^" line="47" column="24" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/controller/UserController.java" timestamp="1448861177388" />
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/param/sys/GetDictsResponse.java" timestamp="1448858939469">
         <mark key="[" line="18" column="25" />
         <mark key="]" line="19" column="3" />
@@ -302,7 +299,6 @@
       <file name="/Class.txt.ft" timestamp="1448519813657">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.7/fastjson-1.2.7-sources.jar!/com/alibaba/fastjson/JSON.java" timestamp="1448852125595" />
       <file name="/AnnotationType.txt.ft" timestamp="1448519814673">
         <mark key="[" line="0" column="0" />
       </file>
