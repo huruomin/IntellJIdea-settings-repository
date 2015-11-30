@@ -121,11 +121,11 @@
       <file name="/Overridden Method Body.txt.ft" timestamp="1448698315754">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" timestamp="1448697492599">
-        <mark key="[" line="127" column="13" />
-        <mark key="]" line="127" column="28" />
-        <mark key="." line="127" column="28" />
-        <mark key="^" line="127" column="28" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" timestamp="1448843998432">
+        <mark key="[" line="198" column="48" />
+        <mark key="]" line="199" column="22" />
+        <mark key="." line="199" column="22" />
+        <mark key="^" line="199" column="22" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" timestamp="1448696888091">
         <mark key="'" line="84" column="0" />
@@ -134,7 +134,7 @@
         <mark key="." line="25" column="10" />
         <mark key="^" line="25" column="10" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/weixin/SyncUserStep.java" timestamp="1448699644409">
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/weixin/SyncUserStep.java" timestamp="1448844265239">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="106" />
         <mark key="." line="19" column="26" />
@@ -169,7 +169,7 @@
         <mark key="." line="243" column="0" />
         <mark key="^" line="243" column="128" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/controller/WeixinController.java" timestamp="1448675900284">
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/controller/WeixinController.java" timestamp="1448844304878">
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
@@ -242,7 +242,7 @@
         <mark key="]" line="9" column="41" />
         <mark key="." line="9" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1448703912496">
+      <file name="/Dummy.txt" timestamp="1448844037817">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/PropertyCopyable.java" timestamp="1448441269506">
@@ -257,27 +257,35 @@
         <mark key="." line="20" column="67" />
         <mark key="^" line="20" column="70" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityUtils.java" timestamp="1448697677590">
-        <mark key="'" line="389" column="0" />
-        <mark key="[" line="47" column="22" />
-        <mark key="]" line="47" column="21" />
-        <mark key="." line="47" column="21" />
-        <mark key="^" line="47" column="21" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/EntityUtils.java" timestamp="1448843931318">
+        <mark key="'" line="396" column="0" />
+        <mark key="[" line="73" column="40" />
+        <mark key="]" line="73" column="39" />
+        <mark key="." line="73" column="39" />
+        <mark key="^" line="73" column="39" />
       </file>
       <file name="/I18nized Expression.txt.ft" timestamp="1448519605993">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/weixin/SaveUserBehaviorStep.java" timestamp="1448701743332">
-        <mark key="[" line="91" column="32" />
-        <mark key="]" line="92" column="14" />
-        <mark key="." line="92" column="14" />
-        <mark key="^" line="92" column="14" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/weixin/SaveUserBehaviorStep.java" timestamp="1448844834052">
+        <mark key="[" line="49" column="28" />
+        <mark key="]" line="47" column="24" />
+        <mark key="." line="47" column="24" />
+        <mark key="^" line="47" column="24" />
       </file>
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/controller/UserController.java" timestamp="1448844563919" />
       <file name="/Class.txt.ft" timestamp="1448519813657">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/AnnotationType.txt.ft" timestamp="1448519814673">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/UserBehavior.java" timestamp="1448845110949">
+        <mark key="'" line="103" column="22" />
+        <mark key="[" line="106" column="34" />
+        <mark key="]" line="106" column="54" />
+        <mark key="." line="106" column="54" />
+        <mark key="^" line="106" column="54" />
       </file>
       <file name="/Groovy JUnit Test Method.txt.ft" timestamp="1448519605436">
         <mark key="[" line="0" column="0" />
@@ -390,43 +398,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxiZWFuIGlkPSJtZXNzYWdlTGlzdGVuZXIiIGNsYXNzPSJjb20uaHVydW9taW4uYmF0Y2gud2VpeGluLk1lc3NhZ2VMaXN0ZW5lciIvPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">ID09IE5VTExfVkFMVUUgPyBudWxsIDogdGhpcy52YWx1ZTs=</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIDxiZWFuIGlkPSJtZXNzYWdlTGlzdGVuZXIiIGNsYXNzPSJjb20uaHVydW9taW4uYmF0Y2gud2VpeGluLk1lc3NhZ2VMaXN0ZW5lciIvPgo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">PGJyPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxiZWFuIGlkPSJtZXNzYWdlTGlzdGVuZXIiIGNsYXNzPSJjb20uaHVydW9taW4uYmF0Y2gud2VpeGluLk1lc3NhZ2VMaXN0ZW5lciIvPgo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIDxiZWFuIGlkPSJtZXNzYWdlTGlzdGVuZXIiIGNsYXNzPSJjb20uaHVydW9taW4uYmF0Y2gud2VpeGluLk1lc3NhZ2VMaXN0ZW5lciIvPgo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldE51bGxWYWx1ZSgpCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CiAgICA8YmF0Y2g6ZmxvdyBpZD0iaGFuZGxlVXNlck1zZyI+CiAgICA8L2JhdGNoOmZsb3c+CgogICAgPGJhdGNoOmZsb3cgaWQ9ImhhbmRsZUV2ZW50Ij4KICAgICAgICA8YmF0Y2g6c3RlcCBpZD0iaGUuc2ltcGxlQXV0b1JlcGx5IiBuZXh0PSJoZS5zeW5jVXNlciI+CiAgICAgICAgICAgIDxiYXRjaDp0YXNrbGV0IHJlZj0ic2ltcGxlQXV0b1JlcGx5U3RlcCIvPgogICAgICAgIDwvYmF0Y2g6c3RlcD4KICAgICAgICA8YmF0Y2g6c3RlcCBpZD0iaGUuc3luY1VzZXIiIG5leHQ9ImhlLnNhdmVVc2VyQmVoYXZpb3IiPgogICAgICAgICAgICA8YmF0Y2g6dGFza2xldCByZWY9InN5bmNVc2VyU3RlcCIvPgogICAgICAgIDwvYmF0Y2g6c3RlcD4KICAgICAgICA8YmF0Y2g6c3RlcCBpZD0iaGUuc2F2ZVVzZXJCZWhhdmlvciI+CiAgICAgICAgICAgIDxiYXRjaDp0YXNrbGV0IHJlZj0ic2F2ZVVzZXJCZWhhdmlvclN0ZXAiLz4KICAgICAgICA8L2JhdGNoOnN0ZXA+CiAgICA8L2JhdGNoOmZsb3c+Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ID09IE5VTExfVkFMVUUgPyBudWxsIDogdGhpcy52YWx1ZTs=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGJhdGNoOm5leHQgb249ImV2ZW50OioiIHRvPSJmbG93MSIvPgo=</text>
+      <register name="4" type="4">
+        <text>e</text>
       </register>
-      <register name="6" type="4">
-        <text>.</text>
-      </register>
-      <register name="7" type="4">
-        <text>m</text>
-      </register>
-      <register name="8" type="4">
+      <register name="5" type="4">
         <text>u</text>
       </register>
+      <register name="6" type="4">
+        <text>l</text>
+      </register>
+      <register name="7" type="4">
+        <text>a</text>
+      </register>
+      <register name="8" type="4">
+        <text>v</text>
+      </register>
       <register name="9" type="4">
-        <text>h</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>
