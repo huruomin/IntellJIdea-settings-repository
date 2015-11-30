@@ -170,6 +170,12 @@
         <mark key="]" line="13" column="42" />
         <mark key="." line="13" column="42" />
       </file>
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/weixin/package-info.java" timestamp="1448872212645">
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="5" column="13" />
+        <mark key="." line="5" column="13" />
+        <mark key="^" line="5" column="13" />
+      </file>
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1448863817943">
         <mark key="[" line="0" column="0" />
       </file>
@@ -179,17 +185,17 @@
         <mark key="^" line="326" column="23" />
         <mark key="." line="326" column="23" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/SysService.java" timestamp="1448868412979">
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/SysService.java" timestamp="1448871888309">
         <mark key="'" line="116" column="0" />
-        <mark key="[" line="196" column="27" />
-        <mark key="]" line="196" column="28" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="31" />
         <mark key="^" line="196" column="28" />
         <mark key="." line="196" column="28" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/controller/WeixinController.java" timestamp="1448844304878">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/controller/WeixinController.java" timestamp="1448872274968">
+        <mark key="[" line="137" column="0" />
+        <mark key="]" line="137" column="0" />
+        <mark key="." line="137" column="0" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/weixin/UserSubscribeStep.java" timestamp="1448592565709">
         <mark key="[" line="35" column="45" />
@@ -295,11 +301,11 @@
       <file name="/I18nized Expression.txt.ft" timestamp="1448519605993">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/weixin/SaveUserBehaviorStep.java" timestamp="1448868719292">
-        <mark key="[" line="49" column="28" />
-        <mark key="]" line="47" column="24" />
-        <mark key="." line="47" column="24" />
-        <mark key="^" line="47" column="24" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/weixin/SaveUserBehaviorStep.java" timestamp="1448871908975">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="46" column="24" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/param/sys/GetDictsResponse.java" timestamp="1448858939469">
         <mark key="[" line="18" column="25" />
@@ -436,44 +442,44 @@
       <jump line="50" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>进</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>进</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogu/HIoda4tqi1xNfWteTB0LHtCiAgICAgKgogICAgICogQHBhcmFtIGRpY3RDbGFzcyDWuLaotcTX1rXkwODQzQogICAgICogQHBhcmFtIDxUPiAgICAgICDX1rXkwODQzQogICAgICogQHJldHVybiC78cihtb21xNfWteTB0LHto6y3x251bGy3x7/VwdCx7QogICAgICovCg==</text>
+        <text encoding="base64">ICAgIEBRdWFsaWZpZXIoInN5c1Byb3BlcnRpZXMiKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>进</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogu/HIoda4tqi1xNfWteTWtQogICAgICoKICAgICAqIEBwYXJhbSBkaWN0Q2xhc3Mg1ri2qLXE19a15MDg0M0KICAgICAqIEBwYXJhbSBrZXkgICAgICAg1ri2qLXE19a15GtleQogICAgICogQHBhcmFtIDxUPiAgICAgICDX1rXkwODQzQogICAgICogQHJldHVybiC78cihtb21xNfWteTWtaOst8dudWxsCiAgICAgKi8KICAgIHB1YmxpYyA8VCBleHRlbmRzIERpY3Q+IFQgcmVxdWVzdERpY3QoQ2xhc3M8VD4gZGljdENsYXNzLCBTdHJpbmcga2V5KSB7CiAgICAgICAgcmV0dXJuIHRoaXMuZGljdENhY2hlLmdldERpY3QoZGljdENsYXNzLCBrZXkpOwogICAgfQo=</text>
+      <register name="2" type="4">
+        <text>行</text>
       </register>
       <register name="3" type="4">
-        <text>s</text>
+        <text>能</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>功</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>共</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogu/HIoda4tqi1xNfWteTWtQogICAgICoKICAgICAqIEBwYXJhbSBkaWN0Q2xhc3Mg1ri2qLXE19a15MDg0M0KICAgICAqIEBwYXJhbSBrZXkgICAgICAg1ri2qLXE19a15GtleQogICAgICogQHBhcmFtIDxUPiAgICAgICDX1rXkwODQzQogICAgICogQHJldHVybiC78cihtb21xNfWteTWtaOst8dudWxsCiAgICAgKi8K</text>
+      <register name="6" type="4">
+        <text>公</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>的</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBmaW5hbCBMb2FkaW5nQ2FjaGU8Q2xhc3M8PyBleHRlbmRzIERpY3Q+LCBNYXA8U3RyaW5nLCBEaWN0Pj4gZGljdENhY2hlOwo=</text>
+      <register name="8" type="4">
+        <text>序</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IG51bGw=</text>
+        <text>程</text>
       </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>
