@@ -19,7 +19,7 @@
         <mark key="." line="70" column="55" />
         <mark key="^" line="70" column="55" />
       </file>
-      <file name="/a.dummy" timestamp="1448699416065">
+      <file name="/a.dummy" timestamp="1448866374495">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/UniqueIndex.java" timestamp="1448696782629">
@@ -140,11 +140,11 @@
         <mark key="." line="19" column="26" />
         <mark key="^" line="19" column="26" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/dict/DictCache.java" timestamp="1448865893550">
-        <mark key="[" line="92" column="14" />
-        <mark key="]" line="92" column="20" />
-        <mark key="." line="92" column="20" />
-        <mark key="^" line="92" column="20" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/dict/DictCache.java" timestamp="1448867021993">
+        <mark key="[" line="27" column="4" />
+        <mark key="]" line="33" column="6" />
+        <mark key="." line="113" column="13" />
+        <mark key="^" line="113" column="13" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/controller/SysController.java" timestamp="1448859045280">
         <mark key="[" line="61" column="0" />
@@ -179,11 +179,12 @@
         <mark key="^" line="326" column="23" />
         <mark key="." line="326" column="23" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/SysService.java" timestamp="1448863426684">
-        <mark key="'" line="135" column="0" />
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="62" />
-        <mark key="^" line="63" column="31" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/SysService.java" timestamp="1448867094137">
+        <mark key="'" line="116" column="0" />
+        <mark key="[" line="196" column="27" />
+        <mark key="]" line="196" column="28" />
+        <mark key="^" line="196" column="28" />
+        <mark key="." line="196" column="28" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/controller/WeixinController.java" timestamp="1448844304878">
         <mark key="[" line="63" column="0" />
@@ -332,14 +333,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="592" column="18" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" />
-      <jump line="586" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" />
-      <jump line="577" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" />
-      <jump line="568" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" />
-      <jump line="559" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" />
-      <jump line="550" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" />
-      <jump line="541" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" />
-      <jump line="532" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" />
       <jump line="523" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" />
       <jump line="514" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" />
       <jump line="505" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" />
@@ -432,46 +425,60 @@
       <jump line="156" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/SysService.java" />
       <jump line="146" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/SysService.java" />
       <jump line="135" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/SysService.java" />
+      <jump line="187" column="33" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/SysService.java" />
+      <jump line="185" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/SysService.java" />
+      <jump line="175" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/SysService.java" />
+      <jump line="164" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/SysService.java" />
+      <jump line="152" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/SysService.java" />
+      <jump line="137" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/SysService.java" />
+      <jump line="127" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/SysService.java" />
+      <jump line="112" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/SysService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IG51bGw=</text>
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG51bGw=</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQmVhblV0aWxzLmNvcHlQcm9wZXJ0aWVzKGRpY3QsIGNvcHkpOwo=</text>
+      <register name="0" type="4">
+        <text>/**
+     * 根据字典类型获取其json格式的字典值字符串
+     *
+     * @param dictClass 指定的字典类型
+     * @return json格式的字典值字符串，或null表示无此字典
+     * @throws Exception 任何异常
+     */</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IG51bGw=</text>
+        <text>o</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY29weTsK</text>
+      <register name="2" type="4">
+        <text>i</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="3" type="4">
+        <text>作</text>
       </register>
       <register name="4" type="4">
-        <text>.</text>
+        <text>操</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>s</text>
       </register>
       <register name="6" type="4">
-        <text>T</text>
+        <text>s</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">PA==</text>
+        <text>o</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IEltbXV0YWJsZUxpc3Q=</text>
+        <text>常</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>异</text>
       </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>
