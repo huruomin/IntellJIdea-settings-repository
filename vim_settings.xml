@@ -19,7 +19,7 @@
         <mark key="." line="70" column="55" />
         <mark key="^" line="70" column="55" />
       </file>
-      <file name="/a.dummy" timestamp="1448866374495">
+      <file name="/a.dummy" timestamp="1448867796827">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/UniqueIndex.java" timestamp="1448696782629">
@@ -140,11 +140,11 @@
         <mark key="." line="19" column="26" />
         <mark key="^" line="19" column="26" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/dict/DictCache.java" timestamp="1448867021993">
-        <mark key="[" line="27" column="4" />
-        <mark key="]" line="33" column="6" />
-        <mark key="." line="113" column="13" />
-        <mark key="^" line="113" column="13" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/dict/DictCache.java" timestamp="1448868569687">
+        <mark key="[" line="103" column="45" />
+        <mark key="]" line="103" column="55" />
+        <mark key="." line="103" column="55" />
+        <mark key="^" line="103" column="55" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/controller/SysController.java" timestamp="1448859045280">
         <mark key="[" line="61" column="0" />
@@ -179,7 +179,7 @@
         <mark key="^" line="326" column="23" />
         <mark key="." line="326" column="23" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/SysService.java" timestamp="1448867094137">
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/SysService.java" timestamp="1448868412979">
         <mark key="'" line="116" column="0" />
         <mark key="[" line="196" column="27" />
         <mark key="]" line="196" column="28" />
@@ -212,11 +212,12 @@
         <mark key="^" line="16" column="21" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" timestamp="1448859767097">
-        <mark key="[" line="260" column="49" />
-        <mark key="]" line="260" column="52" />
-        <mark key="." line="260" column="52" />
-        <mark key="^" line="260" column="52" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" timestamp="1448867982522">
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="187" column="0" />
+        <mark key="]" line="187" column="0" />
+        <mark key="." line="187" column="0" />
+        <mark key="^" line="171" column="47" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/model/sys/OtsUtils.java" timestamp="1448527328916">
         <mark key="[" line="81" column="25" />
@@ -294,7 +295,7 @@
       <file name="/I18nized Expression.txt.ft" timestamp="1448519605993">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/weixin/SaveUserBehaviorStep.java" timestamp="1448861213022">
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/weixin/SaveUserBehaviorStep.java" timestamp="1448868719292">
         <mark key="[" line="49" column="28" />
         <mark key="]" line="47" column="24" />
         <mark key="." line="47" column="24" />
@@ -333,26 +334,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="523" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" />
-      <jump line="514" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" />
-      <jump line="505" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" />
-      <jump line="496" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" />
-      <jump line="487" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" />
-      <jump line="478" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" />
-      <jump line="469" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" />
-      <jump line="460" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" />
-      <jump line="451" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" />
-      <jump line="442" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" />
-      <jump line="433" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" />
-      <jump line="424" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" />
-      <jump line="415" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" />
-      <jump line="406" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" />
-      <jump line="397" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" />
-      <jump line="388" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" />
-      <jump line="379" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" />
-      <jump line="370" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" />
-      <jump line="361" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" />
-      <jump line="352" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" />
       <jump line="343" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" />
       <jump line="334" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" />
       <jump line="325" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" />
@@ -433,52 +414,66 @@
       <jump line="137" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/SysService.java" />
       <jump line="127" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/SysService.java" />
       <jump line="112" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/SysService.java" />
+      <jump line="201" column="53" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" />
+      <jump line="193" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" />
+      <jump line="189" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" />
+      <jump line="172" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" />
+      <jump line="168" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" />
+      <jump line="164" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" />
+      <jump line="146" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" />
+      <jump line="133" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" />
+      <jump line="125" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" />
+      <jump line="119" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" />
+      <jump line="104" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" />
+      <jump line="93" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" />
+      <jump line="83" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" />
+      <jump line="73" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" />
+      <jump line="64" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" />
+      <jump line="62" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" />
+      <jump line="59" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" />
+      <jump line="56" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" />
+      <jump line="53" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" />
+      <jump line="50" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>o</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
       </register>
-      <register name="0" type="4">
-        <text>/**
-     * 根据字典类型获取其json格式的字典值字符串
-     *
-     * @param dictClass 指定的字典类型
-     * @return json格式的字典值字符串，或null表示无此字典
-     * @throws Exception 任何异常
-     */</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogu/HIoda4tqi1xNfWteTB0LHtCiAgICAgKgogICAgICogQHBhcmFtIGRpY3RDbGFzcyDWuLaotcTX1rXkwODQzQogICAgICogQHBhcmFtIDxUPiAgICAgICDX1rXkwODQzQogICAgICogQHJldHVybiC78cihtb21xNfWteTB0LHto6y3x251bGy3x7/VwdCx7QogICAgICovCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>o</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>i</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogu/HIoda4tqi1xNfWteTWtQogICAgICoKICAgICAqIEBwYXJhbSBkaWN0Q2xhc3Mg1ri2qLXE19a15MDg0M0KICAgICAqIEBwYXJhbSBrZXkgICAgICAg1ri2qLXE19a15GtleQogICAgICogQHBhcmFtIDxUPiAgICAgICDX1rXkwODQzQogICAgICogQHJldHVybiC78cihtb21xNfWteTWtaOst8dudWxsCiAgICAgKi8KICAgIHB1YmxpYyA8VCBleHRlbmRzIERpY3Q+IFQgcmVxdWVzdERpY3QoQ2xhc3M8VD4gZGljdENsYXNzLCBTdHJpbmcga2V5KSB7CiAgICAgICAgcmV0dXJuIHRoaXMuZGljdENhY2hlLmdldERpY3QoZGljdENsYXNzLCBrZXkpOwogICAgfQo=</text>
       </register>
       <register name="3" type="4">
-        <text>作</text>
-      </register>
-      <register name="4" type="4">
-        <text>操</text>
-      </register>
-      <register name="5" type="4">
         <text>s</text>
       </register>
-      <register name="6" type="4">
-        <text>s</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>o</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>常</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogu/HIoda4tqi1xNfWteTWtQogICAgICoKICAgICAqIEBwYXJhbSBkaWN0Q2xhc3Mg1ri2qLXE19a15MDg0M0KICAgICAqIEBwYXJhbSBrZXkgICAgICAg1ri2qLXE19a15GtleQogICAgICogQHBhcmFtIDxUPiAgICAgICDX1rXkwODQzQogICAgICogQHJldHVybiC78cihtb21xNfWteTWtaOst8dudWxsCiAgICAgKi8K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBmaW5hbCBMb2FkaW5nQ2FjaGU8Q2xhc3M8PyBleHRlbmRzIERpY3Q+LCBNYXA8U3RyaW5nLCBEaWN0Pj4gZGljdENhY2hlOwo=</text>
       </register>
       <register name="9" type="4">
-        <text>异</text>
+        <text encoding="base64">IG51bGw=</text>
       </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>
