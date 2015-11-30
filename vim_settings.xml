@@ -168,12 +168,12 @@
         <mark key="^" line="326" column="23" />
         <mark key="." line="326" column="23" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/SysService.java" timestamp="1448851596424">
-        <mark key="'" line="243" column="68" />
-        <mark key="[" line="244" column="0" />
-        <mark key="]" line="244" column="87" />
-        <mark key="." line="243" column="0" />
-        <mark key="^" line="243" column="128" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/SysService.java" timestamp="1448855919068">
+        <mark key="'" line="238" column="68" />
+        <mark key="[" line="63" column="27" />
+        <mark key="]" line="63" column="31" />
+        <mark key="." line="63" column="31" />
+        <mark key="^" line="63" column="31" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/controller/WeixinController.java" timestamp="1448844304878">
         <mark key="[" line="63" column="0" />
@@ -417,11 +417,11 @@
       <jump line="3" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/dict/user/UserBehavior.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0RmFsc2UK</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
@@ -429,32 +429,34 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0LmlzU3VjY2VzcygpICYmICFDb2xsZWN0aW9uVXRpbHMuaXNFbXB0eShyZXN1bHQuZ2V0RGljdHMoKSkgPyBPcHRpb25hbC5vZihyZXN1bHQuZ2V0RGljdHMoKSkgOiBPcHRpb25hbC48TGlzdDxUPj5hYnNlbnQoKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0RmFsc2UK</text>
+      <register name="1" type="4">
+        <text>r</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBKU09OLnBhcnNlQXJyYXkoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0Cg==</text>
+      <register name="3" type="4">
+        <text>if (CollectionUtils.isEmpty(r)) {
+                    throw new IllegalArgumentException(&quot;no such dict&quot;);
+                }</text>
       </register>
       <register name="4" type="4">
-        <text>.</text>
+        <text>)</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>(</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPHZlcnNpb24uY2FzdG9yeG1sPjEuMy4zPC92ZXJzaW9uLmNhc3RvcnhtbD4tLT4K</text>
+      <register name="6" type="4">
+        <text>t</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+      <register name="7" type="4">
+        <text>e</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
+      <register name="8" type="4">
+        <text>g</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChyLmlzUHJlc2VudCgpKSB7Cg==</text>
+      <register name="9" type="4">
+        <text>.</text>
       </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>
