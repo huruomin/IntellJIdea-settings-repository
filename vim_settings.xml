@@ -140,11 +140,11 @@
         <mark key="." line="19" column="26" />
         <mark key="^" line="19" column="26" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/controller/SysController.java" timestamp="1448852485051">
-        <mark key="[" line="59" column="25" />
-        <mark key="]" line="59" column="25" />
-        <mark key="^" line="59" column="38" />
-        <mark key="." line="59" column="25" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/controller/SysController.java" timestamp="1448859045280">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="^" line="61" column="91" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" timestamp="1448269579234">
         <mark key="'" line="225" column="0" />
@@ -168,10 +168,10 @@
         <mark key="^" line="326" column="23" />
         <mark key="." line="326" column="23" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/SysService.java" timestamp="1448855919068">
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/SysService.java" timestamp="1448859078108">
         <mark key="'" line="238" column="68" />
-        <mark key="[" line="63" column="27" />
-        <mark key="]" line="63" column="31" />
+        <mark key="[" line="239" column="0" />
+        <mark key="]" line="240" column="84" />
         <mark key="." line="63" column="31" />
         <mark key="^" line="63" column="31" />
       </file>
@@ -201,10 +201,11 @@
         <mark key="^" line="16" column="21" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" timestamp="1448854914365">
-        <mark key="[" line="276" column="0" />
-        <mark key="]" line="276" column="0" />
-        <mark key="." line="276" column="0" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" timestamp="1448859767097">
+        <mark key="[" line="260" column="49" />
+        <mark key="]" line="260" column="52" />
+        <mark key="." line="260" column="52" />
+        <mark key="^" line="260" column="52" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/model/sys/OtsUtils.java" timestamp="1448527328916">
         <mark key="[" line="81" column="25" />
@@ -280,18 +281,18 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/project/yanji/src/server/yanji-server/src/main/resources/profiles/dev/application.properties" timestamp="1448846802376" />
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/weixin/SaveUserBehaviorStep.java" timestamp="1448848868981">
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/weixin/SaveUserBehaviorStep.java" timestamp="1448861213022">
         <mark key="[" line="49" column="28" />
         <mark key="]" line="47" column="24" />
         <mark key="." line="47" column="24" />
         <mark key="^" line="47" column="24" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/controller/UserController.java" timestamp="1448847600142" />
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/param/sys/GetDictsResponse.java" timestamp="1448852395083">
-        <mark key="[" line="37" column="30" />
-        <mark key="]" line="37" column="30" />
-        <mark key="^" line="37" column="30" />
-        <mark key="." line="37" column="30" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/controller/UserController.java" timestamp="1448861177388" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/param/sys/GetDictsResponse.java" timestamp="1448858939469">
+        <mark key="[" line="18" column="25" />
+        <mark key="]" line="19" column="3" />
+        <mark key="^" line="19" column="3" />
+        <mark key="." line="19" column="3" />
       </file>
       <file name="/Class.txt.ft" timestamp="1448519813657">
         <mark key="[" line="0" column="0" />
@@ -418,45 +419,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>ApiClient</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>ApiClient</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0LmlzU3VjY2VzcygpICYmICFDb2xsZWN0aW9uVXRpbHMuaXNFbXB0eShyZXN1bHQuZ2V0RGljdHMoKSkgPyBPcHRpb25hbC5vZihyZXN1bHQuZ2V0RGljdHMoKSkgOiBPcHRpb25hbC48TGlzdDxUPj5hYnNlbnQoKTsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">QXBpQ2xpZW50IA==</text>
       </register>
       <register name="1" type="4">
-        <text>r</text>
+        <text>ApiClient</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>if (CollectionUtils.isEmpty(r)) {
-                    throw new IllegalArgumentException(&quot;no such dict&quot;);
-                }</text>
+        <text>s</text>
       </register>
       <register name="4" type="4">
-        <text>)</text>
+        <text>i</text>
       </register>
       <register name="5" type="4">
-        <text>(</text>
+        <text>h</text>
       </register>
       <register name="6" type="4">
         <text>t</text>
       </register>
       <register name="7" type="4">
-        <text>e</text>
+        <text>invoke</text>
       </register>
-      <register name="8" type="4">
-        <text>g</text>
+      <register name="8" type="2">
+        <text encoding="base64">Ly8gICAgICAgIEFzc2VydC5oYXNMZW5ndGgoZGljdFR5cGUpOwovLyAgICAgICAgR2V0RGljdHNSZXF1ZXN0IHBhcmFtID0gbmV3IEdldERpY3RzUmVxdWVzdCgpOwovLyAgICAgICAgcGFyYW0uc2V0RGljdFR5cGUoZGljdFR5cGUpOwovLyAgICAgICAgR2V0RGljdHNSZXNwb25zZSByZXN1bHQgPSByZXF1ZXN0KHRoaXMuZGljdEFwaSwgcGFyYW0sIEdldERpY3RzUmVzcG9uc2UuY2xhc3MpOwovLyAgICAgICAgcmV0dXJuIHJlc3VsdC5pc1N1Y2Nlc3MoKSA/IE9wdGlvbmFsLm9mKHJlc3VsdC5nZXREaWN0cygpKSA6IE9wdGlvbmFsLjxMaXN0PERpY3Q+PmFic2VudCgpOwoKCg==</text>
       </register>
       <register name="9" type="4">
-        <text>.</text>
+        <text>Dict</text>
       </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>
