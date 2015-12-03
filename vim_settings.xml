@@ -301,6 +301,12 @@
       <file name="/I18nized Expression.txt.ft" timestamp="1448519605993">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/project/yanji/src/server/yanji-server/src/main/resources/profiles/dev/application.properties" timestamp="1449130311460">
+        <mark key="[" line="7" column="18" />
+        <mark key="]" line="7" column="49" />
+        <mark key="^" line="7" column="49" />
+        <mark key="." line="7" column="49" />
+      </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/weixin/SaveUserBehaviorStep.java" timestamp="1448871908975">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -443,43 +449,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>进</text>
+        <text>CW5uQooplp4WkIJqi8CLNzEgYymFzq</text>
       </register>
       <register name="-" type="4">
-        <text>进</text>
+        <text>CW5uQooplp4WkIJqi8CLNzEgYymFzq</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBRdWFsaWZpZXIoInN5c1Byb3BlcnRpZXMiKQo=</text>
+        <text encoding="base64">YWxpeXVuLmtleS5pZD01R3pJdTZoOHJWOVBVUW56CmFsaXl1bi5rZXkuc2VjcmV0PUNXNXVRb29wbHA0V2tJSnFpOENMTnpFZ1l5bUZ6cQo=</text>
       </register>
       <register name="1" type="4">
-        <text>进</text>
+        <text>CW5uQooplp4WkIJqi8CLNzEgYymFzq</text>
       </register>
       <register name="2" type="4">
-        <text>行</text>
+        <text>5GzIu6h8rV9PUQnz</text>
       </register>
       <register name="3" type="4">
-        <text>能</text>
+        <text>进</text>
       </register>
       <register name="4" type="4">
-        <text>功</text>
+        <text>行</text>
       </register>
       <register name="5" type="4">
-        <text>共</text>
+        <text>能</text>
       </register>
       <register name="6" type="4">
-        <text>公</text>
+        <text>功</text>
       </register>
       <register name="7" type="4">
-        <text>的</text>
+        <text>共</text>
       </register>
       <register name="8" type="4">
-        <text>序</text>
+        <text>公</text>
       </register>
       <register name="9" type="4">
-        <text>程</text>
+        <text>的</text>
       </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>
