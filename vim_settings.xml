@@ -301,11 +301,11 @@
       <file name="/I18nized Expression.txt.ft" timestamp="1448519605993">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/project/yanji/src/server/yanji-server/src/main/resources/profiles/dev/application.properties" timestamp="1449130311460">
-        <mark key="[" line="7" column="18" />
-        <mark key="]" line="7" column="49" />
-        <mark key="^" line="7" column="49" />
-        <mark key="." line="7" column="49" />
+      <file name="D:/project/yanji/src/server/yanji-server/src/main/resources/profiles/dev/application.properties" timestamp="1449131184005">
+        <mark key="[" line="3" column="26" />
+        <mark key="]" line="4" column="4" />
+        <mark key="^" line="4" column="4" />
+        <mark key="." line="4" column="4" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/weixin/SaveUserBehaviorStep.java" timestamp="1448871908975">
         <mark key="[" line="34" column="0" />
