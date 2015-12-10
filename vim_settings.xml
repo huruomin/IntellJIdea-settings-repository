@@ -100,12 +100,12 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OtsService.java" timestamp="1449719107595">
-        <mark key="'" line="39" column="0" />
-        <mark key="[" line="142" column="4" />
-        <mark key="]" line="146" column="4" />
-        <mark key="^" line="142" column="61" />
-        <mark key="." line="34" column="0" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OtsService.java" timestamp="1449728487541">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="139" column="59" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="/ActionScript File Header.txt.ft" timestamp="1448698302840">
         <mark key="[" line="0" column="0" />
@@ -266,11 +266,9 @@
         <mark key="." line="33" column="17" />
         <mark key="^" line="33" column="17" />
       </file>
-      <file name="D:/project/yanji/src/server/yanji-server/src/main/resources/api-spring-context.xml" timestamp="1449725803203">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="54" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="26" column="3" />
+      <file name="D:/project/yanji/src/server/yanji-server/src/main/resources/api-spring-context.xml" timestamp="1449727973613">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="54" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/weixin/MessageDispatchStep.java" timestamp="1448699089708">
         <mark key="[" line="20" column="31" />
@@ -288,10 +286,10 @@
         <mark key="[" line="18" column="0" />
         <mark key="]" line="21" column="68" />
       </file>
-      <file name="D:/project/yanji/src/server/yanji-server/src/main/resources/api-servlet-context.xml" timestamp="1449725799577">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
+      <file name="D:/project/yanji/src/server/yanji-server/src/main/resources/api-servlet-context.xml" timestamp="1449728677577">
+        <mark key="[" line="63" column="4" />
+        <mark key="]" line="63" column="54" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="/Groovy JUnit TearDown Method.txt.ft" timestamp="1448698305522">
         <mark key="[" line="0" column="0" />
@@ -313,11 +311,11 @@
         <mark key="^" line="15" column="3" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/commons/ValidationResultHandler.java" timestamp="1449720547685">
-        <mark key="[" line="24" column="42" />
-        <mark key="]" line="24" column="49" />
-        <mark key="^" line="24" column="49" />
-        <mark key="." line="24" column="49" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/commons/ValidationResultHandler.java" timestamp="1449729047918">
+        <mark key="[" line="24" column="75" />
+        <mark key="]" line="24" column="138" />
+        <mark key="^" line="24" column="138" />
+        <mark key="." line="24" column="138" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/model/sys/RedisKey.java" timestamp="1448356495129">
         <mark key="[" line="20" column="67" />
@@ -482,44 +480,44 @@
       <jump line="39" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OtsService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxhb3A6YXNwZWN0ai1hdXRvcHJveHkgcHJveHktdGFyZ2V0LWNsYXNzPSJ0cnVlIi8+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">PGJlYW5zOmJlYW4gY2xhc3M9ImNvbS5odXJ1b21pbi5tdmMuY29tbW9ucy5WYWxpZGF0aW9uUmVzdWx0SGFuZGxlciIvPg==</text>
-      </register>
-      <register name="1" type="2">
+      <register name="0" type="2">
         <text encoding="base64">ICAgIDxhb3A6YXNwZWN0ai1hdXRvcHJveHkgcHJveHktdGFyZ2V0LWNsYXNzPSJ0cnVlIi8+Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>&quot;</text>
+      <register name="1" type="4">
+        <text>*</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">QEFzcGVjdAo=</text>
       </register>
       <register name="3" type="4">
-        <text>e</text>
+        <text>*</text>
       </register>
       <register name="4" type="4">
-        <text>u</text>
+        <text>.</text>
       </register>
       <register name="5" type="4">
-        <text>r</text>
+        <text>*</text>
       </register>
       <register name="6" type="4">
-        <text>t</text>
+        <text>.</text>
       </register>
       <register name="7" type="4">
-        <text>&quot;</text>
+        <text>OtsService</text>
       </register>
       <register name="8" type="4">
-        <text>=</text>
+        <text encoding="base64">PCEtLSDX1Lav16LI62NvbnRyb2xsZXIgLS0+CiAgICA8Y29udGV4dDpjb21wb25lbnQtc2NhbiBiYXNlLXBhY2thZ2U9ImNvbS5odXJ1b21pbi5tdmMiIHVzZS1kZWZhdWx0LWZpbHRlcnM9ImZhbHNlIj4KICAgICAgICA8Y29udGV4dDppbmNsdWRlLWZpbHRlciB0eXBlPSJhbm5vdGF0aW9uIiBleHByZXNzaW9uPSJvcmcuc3ByaW5nZnJhbWV3b3JrLnN0ZXJlb3R5cGUuQ29udHJvbGxlciIvPgogICAgPC9jb250ZXh0OmNvbXBvbmVudC1zY2FuPgogICAgPGNvbnRleHQ6Y29tcG9uZW50LXNjYW4gYmFzZS1wYWNrYWdlPSJjb20ueWFuamkuc2VydmVyLmNvbnRyb2xsZXIiIHVzZS1kZWZhdWx0LWZpbHRlcnM9ImZhbHNlIj4KICAgICAgICA8Y29udGV4dDppbmNsdWRlLWZpbHRlciB0eXBlPSJhbm5vdGF0aW9uIiBleHByZXNzaW9uPSJvcmcuc3ByaW5nZnJhbWV3b3JrLnN0ZXJlb3R5cGUuQ29udHJvbGxlciIvPgogICAgPC9jb250ZXh0OmNvbXBvbmVudC1zY2FuPg==</text>
       </register>
       <register name="9" type="4">
-        <text>s</text>
+        <text encoding="base64">PCEtLSDX1Lav16LI62NvbnRyb2xsZXIgLS0+CiAgICA8Y29udGV4dDpjb21wb25lbnQtc2NhbiBiYXNlLXBhY2thZ2U9ImNvbS5odXJ1b21pbi5tdmMiIHVzZS1kZWZhdWx0LWZpbHRlcnM9ImZhbHNlIj4KICAgICAgICA8Y29udGV4dDppbmNsdWRlLWZpbHRlciB0eXBlPSJhbm5vdGF0aW9uIiBleHByZXNzaW9uPSJvcmcuc3ByaW5nZnJhbWV3b3JrLnN0ZXJlb3R5cGUuQ29udHJvbGxlciIvPgogICAgPC9jb250ZXh0OmNvbXBvbmVudC1zY2FuPgogICAgPGNvbnRleHQ6Y29tcG9uZW50LXNjYW4gYmFzZS1wYWNrYWdlPSJjb20ueWFuamkuc2VydmVyLmNvbnRyb2xsZXIiIHVzZS1kZWZhdWx0LWZpbHRlcnM9ImZhbHNlIj4KICAgICAgICA8Y29udGV4dDppbmNsdWRlLWZpbHRlciB0eXBlPSJhbm5vdGF0aW9uIiBleHByZXNzaW9uPSJvcmcuc3ByaW5nZnJhbWV3b3JrLnN0ZXJlb3R5cGUuQ29udHJvbGxlciIvPgogICAgPC9jb250ZXh0OmNvbXBvbmVudC1zY2FuPg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>
