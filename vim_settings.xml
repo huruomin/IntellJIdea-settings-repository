@@ -195,11 +195,11 @@
         <mark key="^" line="326" column="23" />
         <mark key="." line="326" column="23" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/aspect/OtsAspect.java" timestamp="1449732505347">
-        <mark key="[" line="27" column="68" />
-        <mark key="]" line="28" column="12" />
-        <mark key="^" line="28" column="12" />
-        <mark key="." line="28" column="12" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/aspect/OtsAspect.java" timestamp="1449732974378">
+        <mark key="[" line="29" column="115" />
+        <mark key="]" line="30" column="11" />
+        <mark key="^" line="30" column="11" />
+        <mark key="." line="30" column="11" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/SysService.java" timestamp="1448871888309">
         <mark key="'" line="116" column="0" />
@@ -486,11 +486,11 @@
       <jump line="39" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OtsService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IE9iamVjdA==</text>
       </register>
       <register name="-" type="4">
-        <text>HISTORY_TABLE_NAME</text>
+        <text encoding="base64">IE9iamVjdA==</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
@@ -498,32 +498,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxiZWFuIGNsYXNzPSJjb20uaHVydW9taW4ubXZjLmFzcGVjdC5CaW5kaW5nUmVzdWx0QXNwZWN0Ii8+Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">IE9iamVjdA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBwanAucHJvY2VlZCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGhpc3RvcnkuCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>)</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBISVNUT1JZX1RBQkxFX05BTUUgPSAiaGlzdG9yeSI7Cg==</text>
+      <register name="4" type="4">
+        <text>)</text>
       </register>
       <register name="5" type="4">
-        <text>HISTORY_TABLE_NAME</text>
+        <text>(</text>
       </register>
       <register name="6" type="4">
-        <text>y</text>
+        <text>e</text>
       </register>
       <register name="7" type="4">
-        <text>o</text>
+        <text>m</text>
       </register>
       <register name="8" type="4">
-        <text>r</text>
+        <text>a</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGlzdG9yeS5hZGRQcmltYXJ5S2V5KCk7Cg==</text>
+      <register name="9" type="4">
+        <text>N</text>
       </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>
