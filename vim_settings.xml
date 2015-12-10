@@ -195,11 +195,11 @@
         <mark key="^" line="326" column="23" />
         <mark key="." line="326" column="23" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/aspect/OtsAspect.java" timestamp="1449742330210">
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
-        <mark key="^" line="102" column="28" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/aspect/OtsAspect.java" timestamp="1449743106229">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="80" column="69" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/SysService.java" timestamp="1448871888309">
         <mark key="'" line="116" column="0" />
@@ -487,43 +487,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWFwPFN0cmluZywgU3RyaW5nPiBwcmltYXJ5S2V5c09iamVjdCA9IE1hcHMubmV3SGFzaE1hcCgpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>JSON.toJSONString(map);</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gQ29sbGVjdGlvblV0aWxzLmlzRW1wdHkobWFwKSA/IG51bGwgOiBKU09OLnRvSlNPTlN0cmluZyhtYXApOwo=</text>
+        <text encoding="base64">ICAgICAgICBKU09OT2JqZWN0IGpvID0gbmV3IEpTT05PYmplY3QoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWFwPFN0cmluZywgU3RyaW5nPiBwcmltYXJ5S2V5c09iamVjdCA9IE1hcHMubmV3SGFzaE1hcCgpOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text>(</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmltYXJ5S2V5c09iamVjdC5wdXQobmFtZSwgdmFsdWUuYXNTdHJpbmcoKSk7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>valueOf</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmltYXJ5S2V5c09iamVjdC5wdXQobmFtZSwgU3RyaW5nLnZhbHVlT2YodmFsdWUuYXNMb25nKCkpKTsK</text>
       </register>
       <register name="4" type="4">
-        <text>.</text>
+        <text>JSON.toJSONString(map);</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IFN0cmluZw==</text>
+        <text>map</text>
       </register>
       <register name="6" type="4">
-        <text>)</text>
+        <text>map</text>
       </register>
       <register name="7" type="4">
-        <text>asBoolean</text>
+        <text>map</text>
       </register>
-      <register name="8" type="4">
-        <text>asBoolean</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBTdHJpbmc+IG1hcCA9IE1hcHMubmV3SGFzaE1hcCgpOwo=</text>
       </register>
       <register name="9" type="4">
-        <text>asBoolean</text>
+        <text>)</text>
       </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>
