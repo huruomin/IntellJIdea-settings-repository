@@ -100,12 +100,12 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OtsService.java" timestamp="1449717666851">
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OtsService.java" timestamp="1449719107595">
         <mark key="'" line="39" column="0" />
-        <mark key="[" line="142" column="71" />
-        <mark key="]" line="142" column="72" />
-        <mark key="^" line="142" column="72" />
-        <mark key="." line="142" column="72" />
+        <mark key="[" line="142" column="4" />
+        <mark key="]" line="146" column="4" />
+        <mark key="^" line="142" column="61" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="/ActionScript File Header.txt.ft" timestamp="1448698302840">
         <mark key="[" line="0" column="0" />
@@ -308,9 +308,11 @@
         <mark key="^" line="15" column="3" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/commons/ValidationResultHandler.java" timestamp="1449717544855">
-        <mark key="[" line="32" column="12" />
-        <mark key="]" line="32" column="63" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/commons/ValidationResultHandler.java" timestamp="1449719200318">
+        <mark key="[" line="52" column="5" />
+        <mark key="]" line="54" column="3" />
+        <mark key="." line="54" column="3" />
+        <mark key="^" line="54" column="3" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/model/sys/RedisKey.java" timestamp="1448356495129">
         <mark key="[" line="20" column="67" />
@@ -476,43 +478,51 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>@Around(&quot;execution(* com.huruomin.mvc.service.OtsService.*(..))&quot;)
+    public Object moveToHist(ProceedingJoinPoint pjp) throws Throwable {
+        System.out.println(&quot;aop done&quot;);
+        return pjp.proceed();
+    }</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>w</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
       </register>
       <register name="0" type="4">
-        <text>&quot;execution(* com.huruomin.mvc.controller..*.*(..))&quot;)</text>
+        <text>@Around(&quot;execution(* com.huruomin.mvc.service.OtsService.*(..))&quot;)
+    public Object moveToHist(ProceedingJoinPoint pjp) throws Throwable {
+        System.out.println(&quot;aop done&quot;);
+        return pjp.proceed();
+    }</text>
       </register>
-      <register name="1" type="4">
-        <text>e</text>
+      <register name="1" type="2">
+        <text encoding="base64">QFNlcnZpY2UoIm90c1NlcnZpY2UiKQo=</text>
       </register>
       <register name="2" type="4">
-        <text>t</text>
-      </register>
-      <register name="3" type="4">
-        <text>a</text>
-      </register>
-      <register name="4" type="4">
-        <text>d</text>
-      </register>
-      <register name="5" type="4">
-        <text>p</text>
-      </register>
-      <register name="6" type="4">
-        <text>U</text>
-      </register>
-      <register name="7" type="4">
         <text>w</text>
       </register>
-      <register name="8" type="4">
+      <register name="3" type="4">
         <text>o</text>
       </register>
-      <register name="9" type="4">
+      <register name="4" type="4">
         <text>R</text>
+      </register>
+      <register name="5" type="4">
+        <text>e</text>
+      </register>
+      <register name="6" type="4">
+        <text>t</text>
+      </register>
+      <register name="7" type="4">
+        <text>a</text>
+      </register>
+      <register name="8" type="4">
+        <text>d</text>
+      </register>
+      <register name="9" type="4">
+        <text>p</text>
       </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>
