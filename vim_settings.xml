@@ -195,11 +195,11 @@
         <mark key="^" line="326" column="23" />
         <mark key="." line="326" column="23" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/aspect/OtsAspect.java" timestamp="1449739158597">
-        <mark key="[" line="47" column="12" />
-        <mark key="]" line="48" column="15" />
-        <mark key="^" line="48" column="15" />
-        <mark key="." line="48" column="15" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/aspect/OtsAspect.java" timestamp="1449742330210">
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
+        <mark key="^" line="102" column="28" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/SysService.java" timestamp="1448871888309">
         <mark key="'" line="116" column="0" />
@@ -486,44 +486,44 @@
       <jump line="39" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OtsService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">R2V0Um93UmVzdWx0IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">R2V0Um93UmVzdWx0IA==</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxiZWFuIGNsYXNzPSJjb20uaHVydW9taW4ubXZjLmFzcGVjdC5CaW5kaW5nUmVzdWx0QXNwZWN0Ii8+Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gQ29sbGVjdGlvblV0aWxzLmlzRW1wdHkobWFwKSA/IG51bGwgOiBKU09OLnRvSlNPTlN0cmluZyhtYXApOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">R2V0Um93UmVzdWx0IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>(</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0Lm5vdE51bGwocGpwKTsK</text>
+      <register name="3" type="4">
+        <text>valueOf</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0Lm5vdE51bGwocGpwKTsK</text>
+      <register name="4" type="4">
+        <text>.</text>
       </register>
       <register name="5" type="4">
-        <text />
+        <text encoding="base64">IFN0cmluZw==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3RzUm93R2V0LmFkZFByaW1hcnlLZXkoKTsK</text>
+      <register name="6" type="4">
+        <text>)</text>
       </register>
       <register name="7" type="4">
-        <text>g</text>
+        <text>asBoolean</text>
       </register>
       <register name="8" type="4">
-        <text>n</text>
+        <text>asBoolean</text>
       </register>
       <register name="9" type="4">
-        <text>i</text>
+        <text>asBoolean</text>
       </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>
