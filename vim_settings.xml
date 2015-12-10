@@ -12,11 +12,11 @@
       <file name="/File Header.txt.ft" timestamp="1448519832922">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/model/sys/History.java" timestamp="1449651482951">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="21" column="13" />
-        <mark key="." line="21" column="13" />
-        <mark key="^" line="21" column="13" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/model/sys/History.java" timestamp="1449715320536">
+        <mark key="[" line="30" column="5" />
+        <mark key="]" line="24" column="6" />
+        <mark key="." line="24" column="6" />
+        <mark key="^" line="24" column="6" />
       </file>
       <file name="D:/project/yanji/src/server/dicts/dev/com.huruomin.dict.sys.SysParam.dict" timestamp="1448347713332">
         <mark key="'" line="6" column="0" />
@@ -99,6 +99,13 @@
         <mark key="]" line="9" column="12" />
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
+      </file>
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OtsService.java" timestamp="1449717666851">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="142" column="71" />
+        <mark key="]" line="142" column="72" />
+        <mark key="^" line="142" column="72" />
+        <mark key="." line="142" column="72" />
       </file>
       <file name="/ActionScript File Header.txt.ft" timestamp="1448698302840">
         <mark key="[" line="0" column="0" />
@@ -275,6 +282,12 @@
         <mark key="[" line="18" column="0" />
         <mark key="]" line="21" column="68" />
       </file>
+      <file name="D:/project/yanji/src/server/yanji-server/src/main/resources/api-servlet-context.xml" timestamp="1449717682021">
+        <mark key="[" line="60" column="24" />
+        <mark key="]" line="60" column="47" />
+        <mark key="." line="60" column="47" />
+        <mark key="^" line="60" column="47" />
+      </file>
       <file name="/Groovy JUnit TearDown Method.txt.ft" timestamp="1448698305522">
         <mark key="[" line="0" column="0" />
       </file>
@@ -294,6 +307,10 @@
         <mark key="]" line="17" column="0" />
         <mark key="^" line="15" column="3" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/commons/ValidationResultHandler.java" timestamp="1449717544855">
+        <mark key="[" line="32" column="12" />
+        <mark key="]" line="32" column="63" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/model/sys/RedisKey.java" timestamp="1448356495129">
         <mark key="[" line="20" column="67" />
@@ -356,7 +373,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="343" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" />
       <jump line="334" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" />
       <jump line="325" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" />
       <jump line="316" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" />
@@ -456,46 +472,47 @@
       <jump line="56" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" />
       <jump line="53" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" />
       <jump line="50" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" />
+      <jump line="39" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OtsService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqILvxyKG1scewse3A4LXE1ve8/AogICAgICoKICAgICAqIEByZXR1cm4gtbHHsLHtwOC1xNb3vPwK</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogse3W97z8CiAgICAgKi8KICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZ1tdIFBSSU1BUllfS0VZUyA9IG5ldyBTdHJpbmdbXXsia2V5In07Cg==</text>
+      <register name="0" type="4">
+        <text>&quot;execution(* com.huruomin.mvc.controller..*.*(..))&quot;)</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAqILvxyKG1scewse3A4LXE1ve8/AogICAgICoKICAgICAqIEByZXR1cm4gtbHHsLHtwOC1xNb3vPwK</text>
+      <register name="1" type="4">
+        <text>e</text>
       </register>
       <register name="2" type="4">
-        <text>]</text>
+        <text>t</text>
       </register>
       <register name="3" type="4">
-        <text>0</text>
+        <text>a</text>
       </register>
       <register name="4" type="4">
-        <text>[</text>
+        <text>d</text>
       </register>
       <register name="5" type="4">
-        <text>g</text>
+        <text>p</text>
       </register>
       <register name="6" type="4">
-        <text>n</text>
+        <text>U</text>
       </register>
       <register name="7" type="4">
-        <text>i</text>
+        <text>w</text>
       </register>
       <register name="8" type="4">
-        <text>r</text>
+        <text>o</text>
       </register>
       <register name="9" type="4">
-        <text>t</text>
+        <text>R</text>
       </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>
