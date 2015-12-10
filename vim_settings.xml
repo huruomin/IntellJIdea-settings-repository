@@ -266,10 +266,10 @@
         <mark key="." line="33" column="17" />
         <mark key="^" line="33" column="17" />
       </file>
-      <file name="D:/project/yanji/src/server/yanji-server/src/main/resources/api-spring-context.xml" timestamp="1449720059260">
-        <mark key="[" line="26" column="5" />
-        <mark key="]" line="26" column="5" />
-        <mark key="." line="26" column="5" />
+      <file name="D:/project/yanji/src/server/yanji-server/src/main/resources/api-spring-context.xml" timestamp="1449725803203">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="54" />
+        <mark key="." line="27" column="0" />
         <mark key="^" line="26" column="3" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/weixin/MessageDispatchStep.java" timestamp="1448699089708">
@@ -288,11 +288,10 @@
         <mark key="[" line="18" column="0" />
         <mark key="]" line="21" column="68" />
       </file>
-      <file name="D:/project/yanji/src/server/yanji-server/src/main/resources/api-servlet-context.xml" timestamp="1449720630300">
-        <mark key="[" line="52" column="26" />
-        <mark key="]" line="52" column="26" />
-        <mark key="." line="52" column="26" />
-        <mark key="^" line="60" column="47" />
+      <file name="D:/project/yanji/src/server/yanji-server/src/main/resources/api-servlet-context.xml" timestamp="1449725799577">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="/Groovy JUnit TearDown Method.txt.ft" timestamp="1448698305522">
         <mark key="[" line="0" column="0" />
@@ -483,8 +482,8 @@
       <jump line="39" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OtsService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDxhb3A6YXNwZWN0ai1hdXRvcHJveHkgcHJveHktdGFyZ2V0LWNsYXNzPSJ0cnVlIi8+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
@@ -495,29 +494,29 @@
       <register name="0" type="4">
         <text encoding="base64">PGJlYW5zOmJlYW4gY2xhc3M9ImNvbS5odXJ1b21pbi5tdmMuY29tbW9ucy5WYWxpZGF0aW9uUmVzdWx0SGFuZGxlciIvPg==</text>
       </register>
-      <register name="1" type="4">
-        <text>&quot;</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIDxhb3A6YXNwZWN0ai1hdXRvcHJveHkgcHJveHktdGFyZ2V0LWNsYXNzPSJ0cnVlIi8+Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>e</text>
-      </register>
-      <register name="3" type="4">
-        <text>u</text>
-      </register>
-      <register name="4" type="4">
-        <text>r</text>
-      </register>
-      <register name="5" type="4">
-        <text>t</text>
-      </register>
-      <register name="6" type="4">
         <text>&quot;</text>
       </register>
+      <register name="3" type="4">
+        <text>e</text>
+      </register>
+      <register name="4" type="4">
+        <text>u</text>
+      </register>
+      <register name="5" type="4">
+        <text>r</text>
+      </register>
+      <register name="6" type="4">
+        <text>t</text>
+      </register>
       <register name="7" type="4">
-        <text>=</text>
+        <text>&quot;</text>
       </register>
       <register name="8" type="4">
-        <text>s</text>
+        <text>=</text>
       </register>
       <register name="9" type="4">
         <text>s</text>
