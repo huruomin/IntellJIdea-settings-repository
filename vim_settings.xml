@@ -199,9 +199,11 @@
         <mark key="." line="99" column="0" />
         <mark key="[" line="99" column="0" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/aspect/OtsAspect.java" timestamp="1449815253038">
-        <mark key="'" line="54" column="25" />
-        <mark key="[" line="77" column="5" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/aspect/OtsAspect.java" timestamp="1449816830962">
+        <mark key="]" line="77" column="49" />
+        <mark key="^" line="57" column="48" />
+        <mark key="." line="77" column="31" />
+        <mark key="[" line="77" column="31" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1448698303559">
         <mark key="[" line="0" column="0" />
@@ -346,7 +348,7 @@
         <mark key="." line="9" column="41" />
         <mark key="[" line="9" column="40" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/model/sys/OtsRowPut.java" timestamp="1449812550193">
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/model/sys/OtsRowPut.java" timestamp="1449816869841">
         <mark key="'" line="132" column="0" />
         <mark key="]" line="89" column="0" />
         <mark key="^" line="80" column="18" />
@@ -510,46 +512,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>，注：byte[]类型的字段将被忽略</text>
       </register>
       <register name="3" type="4">
-        <text>m</text>
+        <text encoding="base64">dGFibGUg</text>
       </register>
-      <register name="2" type="4">
-        <text>p</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIC8qIG9zc7f+zvEgKi8KICAgIEBSZXNvdXJjZQogICAgcHJpdmF0ZSBPc3NTZXJ2aWNlIG9zc1NlcnZpY2U7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>&quot;</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyB1c2VyX21ldGFfdGFibGUgPSAidGFibGUiOwo=</text>
+      <register name="0" type="4">
+        <text>，注：byte[]类型的字段将被忽略</text>
       </register>
       <register name="7" type="4">
-        <text>e</text>
+        <text>a</text>
       </register>
       <register name="6" type="4">
-        <text>s</text>
+        <text>b</text>
       </register>
       <register name="5" type="4">
-        <text>t</text>
+        <text>l</text>
       </register>
       <register name="4" type="4">
-        <text>a</text>
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>
       </register>
       <register name="9" type="4">
-        <text>i</text>
+        <text>除</text>
       </register>
       <register name="8" type="4">
-        <text>m</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>build</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">dGFibGUg</text>
       </register>
     </registers>
     <search>
