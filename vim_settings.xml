@@ -304,6 +304,12 @@
         <mark key="." line="7" column="10" />
         <mark key="[" line="6" column="3" />
       </file>
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" timestamp="1449798300062">
+        <mark key="'" line="95" column="8" />
+        <mark key="]" line="269" column="0" />
+        <mark key="." line="269" column="0" />
+        <mark key="[" line="269" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1449656470491">
         <mark key="[" line="0" column="0" />
       </file>
@@ -379,7 +385,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="325" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" />
       <jump line="316" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" />
       <jump line="307" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" />
       <jump line="298" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" />
@@ -479,34 +484,35 @@
       <jump line="50" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" />
       <jump line="39" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OtsService.java" />
       <jump line="30" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/aspect/OtsAspect.java" />
+      <jump line="95" column="8" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" />
     </jumps>
     <registers>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBPdHNSb3dQdXQgaGlzdG9yeSA9IG5ldyBPdHNSb3dQdXQoSElTVE9SWV9UQUJMRV9OQU1FKTsK</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="1" type="2">
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBtZXRhLgo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBtZXRhLgo=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBKU09OT2JqZWN0IGpvID0gbmV3IEpTT05PYmplY3QoKTsK</text>
       </register>
-      <register name="7" type="4">
-        <text>JSON.toJSONString(map);</text>
-      </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmltYXJ5S2V5c09iamVjdC5wdXQobmFtZSwgU3RyaW5nLnZhbHVlT2YodmFsdWUuYXNMb25nKCkpKTsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmltYXJ5S2V5c09iamVjdC5wdXQobmFtZSwgdmFsdWUuYXNTdHJpbmcoKSk7Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTWFwPFN0cmluZywgU3RyaW5nPiBwcmltYXJ5S2V5c09iamVjdCA9IE1hcHMubmV3SGFzaE1hcCgpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICBPdHNSb3dQdXQgaGlzdG9yeSA9IG5ldyBPdHNSb3dQdXQoSElTVE9SWV9UQUJMRV9OQU1FKTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>
@@ -515,19 +521,19 @@
         <text>map</text>
       </register>
       <register name="8" type="4">
-        <text>map</text>
+        <text>JSON.toJSONString(map);</text>
       </register>
       <register name="/" type="4">
-        <text>TODO</text>
+        <text>put</text>
       </register>
       <register name="-" type="4">
         <text>JSON.toJSONString(map);</text>
       </register>
     </registers>
     <search>
-      <last-search>TODO</last-search>
+      <last-search>put</last-search>
       <last-offset />
-      <last-pattern>TODO</last-pattern>
+      <last-pattern>put</last-pattern>
       <last-replace>ignoreProperties</last-replace>
       <last-substitute>ignoreFields</last-substitute>
       <last-dir>1</last-dir>
@@ -540,6 +546,7 @@
         <entry>anno</entry>
         <entry>Anno</entry>
         <entry>TODO</entry>
+        <entry>put</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvL2lzRXF1YWwgPSBpc0VxdWFsICYmIC9n</entry>
