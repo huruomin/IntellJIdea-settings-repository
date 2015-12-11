@@ -331,12 +331,12 @@
       <file name="/Dummy.txt" timestamp="1449656470491">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" timestamp="1449806772521">
-        <mark key="'" line="182" column="0" />
-        <mark key="]" line="155" column="0" />
-        <mark key="^" line="155" column="57" />
-        <mark key="." line="155" column="0" />
-        <mark key="[" line="155" column="0" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" timestamp="1449811072322">
+        <mark key="'" line="0" column="0" />
+        <mark key="]" line="276" column="43" />
+        <mark key="^" line="276" column="43" />
+        <mark key="." line="276" column="43" />
+        <mark key="[" line="276" column="44" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/dict/sys/SysParam.java" timestamp="1448330338213">
         <mark key="]" line="130" column="60" />
@@ -410,8 +410,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" />
-      <jump line="79" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" />
       <jump line="76" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" />
       <jump line="82" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/UniqueIndex.java" />
       <jump line="73" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/UniqueIndex.java" />
@@ -510,49 +508,51 @@
       <jump line="217" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" />
       <jump line="195" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" />
       <jump line="182" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" />
+      <jump line="46" column="18" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" />
+      <jump line="0" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="4">
-        <text>USER_ID</text>
+        <text>h</text>
       </register>
       <register name="2" type="4">
-        <text>&quot;</text>
+        <text>s</text>
       </register>
-      <register name="1" type="4">
-        <text>&quot;</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFVTRVJfSUQgPSAidXNlcl9pZCI7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>R</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>Y</text>
+        <text>p</text>
       </register>
       <register name="5" type="4">
-        <text>user_id</text>
+        <text>a</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAqINPDu6dpZNDywdDD+7PGCg==</text>
+      <register name="4" type="4">
+        <text>t</text>
       </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>
       </register>
       <register name="9" type="4">
-        <text>R</text>
+        <text>l</text>
       </register>
       <register name="8" type="4">
-        <text>O</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>s</text>
       </register>
     </registers>
     <search>
@@ -619,6 +619,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
