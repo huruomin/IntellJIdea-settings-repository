@@ -199,7 +199,7 @@
         <mark key="." line="99" column="0" />
         <mark key="[" line="99" column="0" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/aspect/OtsAspect.java" timestamp="1449819707553">
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/aspect/OtsAspect.java" timestamp="1449820838677">
         <mark key="]" line="136" column="47" />
         <mark key="^" line="136" column="68" />
         <mark key="." line="136" column="47" />
@@ -326,11 +326,12 @@
       <file name="/Dummy.txt" timestamp="1449812449454">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" timestamp="1449819207799">
-        <mark key="'" line="193" column="0" />
-        <mark key="]" line="331" column="0" />
-        <mark key="." line="331" column="0" />
-        <mark key="[" line="331" column="0" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" timestamp="1449820716511">
+        <mark key="'" line="196" column="0" />
+        <mark key="]" line="52" column="54" />
+        <mark key="^" line="52" column="54" />
+        <mark key="." line="52" column="54" />
+        <mark key="[" line="52" column="32" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/dict/sys/SysParam.java" timestamp="1448330338213">
         <mark key="]" line="130" column="60" />
@@ -363,12 +364,12 @@
         <mark key="." line="19" column="26" />
         <mark key="[" line="31" column="0" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OtsService.java" timestamp="1449800531134">
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OtsService.java" timestamp="1449820898413">
         <mark key="'" line="171" column="0" />
-        <mark key="]" line="153" column="21" />
-        <mark key="^" line="153" column="21" />
-        <mark key="." line="153" column="21" />
-        <mark key="[" line="153" column="22" />
+        <mark key="]" line="96" column="10" />
+        <mark key="^" line="96" column="10" />
+        <mark key="." line="96" column="10" />
+        <mark key="[" line="96" column="4" />
       </file>
       <file name="/fragment.java" timestamp="1449812390463">
         <mark key="[" line="0" column="0" />
@@ -506,55 +507,47 @@
       <jump line="55" column="25" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/aspect/OtsAspect.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtZXRhLmFkZFVzZXJNZXRhZGF0YShiKTsK</text>
+      <register name="&quot;" type="4">
+        <text>E</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>/</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>&quot;</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtZXRhLmFkZFVzZXJNZXRhZGF0YShiKTsK</text>
+      <register name="1" type="4">
+        <text>E</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBhZGRQcmltYXJ5S2V5cyhPdHNVc2VQcmltYXJ5S2V5cyBvdHMsIE1hcDxTdHJpbmcsIE9iamVjdD4gcHJpbWFyeUtleXMpIHsKICAgICAgICBBc3NlcnQubm90TnVsbChvdHMpOwogICAgICAgIEFzc2VydC5ub3ROdWxsKHByaW1hcnlLZXlzKTsKICAgICAgICBmb3IgKE1hcC5FbnRyeTxTdHJpbmcsIE9iamVjdD4gcGsgOiBwcmltYXJ5S2V5cy5lbnRyeVNldCgpKSB7CiAgICAgICAgICAgIFN0cmluZyBrZXkgPSBway5nZXRLZXkoKTsKICAgICAgICAgICAgT2JqZWN0IHZhbHVlID0gcGsuZ2V0VmFsdWUoKTsKICAgICAgICAgICAgaWYgKHZhbHVlIGluc3RhbmNlb2YgU3RyaW5nKSB7CiAgICAgICAgICAgICAgICBvdHMuYWRkUHJpbWFyeUtleShrZXksIChTdHJpbmcpIHZhbHVlKTsKICAgICAgICAgICAgfSBlbHNlIGlmICh2YWx1ZSBpbnN0YW5jZW9mIExvbmcpIHsKICAgICAgICAgICAgICAgIG90cy5hZGRQcmltYXJ5S2V5KGtleSwgKExvbmcpIHZhbHVlKTsKICAgICAgICAgICAgfSBlbHNlIGlmICh2YWx1ZSBpbnN0YW5jZW9mIFByaW1hcnlLZXlWYWx1ZSApIHsKICAgICAgICAgICAgICAgIFByaW1hcnlLZXlWYWx1ZSB2ID0gKFByaW1hcnlLZXlWYWx1ZSkgdmFsdWU7CiAgICAgICAgICAgICAgICBpZiAoUHJpbWFyeUtleVR5cGUuSU5URUdFUi5lcXVhbHModi5nZXRUeXBlKCkpKSB7CiAgICAgICAgICAgICAgICAgICAgb3RzLmFkZFByaW1hcnlLZXkoa2V5LCB2LmFzTG9uZygpKTsKICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAoUHJpbWFyeUtleVR5cGUuU1RSSU5HLmVxdWFscyh2LmdldFR5cGUoKSkpIHsKICAgICAgICAgICAgICAgICAgICBvdHMuYWRkUHJpbWFyeUtleShrZXksIHYuYXNTdHJpbmcoKSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKCJ1bnN1cHBvcnRlZCBwcmltYXJ5IGtleSBkYXRhIHR5cGU6ICIgKyBway5nZXRLZXkoKSk7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gSm9pbmVyLm9uKFBBVEhfU0VQRVJBVE9SKS5za2lwTnVsbHMoKS5qb2luKGZpbGVUeXBlLmdldEFyY2hQYXRoKCksIEpvaW5lci5vbihGSUxFX0VYVEVOU0lPTl9TRVBFUkFUT1IpLmpvaW4oZmlsZU5hbWUsIGZpbGVUeXBlLmdldEV4dGVuc2lvbigpKSk7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>r</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIC8vIM/IvavAz9PDu6fXysHP0LTI68D6yrex7QovLyAgICAgICAgVXNlckhpc3QgdXNlckhpc3QgPSBuZXcgVXNlckhpc3QoKTsKLy8gICAgICAgIEVudGl0eVV0aWxzLmNvcHlQcm9wZXJ0aWVzKHVzZXJBbHJlYWR5SW5UYWJsZSwgdXNlckhpc3QsICJrZXkiLCAiaGlzdFRpbWVzdGFtcCIpOwovLyAgICAgICAgdXNlckhpc3Quc2V0SGlzdFRpbWVzdGFtcChTdHJpbmcudmFsdWVPZihTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSkpOwovLyAgICAgICAgdXNlckhpc3Quc2V0S2V5KFVzZXJIaXN0LmJ1aWxkS2V5KHVzZXJIaXN0LmdldFVzZXJpZCgpLCB1c2VySGlzdC5nZXRIaXN0VGltZXN0YW1wKCkpKTsKLy8gICAgICAgIE90c1Jvd1B1dCBvdHNSb3dQdXQgPSBuZXcgT3RzUm93UHV0KFVzZXJIaXN0LlRBQkxFX05BTUUpOwovLyAgICAgICAgT3RzVXRpbHMuYWRkUHJpbWFyeUtleXMob3RzUm93UHV0LCB1c2VySGlzdCk7Ci8vICAgICAgICBPdHNVdGlscy5hZGRDb2x1bW5zKG90c1Jvd1B1dCwgdXNlckhpc3QpOwovLyAgICAgICAgb3RzU2VydmljZS5wdXRSb3cob3RzUm93UHV0KTsK</text>
+      <register name="6" type="4">
+        <text>c</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>h</text>
       </register>
       <register name="4" type="4">
-        <text>//        // 先将老用户资料写入历史表
-//        UserHist userHist = new UserHist();
-//        EntityUtils.copyProperties(userAlreadyInTable, userHist, &quot;key&quot;, &quot;histTimestamp&quot;);
-//        userHist.setHistTimestamp(String.valueOf(System.currentTimeMillis()));
-//        userHist.setKey(UserHist.buildKey(userHist.getUserid(), userHist.getHistTimestamp()));
-//        OtsRowPut otsRowPut = new OtsRowPut(UserHist.TABLE_NAME);
-//        OtsUtils.addPrimaryKeys(otsRowPut, userHist);
-//        OtsUtils.addColumns(otsRowPut, userHist);
-//        otsService.putRow(otsRowPut);</text>
+        <text>&quot;</text>
       </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>
       </register>
-      <register name="9" type="4">
-        <text>c</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gSm9pbmVyLm9uKCIvIikuc2tpcE51bGxzKCkuam9pbihmaWxlVHlwZS5nZXRSb290UGF0aCgpLCBKb2luZXIub24oIi4iKS5qb2luKGZpbGVOYW1lLCBmaWxlVHlwZS5nZXRFeHRlbnNpb24oKSkpOwo=</text>
       </register>
       <register name="8" type="4">
-        <text>t</text>
+        <text>A</text>
       </register>
       <register name="/" type="4">
         <text>build</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>E</text>
       </register>
     </registers>
     <search>
