@@ -193,10 +193,12 @@
         <mark key="." line="99" column="0" />
         <mark key="[" line="99" column="0" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/aspect/OtsAspect.java" timestamp="1449801999007">
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="[" line="26" column="0" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/aspect/OtsAspect.java" timestamp="1449805899848">
+        <mark key="'" line="55" column="0" />
+        <mark key="]" line="67" column="60" />
+        <mark key="^" line="61" column="49" />
+        <mark key="." line="64" column="0" />
+        <mark key="[" line="61" column="93" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1448698303559">
         <mark key="[" line="0" column="0" />
@@ -396,9 +398,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="136" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" />
-      <jump line="127" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" />
-      <jump line="117" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" />
       <jump line="108" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" />
       <jump line="98" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" />
       <jump line="89" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" />
@@ -496,43 +495,46 @@
       <jump line="134" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OtsService.java" />
       <jump line="146" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OtsService.java" />
       <jump line="171" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OtsService.java" />
+      <jump line="44" column="12" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/aspect/OtsAspect.java" />
+      <jump line="46" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/aspect/OtsAspect.java" />
+      <jump line="59" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/aspect/OtsAspect.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>avator</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgT3RzUm93R2V0IG90c1Jvd0dldCA9IG5ldyBPdHNSb3dHZXQodGFibGVOYW1lKTsKICAgICAgICAgICAgb3RzUm93R2V0LmFkZFByaW1hcnlLZXlzKHByaW1hcnlLZXlzKTsKICAgICAgICAgICAgUm93IHJvdyA9IG90c1NlcnZpY2UuZ2V0Um93KG90c1Jvd0dldCkuZ2V0Um93KCk7CiAgICAgICAgICAgIE1hcDxTdHJpbmcsIENvbHVtblZhbHVlPiBjb2x1bW5zID0gcm93LmdldENvbHVtbnMoKTsK</text>
       </register>
       <register name="3" type="4">
-        <text>c</text>
-      </register>
-      <register name="2" type="4">
-        <text>h</text>
-      </register>
-      <register name="1" type="4">
         <text>avator</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgT3RzUm93R2V0IG90c1Jvd0dldCA9IG5ldyBPdHNSb3dHZXQodGFibGVOYW1lKTsKICAgICAgICAgICAgb3RzUm93R2V0LmFkZFByaW1hcnlLZXlzKHByaW1hcnlLZXlzKTsKICAgICAgICAgICAgUm93IHJvdyA9IG90c1NlcnZpY2UuZ2V0Um93KG90c1Jvd0dldCkuZ2V0Um93KCk7CiAgICAgICAgICAgIE1hcDxTdHJpbmcsIENvbHVtblZhbHVlPiBjb2x1bW5zID0gcm93LmdldENvbHVtbnMoKTsK</text>
+      </register>
       <register name="0" type="2">
-        <text encoding="base64">eyJmaWxlVHlwZSI6ICJ1c2VyLWF2YXRvciIsICJidWNrZXQiOiJ5YW5qaS1wdWItYnVja2V0LWRldiIsICJyb290UGF0aCI6ICJ1c2VyLWF2YXRvciIsICJhcmNoUGF0aCI6ICJ1c2VyLWF2YXRvci1hcmNoIiwgImV4dGVuc2lvbiI6ICJhdmF0b3IiLCAiY29udGVudFR5cGUiOiAiIiwgImNhY2hlQ29udHJvbCI6ICIiLCAiaXNaaXAiOiAwfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgT3RzUm93R2V0IG90c1Jvd0dldCA9IG5ldyBPdHNSb3dHZXQodGFibGVOYW1lKTsKICAgICAgICAgICAgb3RzUm93R2V0LmFkZFByaW1hcnlLZXlzKHByaW1hcnlLZXlzKTsKICAgICAgICAgICAgUm93IHJvdyA9IG90c1NlcnZpY2UuZ2V0Um93KG90c1Jvd0dldCkuZ2V0Um93KCk7CiAgICAgICAgICAgIE1hcDxTdHJpbmcsIENvbHVtblZhbHVlPiBjb2x1bW5zID0gcm93LmdldENvbHVtbnMoKTsK</text>
       </register>
       <register name="7" type="4">
-        <text>r</text>
-      </register>
-      <register name="6" type="4">
-        <text>-</text>
-      </register>
-      <register name="5" type="4">
         <text>a</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>r</text>
+      </register>
+      <register name="5" type="4">
+        <text>c</text>
+      </register>
+      <register name="4" type="4">
+        <text>h</text>
       </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>
       </register>
       <register name="9" type="4">
-        <text>t</text>
+        <text>r</text>
       </register>
       <register name="8" type="4">
-        <text>o</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
