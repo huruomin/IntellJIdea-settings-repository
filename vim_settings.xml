@@ -304,11 +304,12 @@
         <mark key="." line="7" column="10" />
         <mark key="[" line="6" column="3" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" timestamp="1449798300062">
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" timestamp="1449799728117">
         <mark key="'" line="95" column="8" />
-        <mark key="]" line="269" column="0" />
-        <mark key="." line="269" column="0" />
-        <mark key="[" line="269" column="0" />
+        <mark key="]" line="186" column="117" />
+        <mark key="^" line="186" column="117" />
+        <mark key="." line="186" column="117" />
+        <mark key="[" line="186" column="112" />
       </file>
       <file name="/Dummy.txt" timestamp="1449656470491">
         <mark key="[" line="0" column="0" />
@@ -488,46 +489,46 @@
     </jumps>
     <registers>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="&quot;" type="2">
         <text encoding="base64">ICAgICAgICBtZXRhLgo=</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtZXRhLgo=</text>
+      <register name="1" type="4">
+        <text>e</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBKU09OT2JqZWN0IGpvID0gbmV3IEpTT05PYmplY3QoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmltYXJ5S2V5c09iamVjdC5wdXQobmFtZSwgU3RyaW5nLnZhbHVlT2YodmFsdWUuYXNMb25nKCkpKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmltYXJ5S2V5c09iamVjdC5wdXQobmFtZSwgdmFsdWUuYXNTdHJpbmcoKSk7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTWFwPFN0cmluZywgU3RyaW5nPiBwcmltYXJ5S2V5c09iamVjdCA9IE1hcHMubmV3SGFzaE1hcCgpOwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICBPdHNSb3dQdXQgaGlzdG9yeSA9IG5ldyBPdHNSb3dQdXQoSElTVE9SWV9UQUJMRV9OQU1FKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>
       </register>
-      <register name="9" type="4">
-        <text>map</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmltYXJ5S2V5c09iamVjdC5wdXQobmFtZSwgU3RyaW5nLnZhbHVlT2YodmFsdWUuYXNMb25nKCkpKTsK</text>
       </register>
-      <register name="8" type="4">
-        <text>JSON.toJSONString(map);</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmltYXJ5S2V5c09iamVjdC5wdXQobmFtZSwgdmFsdWUuYXNTdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="/" type="4">
         <text>put</text>
       </register>
       <register name="-" type="4">
-        <text>JSON.toJSONString(map);</text>
+        <text>e</text>
       </register>
     </registers>
     <search>
