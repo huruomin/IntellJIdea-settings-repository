@@ -137,6 +137,12 @@
         <mark key="." line="28" column="43" />
         <mark key="[" line="28" column="41" />
       </file>
+      <file name="D:/project/yanji/src/server/yanji-server/src/main/resources/application.properties" timestamp="1449825525998">
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="22" column="30" />
+        <mark key="." line="24" column="0" />
+        <mark key="[" line="24" column="0" />
+      </file>
       <file name="D:/project/yanji/src/server/dicts/dev/com.huruomin.dict.sys.FileType.dict" timestamp="1449813156690">
         <mark key="]" line="1" column="46" />
         <mark key="^" line="1" column="46" />
@@ -178,6 +184,12 @@
       <file name="/Dynamic Method Body.txt.ft" timestamp="1448698196618">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OpsService.java" timestamp="1449825427558">
+        <mark key="]" line="15" column="19" />
+        <mark key="^" line="15" column="19" />
+        <mark key="." line="15" column="19" />
+        <mark key="[" line="15" column="10" />
+      </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" timestamp="1448696888091">
         <mark key="'" line="84" column="0" />
         <mark key="]" line="25" column="10" />
@@ -198,6 +210,9 @@
         <mark key="[" line="15" column="6" />
       </file>
       <file name="/I18nized Expression.txt.ft" timestamp="1448519605993">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1449825412415">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/model/sys/OtsRangeGet.java" timestamp="1448596430471">
@@ -527,10 +542,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>3</text>
+        <text>socket</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx2ZXJzaW9uPiR7dmVyc2lvbi5hbGl5dW4tb3BlbnNlYXJjaH08L3ZlcnNpb24+Cg==</text>
+      <register name="2" type="4">
+        <text>.</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -539,31 +554,31 @@
         <text encoding="base64">PGRlcGVuZGVuY3k+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5jb20uYWxpeXVuLm9wZW5zZWFyY2g8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5hbGl5dW4tc2RrLW9wZW5zZWFyY2g8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8dmVyc2lvbj4ke3ZlcnNpb24uYWxpeXVuLW9wZW5zZWFyY2h9PC92ZXJzaW9uPgogICAgICAgICAgICA8L2RlcGVuZGVuY3k+</text>
       </register>
       <register name="7" type="4">
-        <text>2</text>
+        <text>3</text>
       </register>
-      <register name="6" type="4">
-        <text>.</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx2ZXJzaW9uPiR7dmVyc2lvbi5hbGl5dW4tb3BlbnNlYXJjaH08L3ZlcnNpb24+Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>1</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="4">
-        <text>.</text>
+        <text>openSearchService</text>
       </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>
       </register>
       <register name="9" type="4">
-        <text>s</text>
+        <text>1</text>
       </register>
       <register name="8" type="4">
-        <text>s</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>build</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>.</text>
       </register>
     </registers>
     <search>
