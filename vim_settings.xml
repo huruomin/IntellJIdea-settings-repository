@@ -15,7 +15,7 @@
         <mark key="." line="33" column="17" />
         <mark key="[" line="31" column="7" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/RedisService.java" timestamp="1449904597004">
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/RedisService.java" timestamp="1449906620525">
         <mark key="'" line="42" column="45" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/model/sys/OtsUseColumnsToPut.java" timestamp="1448525501186">
@@ -79,11 +79,11 @@
         <mark key="." line="46" column="42" />
         <mark key="[" line="28" column="0" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/PropertyService.java" timestamp="1449905782464">
-        <mark key="]" line="145" column="28" />
-        <mark key="^" line="145" column="28" />
-        <mark key="." line="145" column="28" />
-        <mark key="[" line="145" column="23" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/PropertyService.java" timestamp="1449906447838">
+        <mark key="]" line="135" column="11" />
+        <mark key="^" line="135" column="11" />
+        <mark key="." line="135" column="11" />
+        <mark key="[" line="135" column="7" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/dict/sys/Sequence.java" timestamp="1449806880297">
         <mark key="]" line="16" column="13" />
@@ -390,7 +390,7 @@
         <mark key="]" line="103" column="74" />
         <mark key="[" line="11" column="0" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" timestamp="1449896879423">
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" timestamp="1449907017230">
         <mark key="'" line="225" column="0" />
         <mark key="]" line="236" column="79" />
         <mark key="^" line="236" column="60" />
