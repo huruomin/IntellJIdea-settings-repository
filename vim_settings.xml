@@ -79,11 +79,11 @@
         <mark key="." line="46" column="42" />
         <mark key="[" line="28" column="0" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/PropertyService.java" timestamp="1449904491274">
-        <mark key="]" line="111" column="3" />
-        <mark key="^" line="111" column="3" />
-        <mark key="." line="111" column="3" />
-        <mark key="[" line="110" column="75" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/PropertyService.java" timestamp="1449905782464">
+        <mark key="]" line="145" column="28" />
+        <mark key="^" line="145" column="28" />
+        <mark key="." line="145" column="28" />
+        <mark key="[" line="145" column="23" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/dict/sys/Sequence.java" timestamp="1449806880297">
         <mark key="]" line="16" column="13" />
@@ -97,12 +97,11 @@
         <mark key="." line="102" column="16" />
         <mark key="[" line="102" column="17" />
       </file>
-      <file name="D:/project/yanji/src/server/dicts/dev/com.huruomin.dict.sys.SysParam.dict" timestamp="1449888700225">
-        <mark key="'" line="6" column="0" />
-        <mark key="]" line="67" column="52" />
-        <mark key="^" line="70" column="55" />
-        <mark key="." line="70" column="55" />
-        <mark key="[" line="67" column="43" />
+      <file name="D:/project/yanji/src/server/dicts/dev/com.huruomin.dict.sys.SysParam.dict" timestamp="1449905397406">
+        <mark key="]" line="52" column="0" />
+        <mark key="^" line="52" column="55" />
+        <mark key="." line="52" column="0" />
+        <mark key="[" line="52" column="0" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OssService.java" timestamp="1449904691380">
         <mark key="'" line="75" column="0" />
@@ -138,11 +137,11 @@
       <file name="D:/project/yanji/src/server/yanji-server/src/main/resources/api-spring-context.xml" timestamp="1449904248050">
         <mark key="[" line="7" column="86" />
       </file>
-      <file name="D:/project/yanji/src/server/yanji-server/src/main/resources/application.properties" timestamp="1449893600710">
-        <mark key="]" line="29" column="21" />
-        <mark key="^" line="29" column="21" />
-        <mark key="." line="29" column="21" />
-        <mark key="[" line="28" column="31" />
+      <file name="D:/project/yanji/src/server/yanji-server/src/main/resources/application.properties" timestamp="1449905506127">
+        <mark key="]" line="44" column="31" />
+        <mark key="^" line="44" column="31" />
+        <mark key="." line="44" column="31" />
+        <mark key="[" line="44" column="27" />
       </file>
       <file name="D:/project/yanji/src/server/dicts/dev/com.huruomin.dict.sys.FileType.dict" timestamp="1449813156690">
         <mark key="]" line="1" column="46" />
@@ -157,7 +156,7 @@
         <mark key="." line="20" column="43" />
         <mark key="[" line="20" column="42" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/SysService.java" timestamp="1449904574218">
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/SysService.java" timestamp="1449904994074">
         <mark key="'" line="26" column="24" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" timestamp="1449819077917">
@@ -253,10 +252,6 @@
         <mark key="." line="20" column="67" />
         <mark key="[" line="20" column="67" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.3.RELEASE/spring-beans-4.2.3.RELEASE.jar!/org/springframework/beans/factory/InitializingBean.class" timestamp="1449901089425">
-        <mark key="]" line="8" column="26" />
-        <mark key="[" line="8" column="8" />
-      </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" timestamp="1448867982522">
         <mark key="'" line="50" column="0" />
         <mark key="]" line="187" column="0" />
@@ -266,6 +261,12 @@
       </file>
       <file name="/Groovy JUnit TearDown Method.txt.ft" timestamp="1448698305522">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/HttpClientService.java" timestamp="1449905348275">
+        <mark key="]" line="22" column="8" />
+        <mark key="^" line="22" column="8" />
+        <mark key="." line="22" column="8" />
+        <mark key="[" line="22" column="7" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/dict/user/UserBehavior.java" timestamp="1448850321231">
         <mark key="'" line="3" column="0" />
@@ -312,7 +313,7 @@
         <mark key="[" line="17" column="0" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OtsService.java" timestamp="1449904660276">
-        <mark key="'" line="29" column="0" />
+        <mark key="'" line="28" column="0" />
       </file>
       <file name="/Unnamed.txt.ft" timestamp="1448519710754">
         <mark key="[" line="0" column="0" />
@@ -355,6 +356,7 @@
         <mark key="." line="4" column="4" />
         <mark key="[" line="3" column="26" />
       </file>
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/model/RedisKey.java" timestamp="1449904974078" />
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/UserHist.java" timestamp="1448697339534">
         <mark key="[" line="41" column="5" />
       </file>
@@ -370,20 +372,12 @@
       <file name="/Dummy.txt" timestamp="1449898625017">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OssService.java" timestamp="1449903735191">
-        <mark key="'" line="190" column="0" />
-        <mark key="]" line="59" column="43" />
-        <mark key="^" line="81" column="48" />
-        <mark key="." line="77" column="29" />
-        <mark key="j" line="37" column="2" />
-        <mark key="[" line="57" column="0" />
-      </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/dict/sys/SysParam.java" timestamp="1449889187329">
-        <mark key="'" line="40" column="13" />
-        <mark key="]" line="113" column="0" />
-        <mark key="^" line="115" column="6" />
-        <mark key="." line="113" column="0" />
-        <mark key="[" line="113" column="0" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/dict/sys/SysParam.java" timestamp="1449905360767">
+        <mark key="'" line="25" column="13" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="100" column="6" />
+        <mark key="." line="14" column="0" />
+        <mark key="[" line="14" column="0" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/model/sys/OtsRowPut.java" timestamp="1449818081313">
         <mark key="'" line="113" column="0" />
@@ -554,46 +548,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>PropKey</text>
+        <text>空</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIDwhLS08YmVhbiBpZD0ic3lzUHJvcGVydGllcyIgY2xhc3M9Im9yZy5zcHJpbmdmcmFtZXdvcmsuYmVhbnMuZmFjdG9yeS5jb25maWcuUHJvcGVydGllc0ZhY3RvcnlCZWFuIj4tLT4KICAgICAgICA8IS0tPHByb3BlcnR5IG5hbWU9ImxvY2F0aW9ucyI+LS0+CiAgICAgICAgICAgIDwhLS08bGlzdD4tLT4KICAgICAgICAgICAgICAgIDwhLS08dmFsdWU+Y2xhc3NwYXRoOi9hcHBsaWNhdGlvbi5wcm9wZXJ0aWVzPC92YWx1ZT4tLT4KICAgICAgICAgICAgPCEtLTwvbGlzdD4tLT4KICAgICAgICA8IS0tPC9wcm9wZXJ0eT4tLT4KICAgIDwhLS08L2JlYW4+LS0+Cg==</text>
+      <register name="3" type="4">
+        <text>可</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIDx1dGlsOnByb3BlcnRpZXMgaWQ9InN5c1Byb3BlcnRpZXMiIGxvY2F0aW9uPSJjbGFzc3BhdGg6L2FwcGxpY2F0aW9uLnByb3BlcnRpZXMiLz4K</text>
+      <register name="2" type="4">
+        <text>为</text>
       </register>
       <register name="1" type="4">
-        <text>PropKey</text>
+        <text>空</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIGFsaXl1bqO6a2V5IGlkCiAgICAgKi8KICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEFMSVlVTl9LRVlfSUQgPSAiYWxpeXVuLmtleS5pZCI7CgogICAgLyoqCiAgICAgKiBhbGl5dW6jumtleSBzZWNyZXQKICAgICAqLwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgQUxJWVVOX0tFWV9TRUNSRVQgPSAiYWxpeXVuLmtleS5zZWNyZXQiOwoKICAgIC8qKgogICAgICpvc3Ojumhvc3QKICAgICAqLwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgT1NTX0NMSUVOVF9IT1NUID0gIm9zcy5jbGllbnQuaG9zdCI7CgogICAgLyoqCiAgICAgKiBvc3OjutfutPPBrL3Tyv0KICAgICAqLwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgT1NTX0NMSUVOVF9NQVhfQ09OTkVDVElPTlMgPSAib3NzLmNsaWVudC5tYXguY29ubmVjdGlvbnMiOwoKICAgIC8qKgogICAgICogb3Nzo7rX7rTzway909bYytS0zsr9CiAgICAgKi8KICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIE9TU19DTElFTlRfTUFYX0VSUk9SX1JFVFJZID0gIm9zcy5jbGllbnQubWF4LmVycm9yLnJldHJ5IjsKCiAgICAvKioKICAgICAqIG9zc6O6way907OsyrEKICAgICAqLwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgT1NTX0NMSUVOVF9USU1FT1VUX0NPTk5FQ1QgPSAib3NzLmNsaWVudC50aW1lb3V0LmNvbm5lY3QiOwoKICAgIC8qKgogICAgICogb3Nzo7pzb2NrZXSzrMqxCiAgICAgKi8KICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIE9TU19DTElFTlRfVElNRU9VVF9TT0NLRVQgPSAib3NzLmNsaWVudC50aW1lb3V0LnNvY2tldCI7CgogICAgLyoqCiAgICAgKiBvdHOjumhvc3QKICAgICAqLwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgT1RTX0NMSUVOVF9IT1NUID0gIm90cy5jbGllbnQuaG9zdCI7CgogICAgLyoqCiAgICAgKiBvdHOjumluc3RhbmNlCiAgICAgKi8KICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIE9UU19DTElFTlRfSU5TVEFOQ0UgPSAib3RzLmNsaWVudC5pbnN0YW5jZSI7CgogICAgLyoqCiAgICAgKiBtbnOjumhvc3QKICAgICAqLwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgTU5TX0NMSUVOVF9IT1NUID0gIm1ucy5jbGllbnQuaG9zdCI7CgogICAgLyoqCiAgICAgKiBvcGVuLXNlYXJjaKO6aG9zdAogICAgICovCiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBPUFNfQ0xJRU5UX0hPU1QgPSAib3BzLmNsaWVudC5ob3N0IjsKCiAgICAvKioKICAgICAqIG9wZW4tc2VhcmNoo7rX7rTzway908r9CiAgICAgKi8KICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIE9QU19DTElFTlRfTUFYX0NPTk5FQ1RJT05TID0gIm9wcy5jbGllbnQubWF4LmNvbm5lY3Rpb25zIjsKCiAgICAvKioKICAgICAqIG9wZW4tc2VhcmNoo7rBrL3Ts6zKsQogICAgICovCiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBPUFNfQ0xJRU5UX1RJTUVPVVRfQ09OTkVDVCA9ICJvcHMuY2xpZW50LnRpbWVvdXQuY29ubmVjdCI7CgogICAgLyoqCiAgICAgKiBvcGVuLXNlYXJjaKO6c29ja2V0s6zKsQogICAgICovCiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBPUFNfQ0xJRU5UX1RJTUVPVVRfU09DS0VUID0gIm9wcy5jbGllbnQudGltZW91dC5zb2NrZXQiOwoKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFJFRElTX0NMSUVOVF9IT1NUID0gInJlZGlzLmNsaWVudC5ob3N0IjsKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFJFRElTX0NMSUVOVF9QT1JUID0gInJlZGlzLmNsaWVudC5wb3J0IjsKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFJFRElTX0NMSUVOVF9JTlNUQU5DRSA9ICJyZWRpcy5jbGllbnQuaW5zdGFuY2UiOwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgUkVESVNfQ0xJRU5UX1BBU1NXT1JEID0gInJlZGlzLmNsaWVudC5wYXNzd29yZCI7CiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBSRURJU19DTElFTlRfVElNRU9VVCA9ICJyZWRpcy5jbGllbnQudGltZW91dCI7CiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBSRURJU19DTElFTlRfTUFYX1RPVEFMID0gInJlZGlzLmNsaWVudC5tYXgudG90YWwiOwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgUkVESVNfQ0xJRU5UX01BWF9JRExFID0gInJlZGlzLmNsaWVudC5tYXguaWRsZSI7CgogICAgLyoqCiAgICAgKiDX1rXkzsS8/tTab3Nz1tC1xGJ1Y2tldMXk1sPP7gogICAgICovCiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBESUNUX0ZJTEVfQlVDS0VUID0gImRpY3QuZmlsZS5idWNrZXQiOwoKICAgIC8qKgogICAgICog19a15M7EvP7U2m9zc9bQtcTEv8K8xeTWw8/uCiAgICAgKi8KICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIERJQ1RfRklMRV9QQVRIID0gImRpY3QuZmlsZS5wYXRoIjsKCiAgICAvKioKICAgICAqINfWteTOxLz+1Npvc3PW0LXEwKnVucP7xeTWw8/uCiAgICAgKi8KICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIERJQ1RfRklMRV9FWFRFTlNJT04gPSAiZGljdC5maWxlLmV4dGVuc2lvbiI7</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBmaW5hbCBpbnQgbWF4Q29ubmVjdGlvbiA9IHN5c1NlcnZpY2UuZ2V0U3lzUGFyYW1Ub0ludChTeXNQYXJhbS5TRVJWSUNFX0hUVFBDTElFTlRfTUFYX0NPTk5FQ1RJT04pOwogICAgICAgIGZpbmFsIGludCBzb2NrZXRUaW1lb3V0ID0gc3lzU2VydmljZS5nZXRTeXNQYXJhbVRvSW50KFN5c1BhcmFtLlNFUlZJQ0VfSFRUUENMSUVOVF9TT0NLRVRfVElNRU9VVCk7CiAgICAgICAgZmluYWwgaW50IGNvbm5UaW1lb3V0ID0gc3lzU2VydmljZS5nZXRTeXNQYXJhbVRvSW50KFN5c1BhcmFtLlNFUlZJQ0VfSFRUUENMSUVOVF9DT05ORUNUSU9OX1RJTUVPVVQpOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>e</text>
+      <register name="7" type="2">
+        <text encoding="base64">CnsicGFyYW0iOiAiYWxpeXVuX21uc19ob3N0IiwgInZhbHVlIjogImh0dHA6Ly8xMzQ1MjQzNTQ0MDY4OTIyLm1ucy5jbi1oYW5nemhvdS5hbGl5dW5jcy5jb20iLAoiZGVzYyI6ICKwosDv1MZtbnPW97v6tdjWtyJ9LAo=</text>
       </register>
-      <register name="6" type="4">
-        <text>l</text>
+      <register name="6" type="2">
+        <text encoding="base64">eyJwYXJhbSI6ICJhbGl5dW5fb3RzX2hvc3QiLCAidmFsdWUiOiAiaHR0cDovL3lhbmppLWRldi5jbi1oYW5nemhvdS5vdHMuYWxpeXVuY3MuY29tIiwKImRlc2MiOiAisKLA79TGb3Rzt8POyrXY1rcifSwKCnsicGFyYW0iOiAiYWxpeXVuX290c19pbnN0YW5jZSIsICJ2YWx1ZSI6ICJ5YW5qaS1kZXYiLAoiZGVzYyI6ICKwosDv1MZvdHPKtcD9w/sifSwK</text>
       </register>
-      <register name="5" type="4">
-        <text>i</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="4">
-        <text>s</text>
+        <text>，</text>
       </register>
       <register name=":" type="4">
         <text>%s/PropKey/PropertyService/g</text>
       </register>
-      <register name="9" type="4">
-        <text>t</text>
+      <register name="9" type="2">
+        <text encoding="base64">eyJwYXJhbSI6ICJzZXJ2aWNlX2h0dHBjbGllbnRfbWF4X2Nvbm5lY3Rpb24iLCJ2YWx1ZSI6ICIxMDAwIiwKImRlc2MiOiAic2VydmljZbLjtcRodHRwLWNsaWVudNfutPPBrL3Tyv0ifSwKCnsicGFyYW0iOiAic2VydmljZV9odHRwY2xpZW50X3NvY2tldF90aW1lb3V0IiwgInZhbHVlIjogIjEwMDAwIiwKImRlc2MiOiAic2VydmljZbLjaHR0cC1jbGllbnS1xHNvY2tldMr9vt22wcihs6zKscqxs6SjrLWlzrujurrBw+sifSwKCnsicGFyYW0iOiAic2VydmljZV9odHRwY2xpZW50X2Nvbm5lY3Rpb25fdGltZW91dCIsICJ2YWx1ZSI6ICIxMDAwMCIsCiJkZXNjIjogInNlcnZpY2Wy42h0dHAtY2xpZW50tcRzb2NrZXTBrL3Ts6zKscqxs6SjrLWlzrujurrBw+sifSwK</text>
       </register>
-      <register name="8" type="4">
-        <text>i</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="/" type="4">
         <text>PropKey</text>
       </register>
       <register name="-" type="4">
-        <text>PropKey</text>
+        <text>空</text>
       </register>
     </registers>
     <search>
