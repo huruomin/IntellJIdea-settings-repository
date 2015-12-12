@@ -105,9 +105,9 @@
         <mark key="[" line="67" column="43" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/controller/WeixinController.java" timestamp="1449712442690">
-        <mark key="]" line="137" column="0" />
-        <mark key="." line="137" column="0" />
-        <mark key="[" line="137" column="0" />
+        <mark key="]" line="136" column="0" />
+        <mark key="." line="136" column="0" />
+        <mark key="[" line="136" column="0" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/param/weixin/UserSubscribeResponse.java" timestamp="1448590701075">
         <mark key="]" line="31" column="32" />
@@ -180,12 +180,12 @@
         <mark key="." line="101" column="21" />
         <mark key="[" line="101" column="22" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/SysService.java" timestamp="1449889828456">
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/SysService.java" timestamp="1449890570179">
         <mark key="'" line="116" column="0" />
-        <mark key="]" line="33" column="31" />
-        <mark key="^" line="196" column="28" />
-        <mark key="." line="196" column="28" />
-        <mark key="[" line="33" column="0" />
+        <mark key="]" line="51" column="19" />
+        <mark key="^" line="51" column="19" />
+        <mark key="." line="51" column="19" />
+        <mark key="[" line="51" column="15" />
       </file>
       <file name="/Dynamic Method Body.txt.ft" timestamp="1448698196618">
         <mark key="[" line="0" column="0" />
@@ -550,47 +550,47 @@
       <jump line="40" column="13" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/dict/sys/SysParam.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGljdC5hdXRvc2Nhbi5wYWNrYWdlcz1jb20uaHVydW9taW4uZGljdAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHBvc3RDb25zdHJ1Y3Q=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqILCiwO/Uxm1uc9b3u/q12Na3CiAgICAgKi8KICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEFMSVlVTl9NTlNfSE9TVCA9ICJhbGl5dW5fbW5zX2hvc3QiOwo=</text>
+      <register name="3" type="4">
+        <text>O</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqILCiwO/Uxm90c7fDzsq12Na3CiAgICAgKi8KICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEFMSVlVTl9PVFNfSE9TVCA9ICJhbGl5dW5fb3RzX2hvc3QiOwoKICAgIC8qKgogICAgICogsKLA79TGb3RzyrXA/cP7CiAgICAgKi8KICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEFMSVlVTl9PVFNfSU5TVEFOQ0UgPSAiYWxpeXVuX290c19pbnN0YW5jZSI7Cg==</text>
+      <register name="2" type="4">
+        <text>f</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ZGljdC5hdXRvc2Nhbi5wYWNrYWdlcz1jb20uaHVydW9taW4uZGljdAo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">IHBvc3RDb25zdHJ1Y3Q=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICogb3Rzo7pob3N0CiAgICAgKi8KICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIE9UU19DTElFTlRfSE9TVCA9ICJvdHMuY2xpZW50Lmhvc3QiOwo=</text>
       </register>
       <register name="7" type="4">
-        <text>n</text>
-      </register>
-      <register name="6" type="4">
         <text>t</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcga2V5ID0gcHJvcGVydGllcy5nZXRQcm9wZXJ0eShQcm9wS2V5LkFMSVlVTl9LRVlfSUQpOwogICAgICAgIFN0cmluZyBzZWNyZXQgPSBwcm9wZXJ0aWVzLmdldFByb3BlcnR5KFByb3BLZXkuQUxJWVVOX0tFWV9TRUNSRVQpOwo=</text>
+      <register name="6" type="4">
+        <text>V</text>
+      </register>
+      <register name="5" type="4">
+        <text>a</text>
       </register>
       <register name="4" type="4">
-        <text>sysService.getSysParam(SysParam.ALIYUN_OTS_INSTANCE);</text>
+        <text>l</text>
       </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>
       </register>
       <register name="9" type="4">
-        <text>o</text>
+        <text>e</text>
       </register>
       <register name="8" type="4">
-        <text>i</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text>mns</text>
       </register>
       <register name="-" type="4">
-        <text>sysService.getSysParam(SysParam.ALIYUN_OTS_INSTANCE);</text>
+        <text encoding="base64">IHBvc3RDb25zdHJ1Y3Q=</text>
       </register>
     </registers>
     <search>
