@@ -15,6 +15,9 @@
         <mark key="." line="33" column="17" />
         <mark key="[" line="31" column="7" />
       </file>
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/RedisService.java" timestamp="1449904597004">
+        <mark key="'" line="42" column="45" />
+      </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/model/sys/OtsUseColumnsToPut.java" timestamp="1448525501186">
         <mark key="]" line="11" column="18" />
         <mark key="^" line="11" column="18" />
@@ -76,6 +79,12 @@
         <mark key="." line="46" column="42" />
         <mark key="[" line="28" column="0" />
       </file>
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/PropertyService.java" timestamp="1449904491274">
+        <mark key="]" line="111" column="3" />
+        <mark key="^" line="111" column="3" />
+        <mark key="." line="111" column="3" />
+        <mark key="[" line="110" column="75" />
+      </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/dict/sys/Sequence.java" timestamp="1449806880297">
         <mark key="]" line="16" column="13" />
         <mark key="^" line="16" column="13" />
@@ -94,6 +103,9 @@
         <mark key="^" line="70" column="55" />
         <mark key="." line="70" column="55" />
         <mark key="[" line="67" column="43" />
+      </file>
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OssService.java" timestamp="1449904691380">
+        <mark key="'" line="75" column="0" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/param/weixin/UserSubscribeResponse.java" timestamp="1448590701075">
         <mark key="]" line="31" column="32" />
@@ -123,11 +135,8 @@
         <mark key="." line="56" column="0" />
         <mark key="[" line="56" column="0" />
       </file>
-      <file name="D:/project/yanji/src/server/yanji-server/src/main/resources/api-spring-context.xml" timestamp="1449904101629">
-        <mark key="]" line="14" column="18" />
-        <mark key="^" line="14" column="18" />
-        <mark key="." line="14" column="18" />
-        <mark key="[" line="13" column="11" />
+      <file name="D:/project/yanji/src/server/yanji-server/src/main/resources/api-spring-context.xml" timestamp="1449904248050">
+        <mark key="[" line="7" column="86" />
       </file>
       <file name="D:/project/yanji/src/server/yanji-server/src/main/resources/application.properties" timestamp="1449893600710">
         <mark key="]" line="29" column="21" />
@@ -147,6 +156,9 @@
         <mark key="^" line="165" column="51" />
         <mark key="." line="20" column="43" />
         <mark key="[" line="20" column="42" />
+      </file>
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/SysService.java" timestamp="1449904574218">
+        <mark key="'" line="26" column="24" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" timestamp="1449819077917">
         <mark key="]" line="260" column="0" />
@@ -210,6 +222,13 @@
         <mark key="^" line="35" column="3" />
         <mark key="." line="99" column="0" />
         <mark key="[" line="99" column="0" />
+      </file>
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/MnsService.java" timestamp="1449904537325">
+        <mark key="'" line="44" column="59" />
+        <mark key="]" line="44" column="54" />
+        <mark key="^" line="44" column="54" />
+        <mark key="." line="44" column="54" />
+        <mark key="[" line="44" column="55" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/aspect/OtsAspect.java" timestamp="1449820838677">
         <mark key="]" line="136" column="47" />
@@ -292,6 +311,9 @@
         <mark key="." line="17" column="0" />
         <mark key="[" line="17" column="0" />
       </file>
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OtsService.java" timestamp="1449904660276">
+        <mark key="'" line="29" column="0" />
+      </file>
       <file name="/Unnamed.txt.ft" timestamp="1448519710754">
         <mark key="[" line="0" column="0" />
       </file>
@@ -370,6 +392,10 @@
         <mark key="." line="84" column="0" />
         <mark key="[" line="84" column="0" />
       </file>
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/PropKey.java" timestamp="1449904486035">
+        <mark key="]" line="103" column="74" />
+        <mark key="[" line="11" column="0" />
+      </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" timestamp="1449896879423">
         <mark key="'" line="225" column="0" />
         <mark key="]" line="236" column="79" />
@@ -405,6 +431,9 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-framework-bom/4.2.2.RELEASE/spring-framework-bom-4.2.2.RELEASE.pom" timestamp="1449897436985">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" timestamp="1449904633604">
+        <mark key="'" line="25" column="16" />
+      </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/param/weixin/SyncUserRequest.java" timestamp="1448699410419">
         <mark key="]" line="9" column="8" />
         <mark key="^" line="9" column="8" />
@@ -422,12 +451,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/aspect/OtsAspect.java" />
-      <jump line="114" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OtsService.java" />
-      <jump line="107" column="8" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OtsService.java" />
-      <jump line="95" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OtsService.java" />
-      <jump line="0" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OtsService.java" />
-      <jump line="3" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OtsService.java" />
       <jump line="5" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OtsService.java" />
       <jump line="19" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OtsService.java" />
       <jump line="25" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OtsService.java" />
@@ -522,57 +545,63 @@
       <jump line="177" column="32" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/SysService.java" />
       <jump line="31" column="3" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/SysService.java" />
       <jump line="42" column="28" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/RedisService.java" />
+      <jump line="44" column="59" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/MnsService.java" />
+      <jump line="26" column="24" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/SysService.java" />
+      <jump line="42" column="45" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/RedisService.java" />
+      <jump line="25" column="16" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" />
+      <jump line="29" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OtsService.java" />
+      <jump line="75" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OssService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>PropKey</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgQWRtaW5pc3RyYXRvciBvbiAyMDE1LzEyLzEyLgogKi8K</text>
+        <text encoding="base64">ICAgIDwhLS08YmVhbiBpZD0ic3lzUHJvcGVydGllcyIgY2xhc3M9Im9yZy5zcHJpbmdmcmFtZXdvcmsuYmVhbnMuZmFjdG9yeS5jb25maWcuUHJvcGVydGllc0ZhY3RvcnlCZWFuIj4tLT4KICAgICAgICA8IS0tPHByb3BlcnR5IG5hbWU9ImxvY2F0aW9ucyI+LS0+CiAgICAgICAgICAgIDwhLS08bGlzdD4tLT4KICAgICAgICAgICAgICAgIDwhLS08dmFsdWU+Y2xhc3NwYXRoOi9hcHBsaWNhdGlvbi5wcm9wZXJ0aWVzPC92YWx1ZT4tLT4KICAgICAgICAgICAgPCEtLTwvbGlzdD4tLT4KICAgICAgICA8IS0tPC9wcm9wZXJ0eT4tLT4KICAgIDwhLS08L2JlYW4+LS0+Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>redis服务，可用于阿里云的kvstore，也可用于自建的redis</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIDx1dGlsOnByb3BlcnRpZXMgaWQ9InN5c1Byb3BlcnRpZXMiIGxvY2F0aW9uPSJjbGFzc3BhdGg6L2FwcGxpY2F0aW9uLnByb3BlcnRpZXMiLz4K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>PropKey</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">LyoKICogQ29weXJpZ2h0IChjKSBodXJ1b21pbi5jb20uCiAqLwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">CiAgICAvKioKICAgICAqIGFsaXl1bqO6a2V5IGlkCiAgICAgKi8KICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEFMSVlVTl9LRVlfSUQgPSAiYWxpeXVuLmtleS5pZCI7CgogICAgLyoqCiAgICAgKiBhbGl5dW6jumtleSBzZWNyZXQKICAgICAqLwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgQUxJWVVOX0tFWV9TRUNSRVQgPSAiYWxpeXVuLmtleS5zZWNyZXQiOwoKICAgIC8qKgogICAgICpvc3Ojumhvc3QKICAgICAqLwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgT1NTX0NMSUVOVF9IT1NUID0gIm9zcy5jbGllbnQuaG9zdCI7CgogICAgLyoqCiAgICAgKiBvc3OjutfutPPBrL3Tyv0KICAgICAqLwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgT1NTX0NMSUVOVF9NQVhfQ09OTkVDVElPTlMgPSAib3NzLmNsaWVudC5tYXguY29ubmVjdGlvbnMiOwoKICAgIC8qKgogICAgICogb3Nzo7rX7rTzway909bYytS0zsr9CiAgICAgKi8KICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIE9TU19DTElFTlRfTUFYX0VSUk9SX1JFVFJZID0gIm9zcy5jbGllbnQubWF4LmVycm9yLnJldHJ5IjsKCiAgICAvKioKICAgICAqIG9zc6O6way907OsyrEKICAgICAqLwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgT1NTX0NMSUVOVF9USU1FT1VUX0NPTk5FQ1QgPSAib3NzLmNsaWVudC50aW1lb3V0LmNvbm5lY3QiOwoKICAgIC8qKgogICAgICogb3Nzo7pzb2NrZXSzrMqxCiAgICAgKi8KICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIE9TU19DTElFTlRfVElNRU9VVF9TT0NLRVQgPSAib3NzLmNsaWVudC50aW1lb3V0LnNvY2tldCI7CgogICAgLyoqCiAgICAgKiBvdHOjumhvc3QKICAgICAqLwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgT1RTX0NMSUVOVF9IT1NUID0gIm90cy5jbGllbnQuaG9zdCI7CgogICAgLyoqCiAgICAgKiBvdHOjumluc3RhbmNlCiAgICAgKi8KICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIE9UU19DTElFTlRfSU5TVEFOQ0UgPSAib3RzLmNsaWVudC5pbnN0YW5jZSI7CgogICAgLyoqCiAgICAgKiBtbnOjumhvc3QKICAgICAqLwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgTU5TX0NMSUVOVF9IT1NUID0gIm1ucy5jbGllbnQuaG9zdCI7CgogICAgLyoqCiAgICAgKiBvcGVuLXNlYXJjaKO6aG9zdAogICAgICovCiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBPUFNfQ0xJRU5UX0hPU1QgPSAib3BzLmNsaWVudC5ob3N0IjsKCiAgICAvKioKICAgICAqIG9wZW4tc2VhcmNoo7rX7rTzway908r9CiAgICAgKi8KICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIE9QU19DTElFTlRfTUFYX0NPTk5FQ1RJT05TID0gIm9wcy5jbGllbnQubWF4LmNvbm5lY3Rpb25zIjsKCiAgICAvKioKICAgICAqIG9wZW4tc2VhcmNoo7rBrL3Ts6zKsQogICAgICovCiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBPUFNfQ0xJRU5UX1RJTUVPVVRfQ09OTkVDVCA9ICJvcHMuY2xpZW50LnRpbWVvdXQuY29ubmVjdCI7CgogICAgLyoqCiAgICAgKiBvcGVuLXNlYXJjaKO6c29ja2V0s6zKsQogICAgICovCiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBPUFNfQ0xJRU5UX1RJTUVPVVRfU09DS0VUID0gIm9wcy5jbGllbnQudGltZW91dC5zb2NrZXQiOwoKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFJFRElTX0NMSUVOVF9IT1NUID0gInJlZGlzLmNsaWVudC5ob3N0IjsKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFJFRElTX0NMSUVOVF9QT1JUID0gInJlZGlzLmNsaWVudC5wb3J0IjsKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFJFRElTX0NMSUVOVF9JTlNUQU5DRSA9ICJyZWRpcy5jbGllbnQuaW5zdGFuY2UiOwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgUkVESVNfQ0xJRU5UX1BBU1NXT1JEID0gInJlZGlzLmNsaWVudC5wYXNzd29yZCI7CiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBSRURJU19DTElFTlRfVElNRU9VVCA9ICJyZWRpcy5jbGllbnQudGltZW91dCI7CiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBSRURJU19DTElFTlRfTUFYX1RPVEFMID0gInJlZGlzLmNsaWVudC5tYXgudG90YWwiOwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgUkVESVNfQ0xJRU5UX01BWF9JRExFID0gInJlZGlzLmNsaWVudC5tYXguaWRsZSI7CgogICAgLyoqCiAgICAgKiDX1rXkzsS8/tTab3Nz1tC1xGJ1Y2tldMXk1sPP7gogICAgICovCiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBESUNUX0ZJTEVfQlVDS0VUID0gImRpY3QuZmlsZS5idWNrZXQiOwoKICAgIC8qKgogICAgICog19a15M7EvP7U2m9zc9bQtcTEv8K8xeTWw8/uCiAgICAgKi8KICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIERJQ1RfRklMRV9QQVRIID0gImRpY3QuZmlsZS5wYXRoIjsKCiAgICAvKioKICAgICAqINfWteTOxLz+1Npvc3PW0LXEwKnVucP7xeTWw8/uCiAgICAgKi8KICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIERJQ1RfRklMRV9FWFRFTlNJT04gPSAiZGljdC5maWxlLmV4dGVuc2lvbiI7</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IHN5c1NlcnZpY2U=</text>
+        <text>e</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IHN5c1NlcnZpY2U=</text>
+        <text>l</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAogICAgLyogz7XNs7f+zvEgKi8KICAgIEBSZXNvdXJjZQogICAgcHJpdmF0ZSBTeXNTZXJ2aWNlIHN5c1NlcnZpY2U7Cg==</text>
+      <register name="5" type="4">
+        <text>i</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAogICAgLyogz7XNs7f+zvEgKi8KICAgIEBSZXNvdXJjZQogICAgcHJpdmF0ZSBTeXNTZXJ2aWNlIHByb3BlcnR5U2VydmljZTsK</text>
+      <register name="4" type="4">
+        <text>s</text>
       </register>
       <register name=":" type="4">
-        <text>%s/sysService/propertyService/g</text>
+        <text>%s/PropKey/PropertyService/g</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IHN5c1NlcnZpY2U=</text>
+        <text>t</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IHN5c1NlcnZpY2U=</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
-        <text>sysService</text>
+        <text>PropKey</text>
       </register>
       <register name="-" type="4">
-        <text>redis服务，可用于阿里云的kvstore，也可用于自建的redis</text>
+        <text>PropKey</text>
       </register>
     </registers>
     <search>
       <last-search>getPro</last-search>
       <last-offset />
-      <last-pattern>sysService</last-pattern>
-      <last-replace>propertyService</last-replace>
-      <last-substitute>sysService</last-substitute>
+      <last-pattern>PropKey</last-pattern>
+      <last-replace>PropertyService</last-replace>
+      <last-substitute>PropKey</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -591,11 +620,15 @@
         <entry>aop</entry>
         <entry>getPro</entry>
         <entry>sysService</entry>
+        <entry>Propkey</entry>
+        <entry>PropKey</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvL2lzRXF1YWwgPSBpc0VxdWFsICYmIC9n</entry>
         <entry>%s/ignoreFields/ignoreProperties/g</entry>
         <entry>%s/sysService/propertyService/g</entry>
+        <entry>%s/Propkey/PropertyService/g</entry>
+        <entry>%s/PropKey/PropertyService/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
