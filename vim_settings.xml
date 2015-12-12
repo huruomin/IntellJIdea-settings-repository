@@ -137,11 +137,11 @@
         <mark key="." line="28" column="43" />
         <mark key="[" line="28" column="41" />
       </file>
-      <file name="D:/project/yanji/src/server/yanji-server/src/main/resources/application.properties" timestamp="1449826433366">
-        <mark key="]" line="24" column="34" />
-        <mark key="^" line="24" column="34" />
-        <mark key="." line="24" column="34" />
-        <mark key="[" line="24" column="30" />
+      <file name="D:/project/yanji/src/server/yanji-server/src/main/resources/application.properties" timestamp="1449887377374">
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="18" column="34" />
+        <mark key="." line="13" column="0" />
+        <mark key="[" line="13" column="0" />
       </file>
       <file name="D:/project/yanji/src/server/dicts/dev/com.huruomin.dict.sys.FileType.dict" timestamp="1449813156690">
         <mark key="]" line="1" column="46" />
@@ -185,9 +185,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OpsService.java" timestamp="1449828739177">
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="[" line="25" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
+        <mark key="[" line="83" column="0" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" timestamp="1448696888091">
         <mark key="'" line="84" column="0" />
@@ -538,40 +538,44 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text>#dict configuration
+dict.file.bucket=yanji-pri-bucket-dev
+dict.file.path=dicts
+dict.file.extension=dict
+dict.autoscan.packages=com.huruomin.dict</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">PGRlcGVuZGVuY3k+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5jb20uYWxpeXVuLm9wZW5zZWFyY2g8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5hbGl5dW4tc2RrLW9wZW5zZWFyY2g8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8dmVyc2lvbj4ke3ZlcnNpb24uYWxpeXVuLW9wZW5zZWFyY2h9PC92ZXJzaW9uPgogICAgICAgICAgICA8L2RlcGVuZGVuY3k+</text>
       </register>
-      <register name="7" type="2">
+      <register name="7" type="4">
+        <text>.</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>openSearchService</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>socket</text>
-      </register>
-      <register name="4" type="4">
-        <text>.</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcK</text>
       </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>
       </register>
       <register name="9" type="4">
-        <text>3</text>
+        <text>openSearchService</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx2ZXJzaW9uPiR7dmVyc2lvbi5hbGl5dW4tb3BlbnNlYXJjaH08L3ZlcnNpb24+Cg==</text>
+      <register name="8" type="4">
+        <text>socket</text>
       </register>
       <register name="/" type="4">
         <text>build</text>
