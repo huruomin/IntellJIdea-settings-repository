@@ -423,12 +423,12 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-framework-bom/4.2.2.RELEASE/spring-framework-bom-4.2.2.RELEASE.pom" timestamp="1449897436985">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" timestamp="1450056629608">
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" timestamp="1450058362030">
         <mark key="'" line="25" column="16" />
-        <mark key="]" line="50" column="0" />
-        <mark key="^" line="48" column="85" />
-        <mark key="." line="50" column="0" />
-        <mark key="[" line="50" column="0" />
+        <mark key="]" line="70" column="21" />
+        <mark key="^" line="70" column="21" />
+        <mark key="." line="70" column="21" />
+        <mark key="[" line="69" column="0" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/param/weixin/SyncUserRequest.java" timestamp="1448699410419">
         <mark key="]" line="9" column="8" />
@@ -552,11 +552,11 @@
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>有</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBPcHNTZXJ2aWNlKCkgdGhyb3dzIElPRXhjZXB0aW9uIHsKICAgICAgICBjYWNoZSA9IENhY2hlQnVpbGRlci5uZXdCdWlsZGVyKCkuYnVpbGQoKTsKICAgIH0K</text>
+      <register name="2" type="4">
+        <text>表</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -564,32 +564,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZWZyZXNoQ2FjaGUoKTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="7" type="4">
+        <text>拥</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+      <register name="6" type="4">
+        <text>有</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVmcmVzaENhY2hlKCk7Cg==</text>
+      <register name="5" type="4">
+        <text>的</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVmcmVzaENhY2hlKCk7Cg==</text>
+      <register name="4" type="4">
+        <text>所</text>
       </register>
       <register name=":" type="4">
         <text>%s/PropKey/PropertyService/g</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7Cg==</text>
+      <register name="9" type="4">
+        <text>应</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+      <register name="8" type="4">
+        <text>用</text>
       </register>
       <register name="/" type="4">
         <text>PropKey</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGhyb3dzIA==</text>
+        <text>表</text>
       </register>
     </registers>
     <search>
