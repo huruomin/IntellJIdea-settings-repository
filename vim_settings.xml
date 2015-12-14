@@ -375,7 +375,7 @@
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/dict/sys/SysParam.java" timestamp="1449905360767">
         <mark key="'" line="25" column="13" />
         <mark key="]" line="14" column="0" />
-        <mark key="^" line="100" column="6" />
+        <mark key="^" line="40" column="6" />
         <mark key="." line="14" column="0" />
         <mark key="[" line="14" column="0" />
       </file>
@@ -390,12 +390,10 @@
         <mark key="]" line="103" column="74" />
         <mark key="[" line="11" column="0" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" timestamp="1449909550389">
-        <mark key="'" line="225" column="0" />
-        <mark key="]" line="236" column="79" />
-        <mark key="^" line="236" column="60" />
-        <mark key="." line="236" column="60" />
-        <mark key="[" line="236" column="0" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" timestamp="1450052279532">
+        <mark key="]" line="295" column="73" />
+        <mark key="." line="295" column="0" />
+        <mark key="[" line="295" column="0" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/weixin/SyncUserStep.java" timestamp="1448844265239">
         <mark key="]" line="31" column="106" />
@@ -547,41 +545,41 @@
       <jump line="75" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OssService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>空</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyDIzrrO1K3S8rW81sK1xLj80MLKp7DcyKuyv7r2wtSjrLK71tjK1Mui0MKjrLXItP3TptPDz8LSu7TOt6LP1nRva2VuyqfQp8qxt6Kz9sui0MLNqNaquvPU2df2y6LQwgo=</text>
       </register>
       <register name="3" type="4">
-        <text>可</text>
-      </register>
-      <register name="2" type="4">
         <text>为</text>
       </register>
-      <register name="1" type="4">
+      <register name="2" type="4">
         <text>空</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyDIzrrO1K3S8rW81sK1xLj80MLKp7DcyKuyv7r2wtSjrLK71tjK1Mui0MKjrLXItP3TptPDz8LSu7TOt6LP1nRva2VuyqfQp8qxt6Kz9sui0MLNqNaquvPU2df2y6LQwgo=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmaW5hbCBpbnQgbWF4Q29ubmVjdGlvbiA9IHN5c1NlcnZpY2UuZ2V0U3lzUGFyYW1Ub0ludChTeXNQYXJhbS5TRVJWSUNFX0hUVFBDTElFTlRfTUFYX0NPTk5FQ1RJT04pOwogICAgICAgIGZpbmFsIGludCBzb2NrZXRUaW1lb3V0ID0gc3lzU2VydmljZS5nZXRTeXNQYXJhbVRvSW50KFN5c1BhcmFtLlNFUlZJQ0VfSFRUUENMSUVOVF9TT0NLRVRfVElNRU9VVCk7CiAgICAgICAgZmluYWwgaW50IGNvbm5UaW1lb3V0ID0gc3lzU2VydmljZS5nZXRTeXNQYXJhbVRvSW50KFN5c1BhcmFtLlNFUlZJQ0VfSFRUUENMSUVOVF9DT05ORUNUSU9OX1RJTUVPVVQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CnsicGFyYW0iOiAiYWxpeXVuX21uc19ob3N0IiwgInZhbHVlIjogImh0dHA6Ly8xMzQ1MjQzNTQ0MDY4OTIyLm1ucy5jbi1oYW5nemhvdS5hbGl5dW5jcy5jb20iLAoiZGVzYyI6ICKwosDv1MZtbnPW97v6tdjWtyJ9LAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">eyJwYXJhbSI6ICJhbGl5dW5fb3RzX2hvc3QiLCAidmFsdWUiOiAiaHR0cDovL3lhbmppLWRldi5jbi1oYW5nemhvdS5vdHMuYWxpeXVuY3MuY29tIiwKImRlc2MiOiAisKLA79TGb3Rzt8POyrXY1rcifSwKCnsicGFyYW0iOiAiYWxpeXVuX290c19pbnN0YW5jZSIsICJ2YWx1ZSI6ICJ5YW5qaS1kZXYiLAoiZGVzYyI6ICKwosDv1MZvdHPKtcD9w/sifSwK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>，</text>
+      </register>
+      <register name="4" type="4">
+        <text>可</text>
       </register>
       <register name=":" type="4">
         <text>%s/PropKey/PropertyService/g</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">eyJwYXJhbSI6ICJzZXJ2aWNlX2h0dHBjbGllbnRfbWF4X2Nvbm5lY3Rpb24iLCJ2YWx1ZSI6ICIxMDAwIiwKImRlc2MiOiAic2VydmljZbLjtcRodHRwLWNsaWVudNfutPPBrL3Tyv0ifSwKCnsicGFyYW0iOiAic2VydmljZV9odHRwY2xpZW50X3NvY2tldF90aW1lb3V0IiwgInZhbHVlIjogIjEwMDAwIiwKImRlc2MiOiAic2VydmljZbLjaHR0cC1jbGllbnS1xHNvY2tldMr9vt22wcihs6zKscqxs6SjrLWlzrujurrBw+sifSwKCnsicGFyYW0iOiAic2VydmljZV9odHRwY2xpZW50X2Nvbm5lY3Rpb25fdGltZW91dCIsICJ2YWx1ZSI6ICIxMDAwMCIsCiJkZXNjIjogInNlcnZpY2Wy42h0dHAtY2xpZW50tcRzb2NrZXTBrL3Ts6zKscqxs6SjrLWlzrujurrBw+sifSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CnsicGFyYW0iOiAiYWxpeXVuX21uc19ob3N0IiwgInZhbHVlIjogImh0dHA6Ly8xMzQ1MjQzNTQ0MDY4OTIyLm1ucy5jbi1oYW5nemhvdS5hbGl5dW5jcy5jb20iLAoiZGVzYyI6ICKwosDv1MZtbnPW97v6tdjWtyJ9LAo=</text>
       </register>
       <register name="/" type="4">
         <text>PropKey</text>
