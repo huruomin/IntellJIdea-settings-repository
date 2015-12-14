@@ -390,7 +390,7 @@
         <mark key="]" line="103" column="74" />
         <mark key="[" line="11" column="0" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" timestamp="1450052279532">
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/WeixinService.java" timestamp="1450054024856">
         <mark key="]" line="295" column="73" />
         <mark key="." line="295" column="0" />
         <mark key="[" line="295" column="0" />
@@ -423,8 +423,12 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-framework-bom/4.2.2.RELEASE/spring-framework-bom-4.2.2.RELEASE.pom" timestamp="1449897436985">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" timestamp="1449904633604">
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" timestamp="1450055529031">
         <mark key="'" line="25" column="16" />
+        <mark key="]" line="104" column="0" />
+        <mark key="^" line="107" column="35" />
+        <mark key="." line="104" column="0" />
+        <mark key="[" line="104" column="0" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/param/weixin/SyncUserRequest.java" timestamp="1448699410419">
         <mark key="]" line="9" column="8" />
@@ -546,46 +550,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyDIzrrO1K3S8rW81sK1xLj80MLKp7DcyKuyv7r2wtSjrLK71tjK1Mui0MKjrLXItP3TptPDz8LSu7TOt6LP1nRva2VuyqfQp8qxt6Kz9sui0MLNqNaquvPU2df2y6LQwgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKENvbGxlY3Rpb25VdGlscy5pc0VtcHR5KHRhYmxlcykpIHsKICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>为</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICByZWZyZXNoQ2FjaGUoKTsKICAgICAgICByZWZyZXNoQ2FjaGUoKTsK</text>
       </register>
       <register name="2" type="4">
-        <text>空</text>
+        <text>table</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyDIzrrO1K3S8rW81sK1xLj80MLKp7DcyKuyv7r2wtSjrLK71tjK1Mui0MKjrLXItP3TptPDz8LSu7TOt6LP1nRva2VuyqfQp8qxt6Kz9sui0MLNqNaquvPU2df2y6LQwgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKENvbGxlY3Rpb25VdGlscy5pc0VtcHR5KHRhYmxlcykpIHsKICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBpbnQgbWF4Q29ubmVjdGlvbiA9IHN5c1NlcnZpY2UuZ2V0U3lzUGFyYW1Ub0ludChTeXNQYXJhbS5TRVJWSUNFX0hUVFBDTElFTlRfTUFYX0NPTk5FQ1RJT04pOwogICAgICAgIGZpbmFsIGludCBzb2NrZXRUaW1lb3V0ID0gc3lzU2VydmljZS5nZXRTeXNQYXJhbVRvSW50KFN5c1BhcmFtLlNFUlZJQ0VfSFRUUENMSUVOVF9TT0NLRVRfVElNRU9VVCk7CiAgICAgICAgZmluYWwgaW50IGNvbm5UaW1lb3V0ID0gc3lzU2VydmljZS5nZXRTeXNQYXJhbVRvSW50KFN5c1BhcmFtLlNFUlZJQ0VfSFRUUENMSUVOVF9DT05ORUNUSU9OX1RJTUVPVVQpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZWZyZXNoQ2FjaGUoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">eyJwYXJhbSI6ICJhbGl5dW5fb3RzX2hvc3QiLCAidmFsdWUiOiAiaHR0cDovL3lhbmppLWRldi5jbi1oYW5nemhvdS5vdHMuYWxpeXVuY3MuY29tIiwKImRlc2MiOiAisKLA79TGb3Rzt8POyrXY1rcifSwKCnsicGFyYW0iOiAiYWxpeXVuX290c19pbnN0YW5jZSIsICJ2YWx1ZSI6ICJ5YW5qaS1kZXYiLAoiZGVzYyI6ICKwosDv1MZvdHPKtcD9w/sifSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2V0PFN0cmluZz4gcmVmSW5kZXhlcyA9IGNhY2hlLmdldElmUHJlc2VudChpbmRleCk7CiAgICAgICAgICAgIHJlZkluZGV4ZXMgPSBudWxsID09IHJlZkluZGV4ZXMgPyBTZXRzLjxTdHJpbmc+bmV3SGFzaFNldCgpIDogcmVmSW5kZXhlczsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>index</text>
       </register>
-      <register name="5" type="4">
-        <text>，</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2FjaGUucHV0KCk7Cg==</text>
       </register>
       <register name="4" type="4">
-        <text>可</text>
+        <text encoding="base64">bnVsbCA=</text>
       </register>
       <register name=":" type="4">
         <text>%s/PropKey/PropertyService/g</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTZXQ8U3RyaW5nPiByZWZJbmRleGVzID0gU2V0cy5uZXdIYXNoU2V0KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CnsicGFyYW0iOiAiYWxpeXVuX21uc19ob3N0IiwgInZhbHVlIjogImh0dHA6Ly8xMzQ1MjQzNTQ0MDY4OTIyLm1ucy5jbi1oYW5nemhvdS5hbGl5dW5jcy5jb20iLAoiZGVzYyI6ICKwosDv1MZtbnPW97v6tdjWtyJ9LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="/" type="4">
         <text>PropKey</text>
       </register>
       <register name="-" type="4">
-        <text>空</text>
+        <text>table</text>
       </register>
     </registers>
     <search>
