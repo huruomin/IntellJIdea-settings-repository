@@ -124,11 +124,11 @@
         <mark key="." line="15" column="11" />
         <mark key="[" line="15" column="6" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/model/OtsUtils.java" timestamp="1450075600422">
-        <mark key="]" line="144" column="17" />
-        <mark key="^" line="144" column="17" />
-        <mark key="." line="144" column="18" />
-        <mark key="[" line="144" column="13" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/model/OtsUtils.java" timestamp="1450077194756">
+        <mark key="]" line="123" column="61" />
+        <mark key="^" line="123" column="68" />
+        <mark key="." line="123" column="61" />
+        <mark key="[" line="123" column="61" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/model/OtsRowUpdate.java" timestamp="1450071686734">
         <mark key="]" line="68" column="0" />
@@ -524,47 +524,47 @@
       <jump line="110" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/aspect/OtsAspect.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmllbGRzLnB1dCgid3hOaWNrbmFtZSIsIG51bGwpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>y</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGoK</text>
+      <register name="3" type="4">
+        <text>k</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="2" type="4">
+        <text>e</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmllbGRzLnB1dCgid3hOaWNrbmFtZSIsIG51bGwpOwo=</text>
+      <register name="1" type="4">
+        <text>y</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gQ29sbGVjdGlvblV0aWxzLmlzRW1wdHkocmVzdWx0KSA/IG51bGwgOiByZXN1bHQ7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWFwPFN0cmluZywgT2JqZWN0PiBmaWVsZHMgPSBNYXBzLm5ld0hhc2hNYXAoKTsK</text>
+      <register name="7" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3RzUm93VXBkYXRlLmdldFJvd1VwZGF0ZUNoYW5nZSgpLmdldAo=</text>
+      <register name="5" type="4">
+        <text>+</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG51bGwgPT0gdmFsdWUpIHsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>%s/PropKey/PropertyService/g</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSGFzaE1hcAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="8" type="4">
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>remove</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG51bGw=</text>
+        <text>y</text>
       </register>
     </registers>
     <search>
