@@ -230,11 +230,10 @@
         <mark key="." line="99" column="0" />
         <mark key="[" line="99" column="0" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/model/OtsUtils.java" timestamp="1450071981742">
-        <mark key="]" line="152" column="55" />
-        <mark key="^" line="152" column="55" />
-        <mark key="." line="152" column="55" />
-        <mark key="[" line="152" column="15" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/model/OtsUtils.java" timestamp="1450073224804">
+        <mark key="]" line="113" column="0" />
+        <mark key="." line="113" column="0" />
+        <mark key="[" line="113" column="0" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/MnsService.java" timestamp="1449904537325">
         <mark key="'" line="44" column="59" />
@@ -243,12 +242,12 @@
         <mark key="." line="44" column="54" />
         <mark key="[" line="44" column="55" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/aspect/OtsAspect.java" timestamp="1450072395024">
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/aspect/OtsAspect.java" timestamp="1450073153167">
         <mark key="'" line="111" column="0" />
-        <mark key="]" line="105" column="22" />
-        <mark key="^" line="105" column="22" />
-        <mark key="." line="105" column="22" />
-        <mark key="[" line="103" column="81" />
+        <mark key="]" line="106" column="32" />
+        <mark key="^" line="106" column="32" />
+        <mark key="." line="106" column="32" />
+        <mark key="[" line="105" column="39" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/model/OtsRowUpdate.java" timestamp="1450071686734">
         <mark key="]" line="68" column="0" />
@@ -564,47 +563,47 @@
       <jump line="110" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/aspect/OtsAspect.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="4">
-        <text>n</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="2" type="4">
-        <text>s</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="1" type="4">
-        <text>)</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIGlmIChDb2x1bW5UeXBlLkRPVUJMRS5lcXVhbHModmFsdWUuZ2V0VHlwZSgpKSkgewogICAgICAgICAgICAgICAgcmVzdWx0LnB1dChrZXksIHZhbHVlLmFzRG91YmxlKCkpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>o</text>
+        <text>)</text>
       </register>
       <register name="6" type="4">
-        <text>l</text>
+        <text>Collections</text>
       </register>
-      <register name="5" type="4">
-        <text>u</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>m</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgTWFwPFN0cmluZywgT2JqZWN0PiBzaW1wbGlmeUZpZWxkcygpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/PropKey/PropertyService/g</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>n</text>
       </register>
       <register name="8" type="4">
-        <text>c</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>remove</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>Collections</text>
       </register>
     </registers>
     <search>
