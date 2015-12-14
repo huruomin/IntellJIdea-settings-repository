@@ -408,6 +408,9 @@
         <mark key="." line="33" column="0" />
         <mark key="[" line="30" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/aliyun/opensearch/aliyun-sdk-opensearch/2.1.3/aliyun-sdk-opensearch-2.1.3.jar!/com/aliyun/opensearch/CloudsearchDoc.class" timestamp="1450063145220">
+        <mark key="'" line="26" column="13" />
+      </file>
       <file name="/fragment.java" timestamp="1449896748168">
         <mark key="[" line="0" column="0" />
       </file>
@@ -423,12 +426,12 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-framework-bom/4.2.2.RELEASE/spring-framework-bom-4.2.2.RELEASE.pom" timestamp="1449897436985">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" timestamp="1450058362030">
-        <mark key="'" line="25" column="16" />
-        <mark key="]" line="70" column="21" />
-        <mark key="^" line="70" column="21" />
-        <mark key="." line="70" column="21" />
-        <mark key="[" line="69" column="0" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" timestamp="1450063397251">
+        <mark key="'" line="21" column="16" />
+        <mark key="]" line="121" column="29" />
+        <mark key="^" line="121" column="29" />
+        <mark key="." line="121" column="29" />
+        <mark key="[" line="119" column="93" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/param/weixin/SyncUserRequest.java" timestamp="1448699410419">
         <mark key="]" line="9" column="8" />
@@ -447,7 +450,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OtsService.java" />
       <jump line="19" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OtsService.java" />
       <jump line="25" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OtsService.java" />
       <jump line="33" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OtsService.java" />
@@ -547,55 +549,56 @@
       <jump line="25" column="16" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" />
       <jump line="29" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OtsService.java" />
       <jump line="75" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OssService.java" />
+      <jump line="26" column="13" filename="$MAVEN_REPOSITORY$/com/aliyun/opensearch/aliyun-sdk-opensearch/2.1.3/aliyun-sdk-opensearch-2.1.3.jar!/com/aliyun/opensearch/CloudsearchDoc.class" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>w</text>
       </register>
       <register name="3" type="4">
-        <text>有</text>
+        <text>n</text>
       </register>
       <register name="2" type="4">
-        <text>表</text>
+        <text>e</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>w</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZWZyZXNoQ2FjaGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICBDbG91ZHNlYXJjaERvYyBkb2MgPSBkb2MoaW5kZXgpOwogICAgICAgIGRvYy51cGRhdGUoZmllbGRzKTsKICAgICAgICB0cnkgewogICAgICAgICAgICByZXR1cm4gSlNPTi5wYXJzZU9iamVjdChkb2MucHVzaCh0YWJsZSksIE9wc1Jlc3VsdC5jbGFzcyk7CiAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgdGhyb3cgVGhyb3dhYmxlcy5wcm9wYWdhdGUoZSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="4">
-        <text>拥</text>
+        <text>a</text>
       </register>
       <register name="6" type="4">
-        <text>有</text>
+        <text>p</text>
       </register>
       <register name="5" type="4">
-        <text>的</text>
+        <text>s</text>
       </register>
       <register name="4" type="4">
-        <text>所</text>
+        <text>.</text>
       </register>
       <register name=":" type="4">
         <text>%s/PropKey/PropertyService/g</text>
       </register>
-      <register name="9" type="4">
-        <text>应</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="4">
-        <text>用</text>
+        <text>M</text>
       </register>
       <register name="/" type="4">
-        <text>PropKey</text>
+        <text>remove</text>
       </register>
       <register name="-" type="4">
-        <text>表</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>getPro</last-search>
+      <last-search>remove</last-search>
       <last-offset />
-      <last-pattern>PropKey</last-pattern>
+      <last-pattern>remove</last-pattern>
       <last-replace>PropertyService</last-replace>
       <last-substitute>PropKey</last-substitute>
       <last-dir>1</last-dir>
@@ -618,6 +621,7 @@
         <entry>sysService</entry>
         <entry>Propkey</entry>
         <entry>PropKey</entry>
+        <entry>remove</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvL2lzRXF1YWwgPSBpc0VxdWFsICYmIC9n</entry>
