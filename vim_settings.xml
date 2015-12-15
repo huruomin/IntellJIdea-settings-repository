@@ -39,7 +39,7 @@
         <mark key="." line="24" column="138" />
         <mark key="[" line="24" column="75" />
       </file>
-      <file name="/ActionScript File Header.txt.ft" timestamp="1448698302840">
+      <file name="/ActionScript File Header.txt.ft" timestamp="1450182901106">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/model/sys/OtsRowUpdate.java" timestamp="1449817655132">
@@ -226,7 +226,7 @@
         <mark key="." line="125" column="0" />
         <mark key="[" line="125" column="0" />
       </file>
-      <file name="/HTML File.txt.ft" timestamp="1448698303559">
+      <file name="/HTML File.txt.ft" timestamp="1450182905163">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/AnnotationType.txt.ft" timestamp="1448519814673">
@@ -238,10 +238,11 @@
         <mark key="." line="20" column="67" />
         <mark key="[" line="20" column="67" />
       </file>
-      <file name="D:/Projects/huruomin-java/src/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" timestamp="1450178799754">
-        <mark key="]" line="204" column="28" />
-        <mark key="^" line="204" column="28" />
-        <mark key="." line="204" column="28" />
+      <file name="D:/Projects/huruomin-java/src/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" timestamp="1450182630802">
+        <mark key="'" line="130" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
+        <mark key="[" line="80" column="0" />
       </file>
       <file name="/Groovy JUnit TearDown Method.txt.ft" timestamp="1448698305522">
         <mark key="[" line="0" column="0" />
@@ -264,7 +265,7 @@
         <mark key="." line="19" column="3" />
         <mark key="[" line="18" column="25" />
       </file>
-      <file name="/File Header.txt.ft" timestamp="1448519832922">
+      <file name="/File Header.txt.ft" timestamp="1450182900205">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/param/weixin/SaveUserBehaviorRequest.java" timestamp="1448699527690">
@@ -346,8 +347,7 @@
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/UserHist.java" timestamp="1448697339534">
         <mark key="[" line="41" column="5" />
       </file>
-      <file name="D:/Projects/huruomin-java/src/huruomin-commons/src/main/java/com/huruomin/entity/Entity.java" timestamp="1450178645995" />
-      <file name="/Arquillian Deployment Method.txt.ft" timestamp="1448863817943">
+      <file name="/Arquillian Deployment Method.txt.ft" timestamp="1450182902547">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/dict/NoSuchDictException.java" timestamp="1448864531449">
@@ -418,18 +418,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/MnsService.java" />
-      <jump line="44" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/MnsService.java" />
-      <jump line="34" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/MnsService.java" />
-      <jump line="31" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/MnsService.java" />
-      <jump line="27" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/MnsService.java" />
-      <jump line="19" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/MnsService.java" />
-      <jump line="14" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/MnsService.java" />
-      <jump line="4" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/MnsService.java" />
-      <jump line="73" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OtsService.java" />
-      <jump line="199" column="5" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/SysService.java" />
-      <jump line="196" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/SysService.java" />
-      <jump line="185" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/SysService.java" />
       <jump line="175" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/SysService.java" />
       <jump line="164" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/SysService.java" />
       <jump line="152" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/SysService.java" />
@@ -518,49 +506,61 @@
       <jump line="18" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/model/OtsRowDelete.java" />
       <jump line="123" column="7" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/aspect/OtsAspect.java" />
       <jump line="64" column="30" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/model/OtsUtils.java" />
+      <jump line="67" column="0" filename="D:/Projects/huruomin-java/src/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" />
+      <jump line="70" column="0" filename="D:/Projects/huruomin-java/src/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" />
+      <jump line="73" column="0" filename="D:/Projects/huruomin-java/src/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" />
+      <jump line="81" column="0" filename="D:/Projects/huruomin-java/src/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" />
+      <jump line="85" column="0" filename="D:/Projects/huruomin-java/src/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" />
+      <jump line="89" column="0" filename="D:/Projects/huruomin-java/src/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" />
+      <jump line="93" column="0" filename="D:/Projects/huruomin-java/src/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" />
+      <jump line="97" column="0" filename="D:/Projects/huruomin-java/src/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" />
+      <jump line="101" column="0" filename="D:/Projects/huruomin-java/src/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" />
+      <jump line="105" column="0" filename="D:/Projects/huruomin-java/src/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" />
+      <jump line="119" column="0" filename="D:/Projects/huruomin-java/src/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" />
+      <jump line="124" column="0" filename="D:/Projects/huruomin-java/src/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICB0dHQKICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0K</text>
       </register>
-      <register name="3" type="4">
-        <text>常</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYWRkRG9jKCJzc3MiKQo=</text>
       </register>
-      <register name="2" type="4">
-        <text>.</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>'</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICB0dHQKICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0K</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG9wZXJEb2MoaW5kZXgsIHRhYmxlLCBmaWVsZHMsIGFjdGlvbik7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="7" type="4">
+        <text>常</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZG9jLnB1c2godGFibGUpOwo=</text>
+      <register name="6" type="4">
+        <text>.</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBKU09OLnBhcnNlT2JqZWN0KGRvYy5wdXNoKHRhYmxlKSwgT3BzUmVzdWx0LmNsYXNzKTsK</text>
+      <register name="5" type="4">
+        <text>'</text>
       </register>
       <register name="4" type="4">
-        <text>异</text>
+        <text>;</text>
       </register>
       <register name=":" type="4">
         <text>%s/col.getKey()/key/g</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgdm9pZCByZWZyZXNoQ2FjaGUoKSB7CiAgICAgICAgY2FjaGUuY2xlYW5VcCgpOwogICAgICAgIFNldDxTdHJpbmc+IGluZGV4ZXMgPSBsb2FkSW5kZXhlcygpOwogICAgICAgIGZvciAoU3RyaW5nIGluZGV4IDogaW5kZXhlcykgewogICAgICAgICAgICBTZXQ8U3RyaW5nPiB0YWJsZXMgPSBsb2FkVGFibGVzKGluZGV4KTsKICAgICAgICAgICAgZm9yIChTdHJpbmcgdGFibGUgOiB0YWJsZXMpIHsKICAgICAgICAgICAgICAgIFNldDxTdHJpbmc+IHJlZkluZGV4ZXMgPSBjYWNoZS5nZXRJZlByZXNlbnQodGFibGUpOwogICAgICAgICAgICAgICAgcmVmSW5kZXhlcyA9IG51bGwgPT0gcmVmSW5kZXhlcyA/IFNldHMuPFN0cmluZz5uZXdIYXNoU2V0KCkgOiByZWZJbmRleGVzOwogICAgICAgICAgICAgICAgcmVmSW5kZXhlcy5hZGQoaW5kZXgpOwogICAgICAgICAgICAgICAgY2FjaGUucHV0KHRhYmxlLCByZWZJbmRleGVzKTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBKU09OLnBhcnNlT2JqZWN0KGRvYy5wdXNoKHRhYmxlKSwgT3BzUmVzdWx0LmNsYXNzKTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>异</text>
       </register>
       <register name="/" type="4">
         <text>col.getKey()</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>;</text>
       </register>
     </registers>
     <search>
