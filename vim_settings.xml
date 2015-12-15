@@ -215,18 +215,18 @@
         <mark key="." line="99" column="0" />
         <mark key="[" line="99" column="0" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/aspect/OtsAspect.java" timestamp="1450156329039">
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/aspect/OtsAspect.java" timestamp="1450157467834">
         <mark key="'" line="101" column="0" />
-        <mark key="]" line="125" column="0" />
-        <mark key="^" line="124" column="24" />
-        <mark key="." line="125" column="0" />
-        <mark key="[" line="125" column="0" />
+        <mark key="]" line="127" column="7" />
+        <mark key="^" line="127" column="7" />
+        <mark key="." line="127" column="7" />
+        <mark key="[" line="126" column="9" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/model/OtsUtils.java" timestamp="1450153720542">
-        <mark key="]" line="113" column="47" />
-        <mark key="^" line="113" column="47" />
-        <mark key="." line="113" column="47" />
-        <mark key="[" line="113" column="38" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/model/OtsUtils.java" timestamp="1450157755761">
+        <mark key="]" line="164" column="4" />
+        <mark key="^" line="164" column="4" />
+        <mark key="." line="164" column="4" />
+        <mark key="[" line="164" column="5" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/model/OtsRowUpdate.java" timestamp="1450152841455">
         <mark key="]" line="125" column="0" />
@@ -297,12 +297,12 @@
         <mark key="." line="17" column="0" />
         <mark key="[" line="17" column="0" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OtsService.java" timestamp="1450157158991">
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OtsService.java" timestamp="1450157810356">
         <mark key="'" line="28" column="0" />
-        <mark key="]" line="124" column="8" />
-        <mark key="^" line="121" column="15" />
-        <mark key="." line="124" column="8" />
-        <mark key="[" line="124" column="8" />
+        <mark key="]" line="83" column="0" />
+        <mark key="^" line="86" column="53" />
+        <mark key="." line="83" column="0" />
+        <mark key="[" line="83" column="0" />
       </file>
       <file name="/Unnamed.txt.ft" timestamp="1448519710754">
         <mark key="[" line="0" column="0" />
@@ -536,46 +536,46 @@
     </jumps>
     <registers>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIE1hcDxTdHJpbmcsIENvbHVtblZhbHVlPiBjb2x1bW5zID0gb3RzU2VydmljZS5nZXRSb3cob3RzUm93R2V0KS5nZXRSb3coKS5nZXRDb2x1bW5zKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBvdHNSb3dHZXQuYWRkUHJpbWFyeUtleSgia2V5IiwgImFhYWFhIik7Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAqIEByZXR1cm4g16q7r7rztcS94bn7Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">VXBkYXRlUm93UmVzdWx0IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAqIEByZXR1cm4g16q7r7rztcS94bn7Cg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBDb2x1bW5WYWx1ZT4gY29sdW1ucyA9IG90c1NlcnZpY2UuZ2V0Um93KG90c1Jvd0dldCkuZ2V0Um93KCkuZ2V0Q29sdW1ucygpOwo=</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gu/HIobW9tcS94bn7o6yy6c7etMvQ0Le1u9hudWxsCg==</text>
       </register>
       <register name="7" type="4">
+        <text>n</text>
+      </register>
+      <register name="6" type="4">
         <text>s</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBHZXRSb3dSZXN1bHQK</text>
+      <register name="5" type="4">
+        <text>(</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBvdHNSb3dHZXQuYWRkUHJpbWFyeUtleSgiKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBHZXRSb3dSZXN1bHQgbyA9IG90c1NlcnZpY2UuZ2V0Um93KG90c1Jvd0dldCk7Cg==</text>
+      <register name="4" type="4">
+        <text>)</text>
       </register>
       <register name=":" type="4">
         <text>%s/PropKey/PropertyService/g</text>
       </register>
       <register name="9" type="4">
-        <text>;</text>
+        <text>u</text>
       </register>
       <register name="8" type="4">
-        <text>n</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
         <text>remove</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>)</text>
       </register>
     </registers>
     <search>
