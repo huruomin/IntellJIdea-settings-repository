@@ -238,12 +238,12 @@
         <mark key="." line="20" column="67" />
         <mark key="[" line="20" column="67" />
       </file>
-      <file name="D:/Projects/huruomin-java/src/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" timestamp="1450183076908">
-        <mark key="'" line="130" column="0" />
-        <mark key="]" line="192" column="22" />
-        <mark key="^" line="192" column="22" />
-        <mark key="." line="192" column="22" />
-        <mark key="[" line="192" column="23" />
+      <file name="D:/Projects/huruomin-java/src/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" timestamp="1450184872377">
+        <mark key="'" line="40" column="15" />
+        <mark key="]" line="185" column="24" />
+        <mark key="^" line="185" column="24" />
+        <mark key="." line="185" column="24" />
+        <mark key="[" line="185" column="24" />
       </file>
       <file name="/Groovy JUnit TearDown Method.txt.ft" timestamp="1448698305522">
         <mark key="[" line="0" column="0" />
@@ -419,7 +419,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="175" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/SysService.java" />
       <jump line="164" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/SysService.java" />
       <jump line="152" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/SysService.java" />
       <jump line="137" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/SysService.java" />
@@ -519,57 +518,58 @@
       <jump line="105" column="0" filename="D:/Projects/huruomin-java/src/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" />
       <jump line="119" column="0" filename="D:/Projects/huruomin-java/src/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" />
       <jump line="124" column="0" filename="D:/Projects/huruomin-java/src/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" />
+      <jump line="40" column="15" filename="D:/Projects/huruomin-java/src/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICB0dHQKICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWRkRG9jKCJzc3MiKQo=</text>
+      <register name="3" type="4">
+        <text>构</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQo=</text>
+      <register name="2" type="4">
+        <text>结</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICB0dHQKICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0K</text>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG9wZXJEb2MoaW5kZXgsIHRhYmxlLCBmaWVsZHMsIGFjdGlvbik7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>常</text>
+        <text>即</text>
       </register>
       <register name="6" type="4">
-        <text>.</text>
+        <text>应</text>
       </register>
       <register name="5" type="4">
-        <text>'</text>
+        <text>用</text>
       </register>
       <register name="4" type="4">
-        <text>;</text>
+        <text>）</text>
       </register>
       <register name=":" type="4">
-        <text>%s/col.getKey()/key/g</text>
+        <text>%s/索引/应用/g</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBKU09OLnBhcnNlT2JqZWN0KGRvYy5wdXNoKHRhYmxlKSwgT3BzUmVzdWx0LmNsYXNzKTsK</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICB0dHQKICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0K</text>
       </register>
       <register name="8" type="4">
-        <text>异</text>
+        <text>（</text>
       </register>
       <register name="/" type="4">
-        <text>col.getKey()</text>
+        <text>索引</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
       <last-search>remove</last-search>
       <last-offset />
-      <last-pattern>col.getKey()</last-pattern>
-      <last-replace>key</last-replace>
-      <last-substitute>col.getKey()</last-substitute>
+      <last-pattern>索引</last-pattern>
+      <last-replace>应用</last-replace>
+      <last-substitute>索引</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -592,6 +592,7 @@
         <entry>PropKey</entry>
         <entry>remove</entry>
         <entry>col.getKey()</entry>
+        <entry>索引</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvL2lzRXF1YWwgPSBpc0VxdWFsICYmIC9n</entry>
@@ -600,6 +601,7 @@
         <entry>%s/Propkey/PropertyService/g</entry>
         <entry>%s/PropKey/PropertyService/g</entry>
         <entry>%s/col.getKey()/key/g</entry>
+        <entry>%s/索引/应用/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
