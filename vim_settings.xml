@@ -81,13 +81,6 @@
         <mark key="." line="2" column="17" />
         <mark key="[" line="2" column="10" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/MnsService.java" timestamp="1449903776957">
-        <mark key="'" line="4" column="0" />
-        <mark key="]" line="30" column="43" />
-        <mark key="^" line="46" column="42" />
-        <mark key="." line="46" column="42" />
-        <mark key="[" line="28" column="0" />
-      </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/PropertyService.java" timestamp="1449906447838">
         <mark key="]" line="135" column="11" />
         <mark key="^" line="135" column="11" />
@@ -246,13 +239,6 @@
         <mark key="." line="20" column="67" />
         <mark key="[" line="20" column="67" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" timestamp="1450066206624">
-        <mark key="'" line="50" column="0" />
-        <mark key="]" line="187" column="0" />
-        <mark key="^" line="171" column="47" />
-        <mark key="." line="187" column="0" />
-        <mark key="[" line="187" column="0" />
-      </file>
       <file name="/Groovy JUnit TearDown Method.txt.ft" timestamp="1448698305522">
         <mark key="[" line="0" column="0" />
       </file>
@@ -379,13 +365,6 @@
         <mark key="." line="19" column="26" />
         <mark key="[" line="31" column="0" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OtsService.java" timestamp="1449903882623">
-        <mark key="'" line="73" column="0" />
-        <mark key="]" line="32" column="43" />
-        <mark key="^" line="45" column="40" />
-        <mark key="." line="33" column="0" />
-        <mark key="[" line="30" column="0" />
-      </file>
       <file name="/fragment.java" timestamp="1449896748168">
         <mark key="[" line="0" column="0" />
       </file>
@@ -404,12 +383,12 @@
         <mark key="." line="5" column="16" />
         <mark key="[" line="5" column="7" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" timestamp="1450143069737">
-        <mark key="'" line="21" column="16" />
-        <mark key="]" line="133" column="12" />
-        <mark key="^" line="133" column="12" />
-        <mark key="." line="133" column="12" />
-        <mark key="[" line="117" column="9" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" timestamp="1450165054575">
+        <mark key="'" line="20" column="16" />
+        <mark key="]" line="146" column="29" />
+        <mark key="^" line="146" column="29" />
+        <mark key="." line="146" column="29" />
+        <mark key="[" line="146" column="28" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/param/weixin/SyncUserRequest.java" timestamp="1448699410419">
         <mark key="]" line="9" column="8" />
@@ -536,47 +515,49 @@
       <jump line="64" column="30" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/model/OtsUtils.java" />
     </jumps>
     <registers>
-      <register name="3" type="4">
-        <text>o</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBKU09OLnBhcnNlT2JqZWN0KGRvYy5wdXNoKHRhYmxlKSwgT3BzUmVzdWx0LmNsYXNzKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>常</text>
       </register>
       <register name="2" type="4">
-        <text>v</text>
+        <text>异</text>
       </register>
       <register name="1" type="4">
-        <text>e</text>
+        <text>常</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBTdHJpbmcgdGFibGVOYW1lID0gb3RzUm93VXBkYXRlLmdldFJvd1VwZGF0ZUNoYW5nZSgpLmdldFRhYmxlTmFtZSgpOwogICAgICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IHByaW1hcnlLZXlzID0gT3RzVXRpbHMudG9KYXZhUHJpbWFyeUtleXMob3RzUm93VXBkYXRlKTsKICAgICAgICAgICAgTWFwPFN0cmluZywgT2JqZWN0PiBjb2x1bW5zID0gT3RzVXRpbHMudG9KYXZhQ29sdW1ucyhvdHNSb3dVcGRhdGUpOwogICAgICAgICAgICBpZiAoQ29sbGVjdGlvblV0aWxzLmlzRW1wdHkocHJpbWFyeUtleXMpIHx8IENvbGxlY3Rpb25VdGlscy5pc0VtcHR5KGNvbHVtbnMpKSB7CiAgICAgICAgICAgICAgICByZXR1cm47CiAgICAgICAgICAgIH0KICAgICAgICAgICAgTWFwPFN0cmluZywgT2JqZWN0PiBmaWVsZHMgPSBNYXBzLm5ld0hhc2hNYXAoKTsKICAgICAgICAgICAgZmllbGRzLnB1dEFsbChwcmltYXJ5S2V5cyk7CiAgICAgICAgICAgIGZpZWxkcy5wdXRBbGwoY29sdW1ucyk7CiAgICAgICAgICAgIG9wc1NlcnZpY2UudXBkYXRlRG9jKHRhYmxlTmFtZSwgZmllbGRzKTsKICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICAvLyBUT0RPIGxvZ2dpbmcKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9wZXJEb2MoaW5kZXgsIHRhYmxlLCBmaWVsZHMsIGFjdGlvbik7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>updateDoc</text>
+      <register name="7" type="2">
+        <text encoding="base64">CiAgICBwdWJsaWMgdm9pZCByZWZyZXNoQ2FjaGUoKSB7CiAgICAgICAgY2FjaGUuY2xlYW5VcCgpOwogICAgICAgIFNldDxTdHJpbmc+IGluZGV4ZXMgPSBsb2FkSW5kZXhlcygpOwogICAgICAgIGZvciAoU3RyaW5nIGluZGV4IDogaW5kZXhlcykgewogICAgICAgICAgICBTZXQ8U3RyaW5nPiB0YWJsZXMgPSBsb2FkVGFibGVzKGluZGV4KTsKICAgICAgICAgICAgZm9yIChTdHJpbmcgdGFibGUgOiB0YWJsZXMpIHsKICAgICAgICAgICAgICAgIFNldDxTdHJpbmc+IHJlZkluZGV4ZXMgPSBjYWNoZS5nZXRJZlByZXNlbnQodGFibGUpOwogICAgICAgICAgICAgICAgcmVmSW5kZXhlcyA9IG51bGwgPT0gcmVmSW5kZXhlcyA/IFNldHMuPFN0cmluZz5uZXdIYXNoU2V0KCkgOiByZWZJbmRleGVzOwogICAgICAgICAgICAgICAgcmVmSW5kZXhlcy5hZGQoaW5kZXgpOwogICAgICAgICAgICAgICAgY2FjaGUucHV0KHRhYmxlLCByZWZJbmRleGVzKTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0K</text>
       </register>
-      <register name="6" type="4">
-        <text>r</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>e</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>m</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZG9jLnB1c2godGFibGUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/col.getKey()/key/g</text>
       </register>
       <register name="9" type="4">
-        <text>otsRowUpdate</text>
+        <text>Assert.hasLength(table);
+            Assert.notEmpty(fields);
+            Assert.hasLength(action);</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmllbGRzLnB1dEFsbChjb2x1bW5zKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="/" type="4">
         <text>col.getKey()</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>常</text>
       </register>
     </registers>
     <search>
