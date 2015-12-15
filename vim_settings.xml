@@ -383,12 +383,12 @@
         <mark key="." line="5" column="16" />
         <mark key="[" line="5" column="7" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" timestamp="1450165054575">
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" timestamp="1450166445291">
         <mark key="'" line="20" column="16" />
-        <mark key="]" line="146" column="29" />
-        <mark key="^" line="146" column="29" />
-        <mark key="." line="146" column="29" />
-        <mark key="[" line="146" column="28" />
+        <mark key="]" line="79" column="33" />
+        <mark key="^" line="79" column="33" />
+        <mark key="." line="79" column="33" />
+        <mark key="[" line="69" column="23" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/param/weixin/SyncUserRequest.java" timestamp="1448699410419">
         <mark key="]" line="9" column="8" />
@@ -515,40 +515,38 @@
       <jump line="64" column="30" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/model/OtsUtils.java" />
     </jumps>
     <registers>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBKU09OLnBhcnNlT2JqZWN0KGRvYy5wdXNoKHRhYmxlKSwgT3BzUmVzdWx0LmNsYXNzKTsK</text>
+      <register name="3" type="4">
+        <text>常</text>
       </register>
       <register name="&quot;" type="4">
-        <text>常</text>
+        <text>'</text>
       </register>
       <register name="2" type="4">
-        <text>异</text>
+        <text>.</text>
       </register>
       <register name="1" type="4">
-        <text>常</text>
+        <text>'</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG9wZXJEb2MoaW5kZXgsIHRhYmxlLCBmaWVsZHMsIGFjdGlvbik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgdm9pZCByZWZyZXNoQ2FjaGUoKSB7CiAgICAgICAgY2FjaGUuY2xlYW5VcCgpOwogICAgICAgIFNldDxTdHJpbmc+IGluZGV4ZXMgPSBsb2FkSW5kZXhlcygpOwogICAgICAgIGZvciAoU3RyaW5nIGluZGV4IDogaW5kZXhlcykgewogICAgICAgICAgICBTZXQ8U3RyaW5nPiB0YWJsZXMgPSBsb2FkVGFibGVzKGluZGV4KTsKICAgICAgICAgICAgZm9yIChTdHJpbmcgdGFibGUgOiB0YWJsZXMpIHsKICAgICAgICAgICAgICAgIFNldDxTdHJpbmc+IHJlZkluZGV4ZXMgPSBjYWNoZS5nZXRJZlByZXNlbnQodGFibGUpOwogICAgICAgICAgICAgICAgcmVmSW5kZXhlcyA9IG51bGwgPT0gcmVmSW5kZXhlcyA/IFNldHMuPFN0cmluZz5uZXdIYXNoU2V0KCkgOiByZWZJbmRleGVzOwogICAgICAgICAgICAgICAgcmVmSW5kZXhlcy5hZGQoaW5kZXgpOwogICAgICAgICAgICAgICAgY2FjaGUucHV0KHRhYmxlLCByZWZJbmRleGVzKTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZG9jLnB1c2godGFibGUpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBKU09OLnBhcnNlT2JqZWN0KGRvYy5wdXNoKHRhYmxlKSwgT3BzUmVzdWx0LmNsYXNzKTsK</text>
+      </register>
+      <register name="4" type="4">
+        <text>异</text>
       </register>
       <register name=":" type="4">
         <text>%s/col.getKey()/key/g</text>
       </register>
-      <register name="9" type="4">
-        <text>Assert.hasLength(table);
-            Assert.notEmpty(fields);
-            Assert.hasLength(action);</text>
+      <register name="9" type="2">
+        <text encoding="base64">CiAgICBwdWJsaWMgdm9pZCByZWZyZXNoQ2FjaGUoKSB7CiAgICAgICAgY2FjaGUuY2xlYW5VcCgpOwogICAgICAgIFNldDxTdHJpbmc+IGluZGV4ZXMgPSBsb2FkSW5kZXhlcygpOwogICAgICAgIGZvciAoU3RyaW5nIGluZGV4IDogaW5kZXhlcykgewogICAgICAgICAgICBTZXQ8U3RyaW5nPiB0YWJsZXMgPSBsb2FkVGFibGVzKGluZGV4KTsKICAgICAgICAgICAgZm9yIChTdHJpbmcgdGFibGUgOiB0YWJsZXMpIHsKICAgICAgICAgICAgICAgIFNldDxTdHJpbmc+IHJlZkluZGV4ZXMgPSBjYWNoZS5nZXRJZlByZXNlbnQodGFibGUpOwogICAgICAgICAgICAgICAgcmVmSW5kZXhlcyA9IG51bGwgPT0gcmVmSW5kZXhlcyA/IFNldHMuPFN0cmluZz5uZXdIYXNoU2V0KCkgOiByZWZJbmRleGVzOwogICAgICAgICAgICAgICAgcmVmSW5kZXhlcy5hZGQoaW5kZXgpOwogICAgICAgICAgICAgICAgY2FjaGUucHV0KHRhYmxlLCByZWZJbmRleGVzKTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -557,7 +555,7 @@
         <text>col.getKey()</text>
       </register>
       <register name="-" type="4">
-        <text>常</text>
+        <text>'</text>
       </register>
     </registers>
     <search>
