@@ -215,12 +215,12 @@
         <mark key="." line="99" column="0" />
         <mark key="[" line="99" column="0" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/aspect/OtsAspect.java" timestamp="1450161410763">
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/aspect/OtsAspect.java" timestamp="1450162994016">
         <mark key="'" line="101" column="0" />
-        <mark key="]" line="91" column="34" />
-        <mark key="^" line="91" column="34" />
-        <mark key="." line="91" column="34" />
-        <mark key="[" line="91" column="26" />
+        <mark key="]" line="128" column="21" />
+        <mark key="^" line="128" column="21" />
+        <mark key="." line="128" column="21" />
+        <mark key="[" line="128" column="16" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/model/OtsUtils.java" timestamp="1450161942729">
         <mark key="'" line="64" column="30" />
@@ -298,7 +298,7 @@
         <mark key="." line="17" column="0" />
         <mark key="[" line="17" column="0" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OtsService.java" timestamp="1450159910742">
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OtsService.java" timestamp="1450162687565">
         <mark key="'" line="28" column="0" />
         <mark key="]" line="132" column="5" />
         <mark key="^" line="128" column="34" />
@@ -537,46 +537,46 @@
     </jumps>
     <registers>
       <register name="3" type="4">
-        <text encoding="base64">IE9iamVjdA==</text>
+        <text>o</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZGF0YSA=</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">ZGF0YSA=</text>
-      </register>
-      <register name="1" type="4">
-        <text encoding="base64">ZGF0YSA=</text>
-      </register>
-      <register name="0" type="4">
-        <text>，value支持String、Long、或{@link PrimaryKeyValue}类型</text>
-      </register>
-      <register name="7" type="4">
-        <text>K</text>
-      </register>
-      <register name="6" type="4">
         <text>e</text>
       </register>
+      <register name="2" type="4">
+        <text>v</text>
+      </register>
+      <register name="1" type="4">
+        <text>e</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBTdHJpbmcgdGFibGVOYW1lID0gb3RzUm93VXBkYXRlLmdldFJvd1VwZGF0ZUNoYW5nZSgpLmdldFRhYmxlTmFtZSgpOwogICAgICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IHByaW1hcnlLZXlzID0gT3RzVXRpbHMudG9KYXZhUHJpbWFyeUtleXMob3RzUm93VXBkYXRlKTsKICAgICAgICAgICAgTWFwPFN0cmluZywgT2JqZWN0PiBjb2x1bW5zID0gT3RzVXRpbHMudG9KYXZhQ29sdW1ucyhvdHNSb3dVcGRhdGUpOwogICAgICAgICAgICBpZiAoQ29sbGVjdGlvblV0aWxzLmlzRW1wdHkocHJpbWFyeUtleXMpIHx8IENvbGxlY3Rpb25VdGlscy5pc0VtcHR5KGNvbHVtbnMpKSB7CiAgICAgICAgICAgICAgICByZXR1cm47CiAgICAgICAgICAgIH0KICAgICAgICAgICAgTWFwPFN0cmluZywgT2JqZWN0PiBmaWVsZHMgPSBNYXBzLm5ld0hhc2hNYXAoKTsKICAgICAgICAgICAgZmllbGRzLnB1dEFsbChwcmltYXJ5S2V5cyk7CiAgICAgICAgICAgIGZpZWxkcy5wdXRBbGwoY29sdW1ucyk7CiAgICAgICAgICAgIG9wc1NlcnZpY2UudXBkYXRlRG9jKHRhYmxlTmFtZSwgZmllbGRzKTsKICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICAvLyBUT0RPIGxvZ2dpbmcKICAgICAgICB9Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text>updateDoc</text>
+      </register>
+      <register name="6" type="4">
+        <text>r</text>
+      </register>
       <register name="5" type="4">
-        <text>y</text>
+        <text>e</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IE9iamVjdA==</text>
+        <text>m</text>
       </register>
       <register name=":" type="4">
         <text>%s/col.getKey()/key/g</text>
       </register>
       <register name="9" type="4">
-        <text>r</text>
+        <text>otsRowUpdate</text>
       </register>
-      <register name="8" type="4">
-        <text>y</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZmllbGRzLnB1dEFsbChjb2x1bW5zKTsK</text>
       </register>
       <register name="/" type="4">
         <text>col.getKey()</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGF0YSA=</text>
+        <text>e</text>
       </register>
     </registers>
     <search>
