@@ -157,11 +157,10 @@
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/SysService.java" timestamp="1449904994074">
         <mark key="'" line="26" column="24" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" timestamp="1450142294349">
-        <mark key="]" line="269" column="29" />
-        <mark key="^" line="269" column="29" />
-        <mark key="." line="269" column="29" />
-        <mark key="[" line="268" column="108" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/UserService.java" timestamp="1450142821310">
+        <mark key="]" line="269" column="0" />
+        <mark key="." line="269" column="0" />
+        <mark key="[" line="269" column="0" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/weixin/UserSubscribeStep.java" timestamp="1448592565709">
         <mark key="]" line="35" column="45" />
@@ -399,12 +398,12 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-framework-bom/4.2.2.RELEASE/spring-framework-bom-4.2.2.RELEASE.pom" timestamp="1449897436985">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" timestamp="1450141998186">
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" timestamp="1450143069737">
         <mark key="'" line="21" column="16" />
-        <mark key="]" line="134" column="82" />
-        <mark key="^" line="134" column="82" />
-        <mark key="." line="134" column="82" />
-        <mark key="[" line="134" column="74" />
+        <mark key="]" line="133" column="12" />
+        <mark key="^" line="133" column="12" />
+        <mark key="." line="133" column="12" />
+        <mark key="[" line="117" column="9" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/param/weixin/SyncUserRequest.java" timestamp="1448699410419">
         <mark key="]" line="9" column="8" />
@@ -526,56 +525,46 @@
     </jumps>
     <registers>
       <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgQXNzZXJ0Lmhhc0xlbmd0aCh0YWJsZSk7CiAgICAgICAgQXNzZXJ0Lm5vdEVtcHR5KGZpZWxkcyk7CiAgICAgICAgaWYgKCFDb2xsZWN0aW9uVXRpbHMuY29udGFpbnNJbnN0YW5jZShnZXRJbmRleGVzQnlUYWJsZSh0YWJsZSksIGluZGV4KSkgewogICAgICAgICAgICB0aHJvdyBuZXcgSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKCJpbmRleCBvciB0YWJsZSBub3QgZXhpc3QiKTsKICAgICAgICB9CiAgICAgICAgQ2xvdWRzZWFyY2hEb2MgZG9jID0gZG9jKGluZGV4KTsKICAgICAgICBkb2MuYWRkKGZpZWxkcyk7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgcmV0dXJuIEpTT04ucGFyc2VPYmplY3QoZG9jLnB1c2godGFibGUpLCBPcHNSZXN1bHQuY2xhc3MpOwogICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIHRocm93IFRocm93YWJsZXMucHJvcGFnYXRlKGUpOwogICAgICAgIH0=</text>
+        <text encoding="base64">cHVibGljIA==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdVc2VyLnNldFd4Tmlja25hbWUobnVsbCk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIG90c1Jvd1VwZGF0ZS5hZGRDb2x1bW5Ub0RlbCgid3hOaWNrbmFtZSIpOwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuaGFzTGVuZ3RoKGluZGV4KTsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">cHVibGljIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdVc2VyLnNldFd4Tmlja25hbWUobnVsbCk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIG90c1Jvd1VwZGF0ZS5hZGRDb2x1bW5Ub0RlbCgid3hOaWNrbmFtZSIpOwo=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoIUNvbGxlY3Rpb25VdGlscy5jb250YWluc0luc3RhbmNlKGdldEluZGV4ZXNCeVRhYmxlKHRhYmxlKSwgaW5kZXgpKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oImluZGV4IG9yIHRhYmxlIG5vdCBleGlzdCIpOwogICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIUNvbGxlY3Rpb25VdGlscy5jb250YWluc0luc3RhbmNlKGdldEluZGV4ZXNCeVRhYmxlKHRhYmxlKSwgaW5kZXgpKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oImluZGV4IG9yIHRhYmxlIG5vdCBleGlzdCIpOwogICAgICAgIH0KICAgICAgICBDbG91ZHNlYXJjaERvYyBkb2MgPSBkb2MoaW5kZXgpOwogICAgICAgIGRvYy51cGRhdGUoZmllbGRzKTsKICAgICAgICB0cnkgewogICAgICAgICAgICByZXR1cm4gSlNPTi5wYXJzZU9iamVjdChkb2MucHVzaCh0YWJsZSksIE9wc1Jlc3VsdC5jbGFzcyk7CiAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgdGhyb3cgVGhyb3dhYmxlcy5wcm9wYWdhdGUoZSk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgdm9pZCBkZWxldGVEb2MoU3RyaW5nIHRhYmxlLCBTdHJpbmcgcHJpbWFyeWtleSwgU3RyaW5nIHByaW1hcnlWYWx1ZSkgewogICAgICAgIAogICAgfSAKICAgIAogICAgcHVibGljIE9wc1Jlc3VsdCBkZWxldGVEb2MoU3RyaW5nIGluZGV4LCBTdHJpbmcgdGFibGUsIFN0cmluZyBwcmltYXJ5S2V5LCBTdHJpbmcgcHJpbWFyeVZhbHVlKSB7CiAgICAgICAgQXNzZXJ0Lmhhc0xlbmd0aChwcmltYXJ5S2V5KTsKICAgICAgICBBc3NlcnQuaGFzTGVuZ3RoKHByaW1hcnlWYWx1ZSk7CiAgICAgICAgTWFwPFN0cmluZywgT2JqZWN0PiBmaWVsZHMgPSBNYXBzLm5ld0hhc2hNYXAoKTsKICAgICAgICBmaWVsZHMucHV0KHByaW1hcnlLZXksIHByaW1hcnlWYWx1ZSk7CiAgICAgICAgcmV0dXJuIGRlbGV0ZURvYyhpbmRleCwgdGFibGUsIGZpZWxkcyk7CiAgICB9Cg==</text>
       </register>
       <register name="4" type="4">
-        <text>if (!CollectionUtils.containsInstance(getIndexesByTable(table), index)) {
-            throw new IllegalArgumentException(&quot;index or table not exist&quot;);
-        }
-
-        CloudsearchDoc doc = doc(index);
-        doc.remove(fields);
-        try {
-            return JSON.parseObject(doc.push(table), OpsResult.class);
-        } catch (Exception e) {
-            throw Throwables.propagate(e);
-        }</text>
+        <text encoding="base64">cHVibGljIA==</text>
       </register>
       <register name=":" type="4">
         <text>%s/PropKey/PropertyService/g</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG51bGwgPT0gZmllbGQuZ2V0VmFsdWUoKSkgewo=</text>
+        <text encoding="base64">ICAgICAgICBTZXQ8U3RyaW5nPiBpbmRleGVzID0gZ2V0SW5kZXhlc0J5VGFibGUodGFibGUpOwogICAgICAgIGlmIChudWxsICE9IGluZGV4ZXMpIHsKICAgICAgICAgICAgZm9yIChTdHJpbmcgaW5kZXggOiBpbmRleGVzKSB7CiAgICAgICAgICAgICAgICBhZGREb2MoaW5kZXgsIHRhYmxlLCBmaWVsZHMpOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="/" type="4">
         <text>remove</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text encoding="base64">cHVibGljIA==</text>
       </register>
     </registers>
     <search>
