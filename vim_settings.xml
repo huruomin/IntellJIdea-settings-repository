@@ -180,7 +180,7 @@
       <file name="/Dynamic Method Body.txt.ft" timestamp="1448698196618">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" timestamp="1450140859117" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/User.java" timestamp="1450161781044" />
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/NoteListener.java" timestamp="1450069024208">
         <mark key="]" line="192" column="40" />
         <mark key="^" line="192" column="40" />
@@ -215,18 +215,19 @@
         <mark key="." line="99" column="0" />
         <mark key="[" line="99" column="0" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/aspect/OtsAspect.java" timestamp="1450158375732">
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/aspect/OtsAspect.java" timestamp="1450161410763">
         <mark key="'" line="101" column="0" />
-        <mark key="]" line="130" column="51" />
-        <mark key="^" line="123" column="19" />
-        <mark key="." line="130" column="51" />
-        <mark key="[" line="130" column="51" />
+        <mark key="]" line="91" column="34" />
+        <mark key="^" line="91" column="34" />
+        <mark key="." line="91" column="34" />
+        <mark key="[" line="91" column="26" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/model/OtsUtils.java" timestamp="1450159083324">
-        <mark key="]" line="128" column="0" />
-        <mark key="^" line="131" column="17" />
-        <mark key="." line="128" column="0" />
-        <mark key="[" line="128" column="0" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/model/OtsUtils.java" timestamp="1450161942729">
+        <mark key="'" line="64" column="30" />
+        <mark key="]" line="129" column="81" />
+        <mark key="^" line="129" column="81" />
+        <mark key="." line="129" column="81" />
+        <mark key="[" line="129" column="76" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/model/OtsRowUpdate.java" timestamp="1450152841455">
         <mark key="]" line="125" column="0" />
@@ -297,12 +298,12 @@
         <mark key="." line="17" column="0" />
         <mark key="[" line="17" column="0" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OtsService.java" timestamp="1450159828546">
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OtsService.java" timestamp="1450159910742">
         <mark key="'" line="28" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="^" line="69" column="25" />
-        <mark key="." line="70" column="0" />
-        <mark key="[" line="70" column="0" />
+        <mark key="]" line="132" column="5" />
+        <mark key="^" line="128" column="34" />
+        <mark key="." line="115" column="0" />
+        <mark key="[" line="115" column="0" />
       </file>
       <file name="/Unnamed.txt.ft" timestamp="1448519710754">
         <mark key="[" line="0" column="0" />
@@ -433,7 +434,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/MnsService.java" />
       <jump line="53" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/MnsService.java" />
       <jump line="44" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/MnsService.java" />
       <jump line="34" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/MnsService.java" />
@@ -533,57 +533,58 @@
       <jump line="21" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/model/OtsRowDelete.java" />
       <jump line="18" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/model/OtsRowDelete.java" />
       <jump line="123" column="7" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/aspect/OtsAspect.java" />
+      <jump line="64" column="30" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/model/OtsUtils.java" />
     </jumps>
     <registers>
       <register name="3" type="4">
-        <text>(</text>
+        <text encoding="base64">IE9iamVjdA==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZGF0YSA=</text>
       </register>
       <register name="2" type="4">
-        <text>)</text>
+        <text encoding="base64">ZGF0YSA=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
+      <register name="1" type="4">
+        <text encoding="base64">ZGF0YSA=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gu/HIobW9tcS94bn7o6y8tMO/0rvB0LXEvPzWtbbUo6yy6c7etMvQ0Le1u9hudWxsCg==</text>
+      <register name="0" type="4">
+        <text>，value支持String、Long、或{@link PrimaryKeyValue}类型</text>
       </register>
       <register name="7" type="4">
-        <text>u</text>
+        <text>K</text>
       </register>
       <register name="6" type="4">
-        <text>m</text>
+        <text>e</text>
       </register>
       <register name="5" type="4">
-        <text>n</text>
+        <text>y</text>
       </register>
       <register name="4" type="4">
-        <text>s</text>
+        <text encoding="base64">IE9iamVjdA==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/PropKey/PropertyService/g</text>
+        <text>%s/col.getKey()/key/g</text>
       </register>
       <register name="9" type="4">
-        <text>o</text>
+        <text>r</text>
       </register>
       <register name="8" type="4">
-        <text>l</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
-        <text>remove</text>
+        <text>col.getKey()</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">ZGF0YSA=</text>
       </register>
     </registers>
     <search>
       <last-search>remove</last-search>
       <last-offset />
-      <last-pattern>remove</last-pattern>
-      <last-replace>PropertyService</last-replace>
-      <last-substitute>PropKey</last-substitute>
+      <last-pattern>col.getKey()</last-pattern>
+      <last-replace>key</last-replace>
+      <last-substitute>col.getKey()</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -605,6 +606,7 @@
         <entry>Propkey</entry>
         <entry>PropKey</entry>
         <entry>remove</entry>
+        <entry>col.getKey()</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvL2lzRXF1YWwgPSBpc0VxdWFsICYmIC9n</entry>
@@ -612,6 +614,7 @@
         <entry>%s/sysService/propertyService/g</entry>
         <entry>%s/Propkey/PropertyService/g</entry>
         <entry>%s/PropKey/PropertyService/g</entry>
+        <entry>%s/col.getKey()/key/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
