@@ -214,11 +214,12 @@
         <mark key="." line="99" column="0" />
         <mark key="[" line="99" column="0" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/aspect/OtsAspect.java" timestamp="1450076497141">
-        <mark key="'" line="109" column="0" />
-        <mark key="]" line="106" column="0" />
-        <mark key="." line="106" column="0" />
-        <mark key="[" line="106" column="0" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/aspect/OtsAspect.java" timestamp="1450145423965">
+        <mark key="'" line="106" column="0" />
+        <mark key="]" line="41" column="35" />
+        <mark key="^" line="41" column="35" />
+        <mark key="." line="41" column="35" />
+        <mark key="[" line="41" column="32" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/model/OtsUtils.java" timestamp="1450077194756">
         <mark key="]" line="123" column="61" />
@@ -318,10 +319,10 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/model/OtsUseColumns.java" timestamp="1450074172590">
-        <mark key="]" line="61" column="26" />
-        <mark key="^" line="61" column="26" />
-        <mark key="." line="61" column="26" />
-        <mark key="[" line="61" column="21" />
+        <mark key="]" line="60" column="26" />
+        <mark key="^" line="60" column="26" />
+        <mark key="." line="60" column="26" />
+        <mark key="[" line="60" column="21" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/model/sys/OtsUsePrimaryKeys.java" timestamp="1449817683113">
         <mark key="]" line="28" column="0" />
@@ -340,12 +341,6 @@
         <mark key="^" line="4" column="4" />
         <mark key="." line="4" column="4" />
         <mark key="[" line="3" column="26" />
-      </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/RedisService.java" timestamp="1449903991829">
-        <mark key="'" line="38" column="28" />
-        <mark key="]" line="2" column="2" />
-        <mark key="." line="29" column="0" />
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/UserHist.java" timestamp="1448697339534">
         <mark key="[" line="41" column="5" />
@@ -525,46 +520,46 @@
     </jumps>
     <registers>
       <register name="3" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+        <text>=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIG90c1Jvd1VwZGF0ZS5hZGRDb2x1bW5Ub0RlbCgid3hOaWNrbmFtZSIpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>tableName</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIG90c1Jvd1VwZGF0ZS5hZGRDb2x1bW5Ub0RlbCgid3hOaWNrbmFtZSIpOwo=</text>
+      <register name="1" type="4">
+        <text>tableName</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIUNvbGxlY3Rpb25VdGlscy5jb250YWluc0luc3RhbmNlKGdldEluZGV4ZXNCeVRhYmxlKHRhYmxlKSwgaW5kZXgpKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oImluZGV4IG9yIHRhYmxlIG5vdCBleGlzdCIpOwogICAgICAgIH0K</text>
+      <register name="0" type="4">
+        <text encoding="base64">IE90c1Jvd0dldCBvdHNSb3dHZXQgPSBuZXcgT3RzUm93R2V0KHRhYmxlTmFtZSk7CiAgICAgICAgICAgIE90c1V0aWxzLmFkZFByaW1hcnlLZXlzKG90c1Jvd0dldCwgcHJpbWFyeUtleXMpOwogICAgICAgICAgICBSb3cgcm93ID0gb3RzU2VydmljZS5nZXRSb3cob3RzUm93R2V0KS5nZXRSb3coKTs=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyAK</text>
+      <register name="7" type="4">
+        <text>K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="6" type="4">
+        <text>e</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgdm9pZCBkZWxldGVEb2MoU3RyaW5nIHRhYmxlLCBTdHJpbmcgcHJpbWFyeWtleSwgU3RyaW5nIHByaW1hcnlWYWx1ZSkgewogICAgICAgIAogICAgfSAKICAgIAogICAgcHVibGljIE9wc1Jlc3VsdCBkZWxldGVEb2MoU3RyaW5nIGluZGV4LCBTdHJpbmcgdGFibGUsIFN0cmluZyBwcmltYXJ5S2V5LCBTdHJpbmcgcHJpbWFyeVZhbHVlKSB7CiAgICAgICAgQXNzZXJ0Lmhhc0xlbmd0aChwcmltYXJ5S2V5KTsKICAgICAgICBBc3NlcnQuaGFzTGVuZ3RoKHByaW1hcnlWYWx1ZSk7CiAgICAgICAgTWFwPFN0cmluZywgT2JqZWN0PiBmaWVsZHMgPSBNYXBzLm5ld0hhc2hNYXAoKTsKICAgICAgICBmaWVsZHMucHV0KHByaW1hcnlLZXksIHByaW1hcnlWYWx1ZSk7CiAgICAgICAgcmV0dXJuIGRlbGV0ZURvYyhpbmRleCwgdGFibGUsIGZpZWxkcyk7CiAgICB9Cg==</text>
+      <register name="5" type="4">
+        <text>y</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>%s/PropKey/PropertyService/g</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTZXQ8U3RyaW5nPiBpbmRleGVzID0gZ2V0SW5kZXhlc0J5VGFibGUodGFibGUpOwogICAgICAgIGlmIChudWxsICE9IGluZGV4ZXMpIHsKICAgICAgICAgICAgZm9yIChTdHJpbmcgaW5kZXggOiBpbmRleGVzKSB7CiAgICAgICAgICAgICAgICBhZGREb2MoaW5kZXgsIHRhYmxlLCBmaWVsZHMpOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+      <register name="8" type="4">
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>remove</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+        <text>tableName</text>
       </register>
     </registers>
     <search>
