@@ -374,21 +374,22 @@
         <mark key="." line="45" column="0" />
         <mark key="[" line="45" column="0" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/model/OpsSearch.java" timestamp="1450239461370">
-        <mark key="'" line="635" column="5" />
-        <mark key="]" line="367" column="0" />
-        <mark key="." line="367" column="0" />
-        <mark key="[" line="13" column="67" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/model/OpsSearch.java" timestamp="1450240464674">
+        <mark key="'" line="644" column="5" />
+        <mark key="]" line="19" column="3" />
+        <mark key="^" line="19" column="3" />
+        <mark key="." line="19" column="3" />
+        <mark key="[" line="27" column="58" />
       </file>
       <file name="/Interface.txt.ft" timestamp="1448519585877">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" timestamp="1450239399249">
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" timestamp="1450240300746">
         <mark key="'" line="0" column="0" />
-        <mark key="]" line="151" column="18" />
-        <mark key="^" line="151" column="18" />
-        <mark key="." line="151" column="18" />
-        <mark key="[" line="151" column="19" />
+        <mark key="]" line="145" column="47" />
+        <mark key="^" line="145" column="47" />
+        <mark key="." line="145" column="47" />
+        <mark key="[" line="145" column="36" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/param/weixin/SyncUserRequest.java" timestamp="1448699410419">
         <mark key="]" line="9" column="8" />
@@ -510,46 +511,46 @@
     </jumps>
     <registers>
       <register name="3" type="4">
-        <text>s</text>
+        <text>t</text>
       </register>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>)</text>
       </register>
       <register name="2" type="4">
-        <text>o</text>
+        <text>(</text>
       </register>
       <register name="1" type="4">
-        <text>r</text>
+        <text>)</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IGdldFN1bW1hcnk=</text>
       </register>
       <register name="7" type="4">
-        <text>r</text>
+        <text>)</text>
       </register>
       <register name="6" type="4">
-        <text>c</text>
+        <text>S</text>
       </register>
       <register name="5" type="4">
-        <text>h</text>
+        <text>o</text>
       </register>
       <register name="4" type="4">
-        <text>.</text>
+        <text>r</text>
       </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>
       </register>
       <register name="9" type="4">
-        <text>e</text>
+        <text>g</text>
       </register>
       <register name="8" type="4">
-        <text>a</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>addSummary</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>)</text>
       </register>
     </registers>
     <search>
