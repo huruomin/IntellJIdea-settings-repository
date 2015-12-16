@@ -148,13 +148,6 @@
         <mark key="." line="35" column="45" />
         <mark key="[" line="35" column="45" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/user/UserBehavior.java" timestamp="1448847410951">
-        <mark key="'" line="103" column="22" />
-        <mark key="]" line="101" column="21" />
-        <mark key="^" line="101" column="21" />
-        <mark key="." line="101" column="21" />
-        <mark key="[" line="101" column="22" />
-      </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/SysService.java" timestamp="1448871888309">
         <mark key="'" line="116" column="0" />
         <mark key="]" line="33" column="31" />
@@ -194,6 +187,9 @@
         <mark key="^" line="35" column="3" />
         <mark key="." line="99" column="0" />
         <mark key="[" line="99" column="0" />
+      </file>
+      <file name="$USER_HOME$/.m2/repository/com/aliyun/opensearch/aliyun-sdk-opensearch/2.1.3/aliyun-sdk-opensearch-2.1.3-sources.jar!/com/aliyun/opensearch/CloudsearchSearch.java" timestamp="1450235087050">
+        <mark key="'" line="472" column="19" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/aspect/OtsAspect.java" timestamp="1449743106229">
         <mark key="]" line="37" column="0" />
@@ -378,16 +374,15 @@
         <mark key="." line="45" column="0" />
         <mark key="[" line="45" column="0" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/model/OpsSearch.java" timestamp="1450233790048">
-        <mark key="'" line="0" column="0" />
-        <mark key="]" line="493" column="0" />
-        <mark key="." line="493" column="0" />
-        <mark key="[" line="493" column="0" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/model/OpsSearch.java" timestamp="1450235095502">
+        <mark key="]" line="361" column="0" />
+        <mark key="." line="361" column="0" />
+        <mark key="[" line="361" column="0" />
       </file>
       <file name="/Interface.txt.ft" timestamp="1448519585877">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" timestamp="1450229204218">
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" timestamp="1450235121126">
         <mark key="'" line="0" column="0" />
         <mark key="]" line="2" column="2" />
         <mark key="[" line="0" column="0" />
@@ -409,16 +404,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/UniqueIndex.java" />
-      <jump line="73" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/UniqueIndex.java" />
-      <jump line="64" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/UniqueIndex.java" />
-      <jump line="55" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/UniqueIndex.java" />
-      <jump line="5" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/UniqueIndex.java" />
-      <jump line="8" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/UniqueIndex.java" />
-      <jump line="15" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/UniqueIndex.java" />
-      <jump line="20" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/UniqueIndex.java" />
-      <jump line="25" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/UniqueIndex.java" />
-      <jump line="30" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/UniqueIndex.java" />
       <jump line="38" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/UniqueIndex.java" />
       <jump line="46" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/UniqueIndex.java" />
       <jump line="71" column="28" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/dict/user/UserBehavior.java" />
@@ -509,55 +494,65 @@
       <jump line="824" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/model/OpsSearch.java" />
       <jump line="59" column="19" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/model/OpsSearch.java" />
       <jump line="0" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/model/OpsSearch.java" />
+      <jump line="22" column="6" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/model/OpsSearch.java" />
+      <jump line="50" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/model/OpsSearch.java" />
+      <jump line="368" column="30" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/model/OpsSearch.java" />
+      <jump line="54" column="13" filename="$USER_HOME$/.m2/repository/com/aliyun/opensearch/aliyun-sdk-opensearch/2.1.3/aliyun-sdk-opensearch-2.1.3-sources.jar!/com/aliyun/opensearch/CloudsearchSearch.java" />
+      <jump line="497" column="44" filename="$USER_HOME$/.m2/repository/com/aliyun/opensearch/aliyun-sdk-opensearch/2.1.3/aliyun-sdk-opensearch-2.1.3-sources.jar!/com/aliyun/opensearch/CloudsearchSearch.java" />
+      <jump line="508" column="36" filename="$USER_HOME$/.m2/repository/com/aliyun/opensearch/aliyun-sdk-opensearch/2.1.3/aliyun-sdk-opensearch-2.1.3-sources.jar!/com/aliyun/opensearch/CloudsearchSearch.java" />
+      <jump line="415" column="19" filename="$USER_HOME$/.m2/repository/com/aliyun/opensearch/aliyun-sdk-opensearch/2.1.3/aliyun-sdk-opensearch-2.1.3-sources.jar!/com/aliyun/opensearch/CloudsearchSearch.java" />
+      <jump line="454" column="19" filename="$USER_HOME$/.m2/repository/com/aliyun/opensearch/aliyun-sdk-opensearch/2.1.3/aliyun-sdk-opensearch-2.1.3-sources.jar!/com/aliyun/opensearch/CloudsearchSearch.java" />
+      <jump line="455" column="20" filename="$USER_HOME$/.m2/repository/com/aliyun/opensearch/aliyun-sdk-opensearch/2.1.3/aliyun-sdk-opensearch-2.1.3-sources.jar!/com/aliyun/opensearch/CloudsearchSearch.java" />
+      <jump line="472" column="19" filename="$USER_HOME$/.m2/repository/com/aliyun/opensearch/aliyun-sdk-opensearch/2.1.3/aliyun-sdk-opensearch-2.1.3-sources.jar!/com/aliyun/opensearch/CloudsearchSearch.java" />
     </jumps>
     <registers>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIC8qKgogICAgICogu/HIocnPtM7L0cv3x+vH87XE0MXPogogICAgICoKICAgICAqIEByZXR1cm4gU3RyaW5nIMnPtM7L0cv3x+vH87XE0MXPogogICAgICovCiAgICBwdWJsaWMgU3RyaW5nIGdldERlYnVnSW5mbygpIHsKICAgICAgICByZXR1cm4gc2VhcmNoLmdldERlYnVnSW5mbygpOwogICAgfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gYm9vbGVhbiC3tbvYyse38cztvNOzybmmoaMK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CiAgICAvKioKICAgICAqILvxyKHWuLao19a2zrXE1arSqtDFz6Ioc3VtbWFyeSkKICAgICAqCiAgICAgKiBAcGFyYW0gZmllbGROYW1lINa4tqi1xNfWts7D+7PGoaMKICAgICAqIEByZXR1cm4gTWFwPFN0cmluZyxPYmplY3Q+ILe1u9jWuLao19a2zrXEc3VtbWFyedDFz6KhowogICAgICovCiAgICBwdWJsaWMgTWFwPFN0cmluZywgT2JqZWN0PiBnZXRTdW1tYXJ5KFN0cmluZyBmaWVsZE5hbWUpIHsKICAgICAgICByZXR1cm4gc2VhcmNoLmdldFN1bW1hcnkoZmllbGROYW1lKTsKICAgIH0K</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAvKioKICAgICAqILvxyKHWuLao19a2zrXE1arSqtDFz6Ioc3VtbWFyeSkKICAgICAqCiAgICAgKiBAcGFyYW0gZmllbGROYW1lINa4tqi1xNfWts7D+7PGoaMKICAgICAqIEByZXR1cm4gTWFwPFN0cmluZyxPYmplY3Q+ILe1u9jWuLao19a2zrXEc3VtbWFyedDFz6KhowogICAgICovCiAgICBwdWJsaWMgTWFwPFN0cmluZywgT2JqZWN0PiBnZXRTdW1tYXJ5KFN0cmluZyBmaWVsZE5hbWUpIHsKICAgICAgICByZXR1cm4gc2VhcmNoLmdldFN1bW1hcnkoZmllbGROYW1lKTsKICAgIH0=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAvKioKICAgICAqILvxyKHWuLao19a2zrXE1arSqtDFz6Ioc3VtbWFyeSkKICAgICAqCiAgICAgKiBAcGFyYW0gZmllbGROYW1lINa4tqi1xNfWts7D+7PGoaMKICAgICAqIEByZXR1cm4gTWFwPFN0cmluZyxPYmplY3Q+ILe1u9jWuLao19a2zrXEc3VtbWFyedDFz6KhowogICAgICovCiAgICBwdWJsaWMgTWFwPFN0cmluZywgT2JqZWN0PiBnZXRTdW1tYXJ5KFN0cmluZyBmaWVsZE5hbWUpIHsKICAgICAgICByZXR1cm4gc2VhcmNoLmdldFN1bW1hcnkoZmllbGROYW1lKTsKICAgIH0K</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IGJvb2xlYW4gYWRkU3VtbWFyeShTdHJpbmcgZmllbGROYW1lLCBJbnRlZ2VyIGxlbiwgU3RyaW5nIGVsZW1lbnQsIFN0cmluZyBlbGxpcHNpcywgSW50ZWdlciBzbmlwcGV0KSB7CiAgICAgICAgaWYoZmllbGROYW1lICE9IG51bGwgJiYgIWZpZWxkTmFtZS5lcXVhbHMoIiIpKSB7CiAgICAgICAgICAgIEhhc2hNYXAgc3VtbWFyeU1hcCA9IG5ldyBIYXNoTWFwKCk7CiAgICAgICAgICAgIHN1bW1hcnlNYXAucHV0KCJzdW1tYXJ5X2ZpZWxkIiwgZmllbGROYW1lKTsKICAgICAgICAgICAgaWYobGVuICE9IG51bGwpIHsKICAgICAgICAgICAgICAgIHN1bW1hcnlNYXAucHV0KCJzdW1tYXJ5X2xlbiIsIGxlbik7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGlmKGVsZW1lbnQgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgc3VtbWFyeU1hcC5wdXQoInN1bW1hcnlfZWxlbWVudCIsIGVsZW1lbnQpOwogICAgICAgICAgICB9CgogICAgICAgICAgICBpZihlbGxpcHNpcyAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICBzdW1tYXJ5TWFwLnB1dCgic3VtbWFyeV9lbGxpcHNpcyIsIGVsbGlwc2lzKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgaWYoc25pcHBldCAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICBzdW1tYXJ5TWFwLnB1dCgic3VtbWFyeV9zbmlwcGV0Iiwgc25pcHBldCk7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHRoaXMuc3VtbWFyeS5wdXQoZmllbGROYW1lLCBzdW1tYXJ5TWFwKTsKICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIH0KICAgIH0KCiAgICBwdWJsaWMgYm9vbGVhbiBhZGRTdW1tYXJ5KFN0cmluZyBmaWVsZE5hbWUpIHsKICAgICAgICByZXR1cm4gdGhpcy5hZGRTdW1tYXJ5KGZpZWxkTmFtZSwgKEludGVnZXIpbnVsbCwgKFN0cmluZyludWxsLCAoU3RyaW5nKW51bGwsIChJbnRlZ2VyKW51bGwpOwogICAgfQoKICAgIHB1YmxpYyBib29sZWFuIGFkZFN1bW1hcnkoU3RyaW5nIGZpZWxkTmFtZSwgSW50ZWdlciBsZW4sIFN0cmluZyBlbGxpcHNpcywgSW50ZWdlciBzbmlwcGV0LCBTdHJpbmcgZWxlbWVudFByZWZpeCwgU3RyaW5nIGVsZW1lbnRQb3N0Zml4KSB7CiAgICAgICAgaWYoZmllbGROYW1lICE9IG51bGwgJiYgIWZpZWxkTmFtZS5lcXVhbHMoIiIpKSB7CiAgICAgICAgICAgIEhhc2hNYXAgc3VtbWFyeU1hcCA9IG5ldyBIYXNoTWFwKCk7CiAgICAgICAgICAgIHN1bW1hcnlNYXAucHV0KCJzdW1tYXJ5X2ZpZWxkIiwgZmllbGROYW1lKTsKICAgICAgICAgICAgc3VtbWFyeU1hcC5wdXQoInN1bW1hcnlfbGVuIiwgSW50ZWdlci52YWx1ZU9mKGxlbiA9PSBudWxsPzA6bGVuLmludFZhbHVlKCkpKTsKICAgICAgICAgICAgc3VtbWFyeU1hcC5wdXQoInN1bW1hcnlfZWxsaXBzaXMiLCBlbGxpcHNpcyA9PSBudWxsPyIiOmVsbGlwc2lzKTsKICAgICAgICAgICAgc3VtbWFyeU1hcC5wdXQoInN1bW1hcnlfc25pcHBldCIsIEludGVnZXIudmFsdWVPZihzbmlwcGV0ID09IG51bGw/MDpzbmlwcGV0LmludFZhbHVlKCkpKTsKICAgICAgICAgICAgc3VtbWFyeU1hcC5wdXQoInN1bW1hcnlfZWxlbWVudF9wcmVmaXgiLCBlbGVtZW50UHJlZml4ID09IG51bGw/IiI6ZWxlbWVudFByZWZpeCk7CiAgICAgICAgICAgIHN1bW1hcnlNYXAucHV0KCJzdW1tYXJ5X2VsZW1lbnRfcG9zdGZpeCIsIGVsZW1lbnRQb3N0Zml4ID09IG51bGw/IiI6ZWxlbWVudFBvc3RmaXgpOwogICAgICAgICAgICB0aGlzLnN1bW1hcnkucHV0KGZpZWxkTmFtZSwgc3VtbWFyeU1hcCk7CiAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9CiAgICB9CgogICAgcHVibGljIE1hcDxTdHJpbmcsIE1hcDxTdHJpbmcsIE9iamVjdD4+IGdldFN1bW1hcnkoKSB7CiAgICAgICAgcmV0dXJuIHRoaXMuc3VtbWFyeTsKICAgIH0KCiAgICBwdWJsaWMgTWFwPFN0cmluZywgT2JqZWN0PiBnZXRTdW1tYXJ5KFN0cmluZyBmaWVsZE5hbWUpIHsKICAgICAgICBPYmplY3Qgc3BlY2lhbFN1bW1hcnkgPSBuZXcgSGFzaE1hcCgpOwogICAgICAgIGlmKHRoaXMuc3VtbWFyeS5jb250YWluc0tleShmaWVsZE5hbWUpKSB7CiAgICAgICAgICAgIHNwZWNpYWxTdW1tYXJ5ID0gKE1hcCl0aGlzLnN1bW1hcnkuZ2V0KGZpZWxkTmFtZSk7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gKE1hcClzcGVjaWFsU3VtbWFyeTsKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIGdldFN1bW1hcnlTdHJpbmcoKSB7CiAgICAgICAgU3RyaW5nQnVpbGRlciBzdW1tYXJ5U3RyID0gbmV3IFN0cmluZ0J1aWxkZXIoKTsKICAgICAgICBpZih0aGlzLmdldFN1bW1hcnkoKS5zaXplKCkgPD0gMCkgewogICAgICAgICAgICByZXR1cm4gc3VtbWFyeVN0ci50b1N0cmluZygpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIEl0ZXJhdG9yIGkkID0gdGhpcy5nZXRTdW1tYXJ5KCkudmFsdWVzKCkuaXRlcmF0b3IoKTsKCiAgICAgICAgICAgIHdoaWxlKGkkLmhhc05leHQoKSkgewogICAgICAgICAgICAgICAgTWFwIGl0ZW0gPSAoTWFwKWkkLm5leHQoKTsKICAgICAgICAgICAgICAgIFN0cmluZ0J1aWxkZXIgc3VtbWFyeVN1YlN0ciA9IG5ldyBTdHJpbmdCdWlsZGVyKCk7CiAgICAgICAgICAgICAgICBJdGVyYXRvciBpJDEgPSBpdGVtLmVudHJ5U2V0KCkuaXRlcmF0b3IoKTsKCiAgICAgICAgICAgICAgICB3aGlsZShpJDEuaGFzTmV4dCgpKSB7CiAgICAgICAgICAgICAgICAgICAgRW50cnkgZW50cnkgPSAoRW50cnkpaSQxLm5leHQoKTsKICAgICAgICAgICAgICAgICAgICBzdW1tYXJ5U3ViU3RyLmFwcGVuZCgiLCIpLmFwcGVuZCgoU3RyaW5nKWVudHJ5LmdldEtleSgpKS5hcHBlbmQoIjoiKS5hcHBlbmQoZW50cnkuZ2V0VmFsdWUoKSk7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgc3VtbWFyeVN0ci5hcHBlbmQoIjsiKS5hcHBlbmQoc3VtbWFyeVN1YlN0ci5zdWJzdHJpbmcoMSkpOwogICAgICAgICAgICB9CgogICAgICAgICAgICByZXR1cm4gc3VtbWFyeVN0ci5zdWJzdHJpbmcoMSk7CiAgICAgICAgfQogICAgfQ==</text>
+        <text encoding="base64">IGdldFN1bW1hcnk=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">dm9pZCA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>s</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gt7W72MrHt/HM7bzTs8m5pqGjCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>e</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gYm9vbGVhbiC3tbvYyse38cztvNOzybmmoaMK</text>
       </register>
-      <register name="4" type="4">
-        <text>t</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gYm9vbGVhbiC3tbvYyse38cztvNOzybmmoaMK</text>
       </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>
       </register>
       <register name="9" type="4">
-        <text>e</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogu/HIocnPtM7L0cv3x+vH87XE0MXPogogICAgICoKICAgICAqIEByZXR1cm4gU3RyaW5nIMnPtM7L0cv3x+vH87XE0MXPogogICAgICovCiAgICBwdWJsaWMgU3RyaW5nIGdldERlYnVnSW5mbygpIHsKICAgICAgICByZXR1cm4gc2VhcmNoLmdldERlYnVnSW5mbygpOwogICAgfQ==</text>
       </register>
-      <register name="8" type="4">
-        <text>t</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="/" type="4">
-        <text>configMap</text>
+        <text>addSummary</text>
       </register>
       <register name="-" type="4">
         <text>t</text>
       </register>
     </registers>
     <search>
-      <last-search>configMap</last-search>
+      <last-search>addSummary</last-search>
       <last-offset />
-      <last-pattern>configMap</last-pattern>
+      <last-pattern>addSummary</last-pattern>
       <last-replace>ignoreProperties</last-replace>
       <last-substitute>ignoreFields</last-substitute>
       <last-dir>1</last-dir>
@@ -571,6 +566,9 @@
         <entry>Anno</entry>
         <entry>TODO</entry>
         <entry>configMap</entry>
+        <entry>getSummary</entry>
+        <entry>setSummary</entry>
+        <entry>addSummary</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvL2lzRXF1YWwgPSBpc0VxdWFsICYmIC9n</entry>
