@@ -188,8 +188,8 @@
         <mark key="." line="99" column="0" />
         <mark key="[" line="99" column="0" />
       </file>
-      <file name="$USER_HOME$/.m2/repository/com/aliyun/opensearch/aliyun-sdk-opensearch/2.1.3/aliyun-sdk-opensearch-2.1.3-sources.jar!/com/aliyun/opensearch/CloudsearchSearch.java" timestamp="1450235087050">
-        <mark key="'" line="472" column="19" />
+      <file name="$USER_HOME$/.m2/repository/com/aliyun/opensearch/aliyun-sdk-opensearch/2.1.3/aliyun-sdk-opensearch-2.1.3-sources.jar!/com/aliyun/opensearch/CloudsearchSearch.java" timestamp="1450237304464">
+        <mark key="'" line="188" column="0" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/aspect/OtsAspect.java" timestamp="1449743106229">
         <mark key="]" line="37" column="0" />
@@ -374,7 +374,7 @@
         <mark key="." line="45" column="0" />
         <mark key="[" line="45" column="0" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/model/OpsSearch.java" timestamp="1450235095502">
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/model/OpsSearch.java" timestamp="1450237776910">
         <mark key="]" line="361" column="0" />
         <mark key="." line="361" column="0" />
         <mark key="[" line="361" column="0" />
@@ -382,10 +382,11 @@
       <file name="/Interface.txt.ft" timestamp="1448519585877">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" timestamp="1450235121126">
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" timestamp="1450237374697">
         <mark key="'" line="0" column="0" />
-        <mark key="]" line="2" column="2" />
-        <mark key="[" line="0" column="0" />
+        <mark key="]" line="139" column="0" />
+        <mark key="." line="139" column="0" />
+        <mark key="[" line="139" column="0" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/param/weixin/SyncUserRequest.java" timestamp="1448699410419">
         <mark key="]" line="9" column="8" />
@@ -404,13 +405,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/UniqueIndex.java" />
-      <jump line="46" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/entity/UniqueIndex.java" />
-      <jump line="71" column="28" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/dict/user/UserBehavior.java" />
-      <jump line="65" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/dict/user/UserBehavior.java" />
-      <jump line="56" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/dict/user/UserBehavior.java" />
-      <jump line="47" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/dict/user/UserBehavior.java" />
-      <jump line="38" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/dict/user/UserBehavior.java" />
       <jump line="29" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/dict/user/UserBehavior.java" />
       <jump line="7" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/dict/user/UserBehavior.java" />
       <jump line="5" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/dict/user/UserBehavior.java" />
@@ -504,49 +498,56 @@
       <jump line="454" column="19" filename="$USER_HOME$/.m2/repository/com/aliyun/opensearch/aliyun-sdk-opensearch/2.1.3/aliyun-sdk-opensearch-2.1.3-sources.jar!/com/aliyun/opensearch/CloudsearchSearch.java" />
       <jump line="455" column="20" filename="$USER_HOME$/.m2/repository/com/aliyun/opensearch/aliyun-sdk-opensearch/2.1.3/aliyun-sdk-opensearch-2.1.3-sources.jar!/com/aliyun/opensearch/CloudsearchSearch.java" />
       <jump line="472" column="19" filename="$USER_HOME$/.m2/repository/com/aliyun/opensearch/aliyun-sdk-opensearch/2.1.3/aliyun-sdk-opensearch-2.1.3-sources.jar!/com/aliyun/opensearch/CloudsearchSearch.java" />
+      <jump line="220" column="11" filename="$USER_HOME$/.m2/repository/com/aliyun/opensearch/aliyun-sdk-opensearch/2.1.3/aliyun-sdk-opensearch-2.1.3-sources.jar!/com/aliyun/opensearch/CloudsearchSearch.java" />
+      <jump line="213" column="0" filename="$USER_HOME$/.m2/repository/com/aliyun/opensearch/aliyun-sdk-opensearch/2.1.3/aliyun-sdk-opensearch-2.1.3-sources.jar!/com/aliyun/opensearch/CloudsearchSearch.java" />
+      <jump line="208" column="0" filename="$USER_HOME$/.m2/repository/com/aliyun/opensearch/aliyun-sdk-opensearch/2.1.3/aliyun-sdk-opensearch-2.1.3-sources.jar!/com/aliyun/opensearch/CloudsearchSearch.java" />
+      <jump line="203" column="0" filename="$USER_HOME$/.m2/repository/com/aliyun/opensearch/aliyun-sdk-opensearch/2.1.3/aliyun-sdk-opensearch-2.1.3-sources.jar!/com/aliyun/opensearch/CloudsearchSearch.java" />
+      <jump line="198" column="0" filename="$USER_HOME$/.m2/repository/com/aliyun/opensearch/aliyun-sdk-opensearch/2.1.3/aliyun-sdk-opensearch-2.1.3-sources.jar!/com/aliyun/opensearch/CloudsearchSearch.java" />
+      <jump line="193" column="0" filename="$USER_HOME$/.m2/repository/com/aliyun/opensearch/aliyun-sdk-opensearch/2.1.3/aliyun-sdk-opensearch-2.1.3-sources.jar!/com/aliyun/opensearch/CloudsearchSearch.java" />
+      <jump line="188" column="0" filename="$USER_HOME$/.m2/repository/com/aliyun/opensearch/aliyun-sdk-opensearch/2.1.3/aliyun-sdk-opensearch-2.1.3-sources.jar!/com/aliyun/opensearch/CloudsearchSearch.java" />
     </jumps>
     <registers>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gYm9vbGVhbiC3tbvYyse38cztvNOzybmmoaMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9wCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAvKioKICAgICAqILvxyKHWuLao19a2zrXE1arSqtDFz6Ioc3VtbWFyeSkKICAgICAqCiAgICAgKiBAcGFyYW0gZmllbGROYW1lINa4tqi1xNfWts7D+7PGoaMKICAgICAqIEByZXR1cm4gTWFwPFN0cmluZyxPYmplY3Q+ILe1u9jWuLao19a2zrXEc3VtbWFyedDFz6KhowogICAgICovCiAgICBwdWJsaWMgTWFwPFN0cmluZywgT2JqZWN0PiBnZXRTdW1tYXJ5KFN0cmluZyBmaWVsZE5hbWUpIHsKICAgICAgICByZXR1cm4gc2VhcmNoLmdldFN1bW1hcnkoZmllbGROYW1lKTsKICAgIH0K</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWFyY2gK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAvKioKICAgICAqILvxyKHWuLao19a2zrXE1arSqtDFz6Ioc3VtbWFyeSkKICAgICAqCiAgICAgKiBAcGFyYW0gZmllbGROYW1lINa4tqi1xNfWts7D+7PGoaMKICAgICAqIEByZXR1cm4gTWFwPFN0cmluZyxPYmplY3Q+ILe1u9jWuLao19a2zrXEc3VtbWFyedDFz6KhowogICAgICovCiAgICBwdWJsaWMgTWFwPFN0cmluZywgT2JqZWN0PiBnZXRTdW1tYXJ5KFN0cmluZyBmaWVsZE5hbWUpIHsKICAgICAgICByZXR1cm4gc2VhcmNoLmdldFN1bW1hcnkoZmllbGROYW1lKTsKICAgIH0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBvcHNTZWFyY2guY29uCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAvKioKICAgICAqILvxyKHWuLao19a2zrXE1arSqtDFz6Ioc3VtbWFyeSkKICAgICAqCiAgICAgKiBAcGFyYW0gZmllbGROYW1lINa4tqi1xNfWts7D+7PGoaMKICAgICAqIEByZXR1cm4gTWFwPFN0cmluZyxPYmplY3Q+ILe1u9jWuLao19a2zrXEc3VtbWFyedDFz6KhowogICAgICovCiAgICBwdWJsaWMgTWFwPFN0cmluZywgT2JqZWN0PiBnZXRTdW1tYXJ5KFN0cmluZyBmaWVsZE5hbWUpIHsKICAgICAgICByZXR1cm4gc2VhcmNoLmdldFN1bW1hcnkoZmllbGROYW1lKTsKICAgIH0K</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBzZWFyY2gK</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IGdldFN1bW1hcnk=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>r</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gt7W72MrHt/HM7bzTs8m5pqGjCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWFyY2hEb2MoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gYm9vbGVhbiC3tbvYyse38cztvNOzybmmoaMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gYm9vbGVhbiC3tbvYyse38cztvNOzybmmoaMK</text>
+      <register name="4" type="4">
+        <text>.</text>
       </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ICAgIC8qKgogICAgICogu/HIocnPtM7L0cv3x+vH87XE0MXPogogICAgICoKICAgICAqIEByZXR1cm4gU3RyaW5nIMnPtM7L0cv3x+vH87XE0MXPogogICAgICovCiAgICBwdWJsaWMgU3RyaW5nIGdldERlYnVnSW5mbygpIHsKICAgICAgICByZXR1cm4gc2VhcmNoLmdldERlYnVnSW5mbygpOwogICAgfQ==</text>
+        <text>*</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBDbG91ZHNlYXJjaFNlYXJjaCBzID0gbmV3U2VhcmNoKCk7CiAgICAgICAgcy5hZGRJbmRleCgidXNlciIpOwogICAgICAgIHMuc2V0UXVlcnlTdHJpbmcoInd4b3BlbmlkOidvNVRqNHdtbUp3Z3V5NjFhVXVTWmhFMm10ek80JyIpOwovLyAgICAgICAgcy5hZGRGZXRjaEZpZWxkKCJrZXkiKTsKICAgICAgICBzLmFkZFNvcnQoInVzZXJpZCIpOwogICAgICAgIHMuc2V0Rm9ybWF0KCJqc29uIik7CiAgICAgICAgU3RyaW5nIHJlc3VsdDsKICAgICAgICB0cnkgewogICAgICAgICAgICByZXN1bHQgPSBzLnNlYXJjaCgpOwogICAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9CiAgICAgICAgU3RyaW5nIHR0dCA9IHMuZ2V0UXVlcnkoKTsK</text>
       </register>
       <register name="/" type="4">
         <text>addSummary</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>.</text>
       </register>
     </registers>
     <search>
