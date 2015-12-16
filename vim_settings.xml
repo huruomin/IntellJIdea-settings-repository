@@ -434,12 +434,12 @@
         <mark key="." line="20" column="67" />
         <mark key="[" line="20" column="67" />
       </file>
-      <file name="D:/Projects/huruomin-java/src/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" timestamp="1450279398741">
-        <mark key="'" line="138" column="8" />
-        <mark key="]" line="144" column="27" />
-        <mark key="^" line="205" column="24" />
-        <mark key="." line="144" column="27" />
-        <mark key="[" line="144" column="27" />
+      <file name="D:/Projects/huruomin-java/src/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" timestamp="1450280847195">
+        <mark key="'" line="137" column="8" />
+        <mark key="]" line="255" column="29" />
+        <mark key="^" line="255" column="29" />
+        <mark key="." line="255" column="29" />
+        <mark key="[" line="254" column="53" />
       </file>
       <file name="/Groovy JUnit TearDown Method.txt.ft" timestamp="1448698305522">
         <mark key="[" line="0" column="0" />
@@ -501,7 +501,7 @@
         <mark key="^" line="9" column="25" />
         <mark key="." line="9" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1449656470491">
+      <file name="/Dummy.txt" timestamp="1450280866249">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/dict/sys/SysParam.java" timestamp="1448330338213">
@@ -665,47 +665,47 @@
       <jump line="139" column="8" filename="D:/Projects/huruomin-java/src/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRJbmRleEV4aXN0KGluZGV4KTsK</text>
       </register>
-      <register name="3" type="4">
-        <text>a</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQFN1cHByZXNzV2FybmluZ3MoInVuY2hlY2tlZCIpCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>s</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>s</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRJbmRleEV4aXN0KGluZGV4KTsK</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWFyY2hEb2Mob3BzU2VhcmNoLCBVc2VyLmNsYXNzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHR5cGUuZXF1YWxzKFN0cmluZy5jbGFzcykpIHsK</text>
       </register>
-      <register name="7" type="4">
-        <text>r</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdC5zZXRJdGVtcyhpdGVtcyk7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>.</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>c</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdC5zZXRJdGVtcyhpdGVtcyk7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>l</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJ1bmNoZWNrZWQiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>
       </register>
       <register name="9" type="4">
-        <text>s</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="8" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>refresh</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
