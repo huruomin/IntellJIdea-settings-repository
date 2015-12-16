@@ -193,12 +193,6 @@
         <mark key="]" line="196" column="6" />
         <mark key="[" line="194" column="0" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/aspect/OtsAspect.java" timestamp="1449743106229">
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="80" column="69" />
-        <mark key="." line="37" column="0" />
-        <mark key="[" line="37" column="0" />
-      </file>
       <file name="/HTML File.txt.ft" timestamp="1448698303559">
         <mark key="[" line="0" column="0" />
       </file>
@@ -321,6 +315,11 @@
         <mark key="." line="7" column="10" />
         <mark key="[" line="6" column="3" />
       </file>
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/model/OpsSearchResult.java" timestamp="1450256582016">
+        <mark key="]" line="9" column="25" />
+        <mark key="^" line="9" column="25" />
+        <mark key="." line="9" column="25" />
+      </file>
       <file name="/Dummy.txt" timestamp="1449656470491">
         <mark key="[" line="0" column="0" />
       </file>
@@ -386,12 +385,12 @@
       <file name="/Interface.txt.ft" timestamp="1448519585877">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" timestamp="1450256020522">
-        <mark key="'" line="235" column="59" />
-        <mark key="]" line="157" column="41" />
-        <mark key="^" line="157" column="41" />
-        <mark key="." line="157" column="41" />
-        <mark key="[" line="156" column="56" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" timestamp="1450260615611">
+        <mark key="'" line="252" column="59" />
+        <mark key="]" line="141" column="50" />
+        <mark key="^" line="141" column="50" />
+        <mark key="." line="141" column="50" />
+        <mark key="[" line="141" column="22" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/param/weixin/SyncUserRequest.java" timestamp="1448699410419">
         <mark key="]" line="9" column="8" />
@@ -513,46 +512,46 @@
     </jumps>
     <registers>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBvcHNTZWFyY2guaGl0KDApLmhpdFN0YXJ0KDApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICBjYWNoZS5jbGVhblVwKCk7CiAgICAgICAgU2V0PFN0cmluZz4gaW5kZXhlcyA9IGxvYWRJbmRleGVzKCk7CiAgICAgICAgZm9yIChTdHJpbmcgaW5kZXggOiBpbmRleGVzKSB7CiAgICAgICAgICAgIFNldDxTdHJpbmc+IHRhYmxlcyA9IGxvYWRUYWJsZXMoaW5kZXgpOwogICAgICAgICAgICBmb3IgKFN0cmluZyB0YWJsZSA6IHRhYmxlcykgewogICAgICAgICAgICAgICAgU2V0PFN0cmluZz4gcmVmSW5kZXhlcyA9IGNhY2hlLmdldElmUHJlc2VudCh0YWJsZSk7CiAgICAgICAgICAgICAgICByZWZJbmRleGVzID0gbnVsbCA9PSByZWZJbmRleGVzID8gU2V0cy48U3RyaW5nPm5ld0hhc2hTZXQoKSA6IHJlZkluZGV4ZXM7CiAgICAgICAgICAgICAgICByZWZJbmRleGVzLmFkZChpbmRleCk7CiAgICAgICAgICAgICAgICBjYWNoZS5wdXQodGFibGUsIHJlZkluZGV4ZXMpOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBDbG91ZHNlYXJjaFNlYXJjaCBzZWFyY2ggPSBuZXdTZWFyY2gob3BzU2VhcmNoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3VsdDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICBjYWNoZS5jbGVhblVwKCk7CiAgICAgICAgU2V0PFN0cmluZz4gaW5kZXhlcyA9IGxvYWRJbmRleGVzKCk7CiAgICAgICAgZm9yIChTdHJpbmcgaW5kZXggOiBpbmRleGVzKSB7CiAgICAgICAgICAgIFNldDxTdHJpbmc+IHRhYmxlcyA9IGxvYWRUYWJsZXMoaW5kZXgpOwogICAgICAgICAgICBmb3IgKFN0cmluZyB0YWJsZSA6IHRhYmxlcykgewogICAgICAgICAgICAgICAgU2V0PFN0cmluZz4gcmVmSW5kZXhlcyA9IGNhY2hlLmdldElmUHJlc2VudCh0YWJsZSk7CiAgICAgICAgICAgICAgICByZWZJbmRleGVzID0gbnVsbCA9PSByZWZJbmRleGVzID8gU2V0cy48U3RyaW5nPm5ld0hhc2hTZXQoKSA6IHJlZkluZGV4ZXM7CiAgICAgICAgICAgICAgICByZWZJbmRleGVzLmFkZChpbmRleCk7CiAgICAgICAgICAgICAgICBjYWNoZS5wdXQodGFibGUsIHJlZkluZGV4ZXMpOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQubm90TnVsbChvcHNTZWFyY2gpOwo=</text>
+        <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJ1bmNoZWNrZWQiKQogICAgcHJpdmF0ZSBTZXQ8U3RyaW5nPiBsb2FkVGFibGVzKFN0cmluZyBpbmRleE5hbWUpIHsK</text>
       </register>
-      <register name="7" type="4">
-        <text>量</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBKU09OT2JqZWN0PiB0YWJsZXMgPSAoTWFwPFN0cmluZywgSlNPTk9iamVjdD4pIEpTT05QYXRoLmV2YWwoSlNPTi5wYXJzZU9iamVjdChpbmRleEluZm8pLCAiJC5yZXN1bHQuZmllbGRzLmZyb21fdGFibGUudGFibGVzIik7Cg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">dm9pZCA=</text>
+        <text encoding="base64">SU9FeGNlcHRpb24g</text>
       </register>
       <register name="5" type="4">
-        <text>String</text>
+        <text encoding="base64">dGhyb3dzIA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQubm90TnVsbChvcHNTZWFyY2gpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2V0PFRhYmxlPiByZXN1bHQgPSBTZXRzLm5ld0hhc2hTZXQoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>
       </register>
       <register name="9" type="4">
-        <text>件</text>
+        <text encoding="base64">IG51bGw=</text>
       </register>
       <register name="8" type="4">
-        <text>量</text>
+        <text>table</text>
       </register>
       <register name="/" type="4">
         <text>count</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text encoding="base64">dGhyb3dzIA==</text>
       </register>
     </registers>
     <search>
