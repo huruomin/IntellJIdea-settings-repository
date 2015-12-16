@@ -376,21 +376,22 @@
         <mark key="." line="45" column="0" />
         <mark key="[" line="45" column="0" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/model/OpsSearch.java" timestamp="1450250419285">
-        <mark key="]" line="728" column="16" />
-        <mark key="^" line="728" column="16" />
-        <mark key="." line="728" column="16" />
-        <mark key="[" line="726" column="0" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/model/OpsSearch.java" timestamp="1450252259278">
+        <mark key="'" line="1159" column="0" />
+        <mark key="]" line="704" column="22" />
+        <mark key="^" line="704" column="22" />
+        <mark key="." line="704" column="22" />
+        <mark key="[" line="704" column="11" />
       </file>
       <file name="/Interface.txt.ft" timestamp="1448519585877">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" timestamp="1450250482204">
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" timestamp="1450252963833">
         <mark key="'" line="0" column="0" />
-        <mark key="]" line="160" column="19" />
-        <mark key="^" line="160" column="19" />
-        <mark key="." line="160" column="19" />
-        <mark key="[" line="159" column="51" />
+        <mark key="]" line="134" column="16" />
+        <mark key="^" line="134" column="16" />
+        <mark key="." line="134" column="16" />
+        <mark key="[" line="134" column="16" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/param/weixin/SyncUserRequest.java" timestamp="1448699410419">
         <mark key="]" line="9" column="8" />
@@ -409,12 +410,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="152" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/SysService.java" />
-      <jump line="137" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/SysService.java" />
-      <jump line="127" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/SysService.java" />
-      <jump line="112" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/SysService.java" />
-      <jump line="201" column="53" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" />
-      <jump line="193" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" />
       <jump line="189" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" />
       <jump line="172" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" />
       <jump line="168" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" />
@@ -509,49 +504,55 @@
       <jump line="142" column="0" filename="$USER_HOME$/.m2/repository/com/aliyun/opensearch/aliyun-sdk-opensearch/2.1.3/aliyun-sdk-opensearch-2.1.3-sources.jar!/com/aliyun/opensearch/CloudsearchSearch.java" />
       <jump line="361" column="4" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/model/OpsSearch.java" />
       <jump line="308" column="40" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/model/OpsSearch.java" />
+      <jump line="104" column="31" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/model/OpsSearch.java" />
+      <jump line="138" column="31" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/model/OpsSearch.java" />
+      <jump line="533" column="21" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/model/OpsSearch.java" />
+      <jump line="567" column="32" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/model/OpsSearch.java" />
+      <jump line="1029" column="24" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/model/OpsSearch.java" />
+      <jump line="1167" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/model/OpsSearch.java" />
     </jumps>
     <registers>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKE1hcC5FbnRyeTxTdHJpbmcsIE1hcDxTdHJpbmcsIE9iamVjdD4+IGRpc3RpbmN0IDogb3BzU2VhcmNoLmdldERpc3RpbmN0bmVzcygpLmVudHJ5U2V0KCkpIHsK</text>
+      <register name="3" type="4">
+        <text>c</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>l</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>t</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="1" type="4">
+        <text>l</text>
       </register>
-      <register name="0" type="4">
-        <text>String field, int distCount, int distTimes, String reserved, String distFilter, String updateTotalHit, double grad</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlYXJjaC5hZGRTdW1tYXJ5KHN1bW1hcnkuZ2V0RmllbGQoKSwKICAgICAgICAgICAgICAgICAgICAgICAgc3VtbWFyeS5nZXRMZW4oKSwKICAgICAgICAgICAgICAgICAgICAgICAgc3VtbWFyeS5nZXRFbGxpcHNpcygpLAogICAgICAgICAgICAgICAgICAgICAgICBzdW1tYXJ5LmdldFNuaXBwZXQoKSwKICAgICAgICAgICAgICAgICAgICAgICAgc3VtbWFyeS5nZXRFbGVtZW50UHJlZml4KCksCiAgICAgICAgICAgICAgICAgICAgICAgIHN1bW1hcnkuZ2V0RWxlbWVudFBvc3RmaXgoKSk7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>c</text>
+        <text>s</text>
       </register>
       <register name="6" type="4">
         <text>t</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>i</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>n</text>
       </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>
       </register>
       <register name="9" type="4">
-        <text>j</text>
+        <text>e</text>
       </register>
       <register name="8" type="4">
-        <text>e</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>pair</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>l</text>
       </register>
     </registers>
     <search>
