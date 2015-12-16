@@ -1,4 +1,8 @@
 <code_scheme name="hurm-java">
+  <option name="LINE_SEPARATOR" value="&#10;" />
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
   <codeStyleSettings language="JAVA">
     <option name="BLANK_LINES_AROUND_FIELD" value="1" />
     <option name="BLANK_LINES_AFTER_CLASS_HEADER" value="1" />
