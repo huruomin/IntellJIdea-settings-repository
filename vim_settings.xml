@@ -376,19 +376,21 @@
         <mark key="." line="45" column="0" />
         <mark key="[" line="45" column="0" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/model/OpsSearch.java" timestamp="1450247894232">
-        <mark key="'" line="8" column="0" />
-        <mark key="]" line="15" column="25" />
-        <mark key="^" line="12" column="16" />
-        <mark key="." line="15" column="21" />
-        <mark key="[" line="15" column="21" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/model/OpsSearch.java" timestamp="1450250419285">
+        <mark key="]" line="728" column="16" />
+        <mark key="^" line="728" column="16" />
+        <mark key="." line="728" column="16" />
+        <mark key="[" line="726" column="0" />
       </file>
       <file name="/Interface.txt.ft" timestamp="1448519585877">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" timestamp="1450248361826">
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" timestamp="1450250482204">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="134" column="47" />
+        <mark key="]" line="160" column="19" />
+        <mark key="^" line="160" column="19" />
+        <mark key="." line="160" column="19" />
+        <mark key="[" line="159" column="51" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/param/weixin/SyncUserRequest.java" timestamp="1448699410419">
         <mark key="]" line="9" column="8" />
@@ -407,8 +409,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="175" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/SysService.java" />
-      <jump line="164" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/SysService.java" />
       <jump line="152" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/SysService.java" />
       <jump line="137" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/SysService.java" />
       <jump line="127" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/SysService.java" />
@@ -507,49 +507,51 @@
       <jump line="8" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/model/OpsSearch.java" />
       <jump line="118" column="0" filename="$USER_HOME$/.m2/repository/com/aliyun/opensearch/aliyun-sdk-opensearch/2.1.3/aliyun-sdk-opensearch-2.1.3-sources.jar!/com/aliyun/opensearch/CloudsearchSearch.java" />
       <jump line="142" column="0" filename="$USER_HOME$/.m2/repository/com/aliyun/opensearch/aliyun-sdk-opensearch/2.1.3/aliyun-sdk-opensearch-2.1.3-sources.jar!/com/aliyun/opensearch/CloudsearchSearch.java" />
+      <jump line="361" column="4" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/model/OpsSearch.java" />
+      <jump line="308" column="40" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/model/OpsSearch.java" />
     </jumps>
     <registers>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWFyY2guc2V0UXVlcnlTdHJpbmcob3BzU2VhcmNoLmdldFF1ZXJ5KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKE1hcC5FbnRyeTxTdHJpbmcsIE1hcDxTdHJpbmcsIE9iamVjdD4+IGRpc3RpbmN0IDogb3BzU2VhcmNoLmdldERpc3RpbmN0bmVzcygpLmVudHJ5U2V0KCkpIHsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWFyY2guYWRkU29ydChvcHNTZWFyY2guZ2V0U29ydFN0cmluZygpKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWFyY2guYWRkRmlsdGVyKG9wc1NlYXJjaC5nZXRGaWx0ZXIoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWFyY2guYWRkU29ydChvcHNTZWFyY2guZ2V0U29ydFN0cmluZygpKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">PGJyPg==</text>
+        <text>String field, int distCount, int distTimes, String reserved, String distFilter, String updateTotalHit, double grad</text>
       </register>
       <register name="7" type="4">
-        <text>(</text>
+        <text>c</text>
       </register>
       <register name="6" type="4">
-        <text>)</text>
+        <text>t</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWFyY2guc2V0U3RhcnRIaXQob3BzU2VhcmNoLmdldCk7CiAgICAgICAgc2VhcmNoLnNldEhpdHMob3BzU2VhcmNoLmdldEhpdHMoKSk7CiAgICAgICAgc2VhcmNoLnNldEZvcm1hdChvcHNTZWFyY2guZ2V0Rm9ybWF0KCkpOwogICAgICAgIHNlYXJjaC5zZXRSZXJhbmtTaXplKG9wc1NlYXJjaC5nZXRSZXJhbmtTaXplKCkpOwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">Pg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">Pg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>
       </register>
       <register name="9" type="4">
-        <text>e</text>
+        <text>j</text>
       </register>
       <register name="8" type="4">
-        <text>t</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>pair</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">Pg==</text>
       </register>
     </registers>
     <search>
