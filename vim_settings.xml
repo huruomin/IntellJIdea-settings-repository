@@ -296,11 +296,11 @@
         <mark key="." line="20" column="67" />
         <mark key="[" line="20" column="67" />
       </file>
-      <file name="D:/Projects/huruomin-java/src/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" timestamp="1450273326188">
-        <mark key="]" line="261" column="80" />
-        <mark key="^" line="261" column="80" />
-        <mark key="." line="261" column="80" />
-        <mark key="[" line="261" column="80" />
+      <file name="D:/Projects/huruomin-java/src/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" timestamp="1450274958728">
+        <mark key="]" line="224" column="24" />
+        <mark key="^" line="224" column="24" />
+        <mark key="." line="224" column="24" />
+        <mark key="[" line="236" column="34" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" timestamp="1448867982522">
         <mark key="'" line="50" column="0" />
@@ -553,7 +553,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" />
       <jump line="83" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" />
       <jump line="73" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" />
       <jump line="64" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" />
@@ -653,49 +652,50 @@
       <jump line="219" column="59" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" />
       <jump line="45" column="51" filename="D:/Projects/huruomin-java/src/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" />
       <jump line="585" column="7" filename="D:/Projects/huruomin-java/src/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" />
+      <jump line="58" column="8" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0-sources.jar!/com/google/common/cache/Cache.java" />
     </jumps>
     <registers>
       <register name="3" type="4">
-        <text>r</text>
+        <text>主</text>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>名</text>
       </register>
       <register name="2" type="4">
-        <text>)</text>
+        <text>键</text>
       </register>
       <register name="1" type="4">
-        <text>)</text>
+        <text>名</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWVsZFR5cGUgPSBKU09OUGF0aC5ldmFsKGZpZWxkSW5mb3MsICIkLnR5cGUiKS50b1N0cmluZygpOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>f</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gdG9kbwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>o</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>S</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="4">
-        <text>t</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VhcmNoLmZldAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>
       </register>
-      <register name="9" type="4">
-        <text>I</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFNlcnZlckV4Y2VwdGlvbigpOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text>n</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChudWxsICE9IHRiLikK</text>
       </register>
       <register name="/" type="4">
         <text>count</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>名</text>
       </register>
     </registers>
     <search>
