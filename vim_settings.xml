@@ -296,10 +296,11 @@
         <mark key="." line="20" column="67" />
         <mark key="[" line="20" column="67" />
       </file>
-      <file name="D:/Projects/huruomin-java/src/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" timestamp="1450271741661">
-        <mark key="]" line="266" column="0" />
-        <mark key="." line="266" column="0" />
-        <mark key="[" line="266" column="0" />
+      <file name="D:/Projects/huruomin-java/src/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" timestamp="1450273326188">
+        <mark key="]" line="261" column="80" />
+        <mark key="^" line="261" column="80" />
+        <mark key="." line="261" column="80" />
+        <mark key="[" line="261" column="80" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" timestamp="1448867982522">
         <mark key="'" line="50" column="0" />
@@ -654,47 +655,47 @@
       <jump line="585" column="7" filename="D:/Projects/huruomin-java/src/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" />
     </jumps>
     <registers>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBuYW1lID0gdGFibGVJbmZvLmdldEtleSgpOwo=</text>
+      <register name="3" type="4">
+        <text>r</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEpTT05PYmplY3QgZmllbGRzID0gdGFibGVJbmZvLmdldFZhbHVlKCk7Cg==</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBpbnQgcGFnZVNpemUgPSAyMDsKICAgICAgICBmb3IgKGludCBwYWdlID0gMTsgOyBwYWdlKyspIHsKICAgICAgICAgICAgU3RyaW5nIGluZGV4ZXNTdHI7CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBpbmRleGVzU3RyID0gbmV3SW5kZXgobnVsbCkubGlzdEluZGV4ZXMocGFnZSwgcGFnZVNpemUpOwogICAgICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICB0aHJvdyBUaHJvd2FibGVzLnByb3BhZ2F0ZShlKTsKICAgICAgICAgICAgfQogICAgICAgICAgICBMaXN0PFN0cmluZz4gaW5kZXhlcyA9IChMaXN0PFN0cmluZz4pIEpTT05QYXRoLmV2YWwoSlNPTi5wYXJzZU9iamVjdChpbmRleGVzU3RyKSwgIiQucmVzdWx0Lm5hbWUiKTsKICAgICAgICAgICAgaWYgKENvbGxlY3Rpb25VdGlscy5pc0VtcHR5KGluZGV4ZXMpKSB7CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgfQogICAgICAgICAgICByZXN1bHQuYWRkQWxsKGluZGV4ZXMpOwo=</text>
-      </register>
-      <register name="7" type="4">
-        <text>(</text>
-      </register>
-      <register name="6" type="4">
+      <register name="&quot;" type="4">
         <text>)</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGNhY2hlLmNsZWFuVXAoKTsKLy8gICAgICAgIFNldDxTdHJpbmc+IGluZGV4ZXMgPSBsb2FkSW5kZXhlcygpOwovLyAgICAgICAgZm9yIChTdHJpbmcgaW5kZXggOiBpbmRleGVzKSB7Ci8vICAgICAgICAgICAgU2V0PFN0cmluZz4gdGFibGVzID0gbG9hZFRhYmxlcyhpbmRleCk7Ci8vICAgICAgICAgICAgZm9yIChTdHJpbmcgdGFibGUgOiB0YWJsZXMpIHsKLy8gICAgICAgICAgICAgICAgU2V0PFN0cmluZz4gcmVmSW5kZXhlcyA9IGNhY2hlLmdldElmUHJlc2VudCh0YWJsZSk7Ci8vICAgICAgICAgICAgICAgIHJlZkluZGV4ZXMgPSBudWxsID09IHJlZkluZGV4ZXMgPyBTZXRzLjxTdHJpbmc+bmV3SGFzaFNldCgpIDogcmVmSW5kZXhlczsKLy8gICAgICAgICAgICAgICAgcmVmSW5kZXhlcy5hZGQoaW5kZXgpOwovLyAgICAgICAgICAgICAgICBjYWNoZS5wdXQodGFibGUsIHJlZkluZGV4ZXMpOwovLyAgICAgICAgICAgIH0KLy8gICAgICAgIH0K</text>
+      <register name="2" type="4">
+        <text>)</text>
+      </register>
+      <register name="1" type="4">
+        <text>)</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWVsZFR5cGUgPSBKU09OUGF0aC5ldmFsKGZpZWxkSW5mb3MsICIkLnR5cGUiKS50b1N0cmluZygpOwo=</text>
+      </register>
+      <register name="7" type="4">
+        <text>f</text>
+      </register>
+      <register name="6" type="4">
+        <text>o</text>
+      </register>
+      <register name="5" type="4">
+        <text>S</text>
       </register>
       <register name="4" type="4">
-        <text>name</text>
+        <text>t</text>
       </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>
       </register>
       <register name="9" type="4">
-        <text>m</text>
+        <text>I</text>
       </register>
       <register name="8" type="4">
-        <text>e</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>count</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>)</text>
       </register>
     </registers>
     <search>
