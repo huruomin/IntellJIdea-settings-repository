@@ -291,11 +291,10 @@
         <mark key="." line="5" column="16" />
         <mark key="[" line="5" column="7" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" timestamp="1450322788970">
-        <mark key="]" line="241" column="23" />
-        <mark key="^" line="241" column="23" />
-        <mark key="." line="241" column="23" />
-        <mark key="[" line="233" column="7" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" timestamp="1450324747250">
+        <mark key="]" line="248" column="0" />
+        <mark key="." line="248" column="0" />
+        <mark key="[" line="248" column="0" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/model/OtsModelWithColumns.java" timestamp="1450152634078">
         <mark key="]" line="15" column="52" />
@@ -674,47 +673,47 @@
       <jump line="139" column="8" filename="D:/Projects/huruomin-java/src/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>，不存在抛异常</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWFyY2guZ2V0RmllbGRzKCk7Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>b</text>
+        <text>)</text>
       </register>
       <register name="2" type="4">
-        <text>l</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="1" type="4">
-        <text>e</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBzZWFyY2guZ2V0RmllbGRzKCk7Cg==</text>
       </register>
-      <register name="0" type="4">
-        <text>，不存在抛异常</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRTZWFyY2gob3BzU2VhcmNoKTsK</text>
       </register>
       <register name="7" type="4">
-        <text>n</text>
+        <text>l</text>
       </register>
       <register name="6" type="4">
-        <text>d</text>
+        <text>e</text>
       </register>
       <register name="5" type="4">
-        <text>T</text>
+        <text>s</text>
       </register>
       <register name="4" type="4">
-        <text>a</text>
+        <text>(</text>
       </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>
       </register>
       <register name="9" type="4">
-        <text>x</text>
+        <text>a</text>
       </register>
       <register name="8" type="4">
-        <text>A</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
         <text>refresh</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
