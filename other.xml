@@ -145,4 +145,11 @@
       <option name="ENABLED" value="true" />
     </filter>
   </component>
+  <component name="SvnApplicationSettings">
+    <option name="myTypedURLs">
+      <list>
+        <option value="svn://42.121.105.64/yanji-src" />
+      </list>
+    </option>
+  </component>
 </application>
