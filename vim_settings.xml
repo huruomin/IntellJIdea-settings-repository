@@ -291,8 +291,12 @@
         <mark key="." line="5" column="16" />
         <mark key="[" line="5" column="7" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" timestamp="1450328916759">
-        <mark key="[" line="500" column="39" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" timestamp="1450330488900">
+        <mark key="'" line="51" column="49" />
+        <mark key="]" line="47" column="33" />
+        <mark key="^" line="47" column="33" />
+        <mark key="." line="47" column="33" />
+        <mark key="[" line="47" column="34" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/model/OtsModelWithColumns.java" timestamp="1450152634078">
         <mark key="]" line="15" column="52" />
@@ -569,8 +573,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" />
-      <jump line="62" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" />
       <jump line="59" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" />
       <jump line="56" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" />
       <jump line="53" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" />
@@ -669,49 +671,51 @@
       <jump line="58" column="8" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0-sources.jar!/com/google/common/cache/Cache.java" />
       <jump line="225" column="43" filename="D:/Projects/huruomin-java/src/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" />
       <jump line="139" column="8" filename="D:/Projects/huruomin-java/src/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" />
+      <jump line="511" column="48" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" />
+      <jump line="52" column="49" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9wc1NlYXJjaC5jbGVhckZpZWxkcygpLmZpZWxkKGdldEluZGV4UHJpbWFyeUtleShvcHNTZWFyY2guZ2V0SW5kZXgoKSkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSlNPTk9iamVjdCByZXN1bHRKc29uID0gSlNPTi5wYXJzZU9iamVjdChuZXdTZWFyY2gob3BzU2VhcmNoKS5zZWFyY2goKSk7Cg==</text>
+      <register name="3" type="4">
+        <text>O</text>
       </register>
       <register name="2" type="4">
-        <text>searchToArray</text>
+        <text>N</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9wc1NlYXJjaC5jbGVhckZpZWxkcygpLmZpZWxkKGdldEluZGV4UHJpbWFyeUtleShvcHNTZWFyY2guZ2V0SW5kZXgoKSkpOwo=</text>
+      <register name="1" type="4">
+        <text>_</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzd2l0Y2ggKGFjdGlvbikgewogICAgICAgICAgICBjYXNlICJjb3VudCI6CiAgICAgICAgICAgICAgICBvcHNTZWFyY2guaGl0KDApLmhpdFN0YXJ0KDApOwogICAgICAgICAgICBjYXNlICJwa1NlYXJjaCI6CiAgICAgICAgICAgICAgICBvcHNTZWFyY2guY2xlYXJGaWVsZHMoKS5maWVsZChnZXRJbmRleFByaW1hcnlLZXkob3BzU2VhcmNoLmdldEluZGV4KCkpKTsKICAgICAgICAgICAgICAgIEFzc2VydC5pc1RydWUoIVN0cmluZy5jbGFzcy5lcXVhbHModHlwZSksICJ0eXBlIG11c3QgYmUgamF2YS5sYW5nLlN0cmluZyBpZiBhY3Rpb24gaXMgY291bnQgb3IgcGtTZWFyY2giKTsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VhcmNoRG9jKG9wc1NlYXJjaCwgU3RyaW5nLmNsYXNzLCBTRUFSQ0hfQUNUSU9OX0NPVU5UKS5nZXRUb3RhbCgpOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlzU2luZ2xlRmllbGRTZWFyY2gpIHsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgfQo=</text>
+      <register name="7" type="4">
+        <text>A</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+      <register name="6" type="4">
+        <text>C</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>T</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBPcHNTZWFyY2hSZXN1bHQ8VD4gcmVzdWx0ID0gbmV3IE9wc1NlYXJjaFJlc3VsdDw+KCk7Cg==</text>
+      <register name="4" type="4">
+        <text>I</text>
       </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEpTT05BcnJheSBpdGVtc0pzb24gPSAoSlNPTkFycmF5KSBKU09OUGF0aC5ldmFsKHJlc3VsdEpzb24sICIkLnJlc3VsdC5pdGVtcyIpOwogICAgICAgICAgICAgICAgaXRlbXMgPSBKU09OLnBhcnNlQXJyYXkoaXRlbXNKc29uLnRvSlNPTlN0cmluZygpLCB0eXBlKTsK</text>
+      <register name="9" type="4">
+        <text>_</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>U</text>
       </register>
       <register name="/" type="4">
         <text>refresh</text>
       </register>
       <register name="-" type="4">
-        <text>searchToArray</text>
+        <text>_</text>
       </register>
     </registers>
     <search>
