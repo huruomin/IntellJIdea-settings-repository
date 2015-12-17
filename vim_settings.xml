@@ -291,12 +291,12 @@
         <mark key="." line="5" column="16" />
         <mark key="[" line="5" column="7" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" timestamp="1450331128322">
-        <mark key="'" line="51" column="49" />
-        <mark key="]" line="561" column="0" />
-        <mark key="^" line="240" column="38" />
-        <mark key="." line="561" column="0" />
-        <mark key="[" line="561" column="0" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" timestamp="1450332416615">
+        <mark key="'" line="54" column="49" />
+        <mark key="]" line="226" column="39" />
+        <mark key="^" line="226" column="39" />
+        <mark key="." line="226" column="39" />
+        <mark key="[" line="226" column="40" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/model/OtsModelWithColumns.java" timestamp="1450152634078">
         <mark key="]" line="15" column="52" />
@@ -675,47 +675,47 @@
       <jump line="52" column="49" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>，如果为null，等同于调用{@link #searchDoc(OpsSearch)}，返回列只包含主键</text>
       </register>
       <register name="3" type="4">
-        <text>时</text>
+        <text>)</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgLyoqCiAgICAgICAgICogR2V0dGVyIGZvciBwcm9wZXJ0eSAnZmllbGRzJy4KICAgICAgICAgKgogICAgICAgICAqIEByZXR1cm4gVmFsdWUgZm9yIHByb3BlcnR5ICdmaWVsZHMnLgogICAgICAgICAqLwogICAgICAgIHB1YmxpYyBNYXA8U3RyaW5nLCBTdHJpbmc+IGdldEZpZWxkcygpIHsKICAgICAgICAgICAgcmV0dXJuIGZpZWxkczsKICAgICAgICB9</text>
+        <text>}</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>，如果为null，等同于调用{@link #searchDoc(OpsSearch)}，返回列只包含主键</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiB7QGluaGVyaXREb2N9CiAgICAgICAgICovCg==</text>
+        <text encoding="base64">ICAgIC8qKiDOxLW1stnX96O60MLU9s7EtbUgKi8K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyC0psDtt7W72MLrCg==</text>
+      <register name="7" type="4">
+        <text>g</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgKiBAcGFyYW0gbwo=</text>
+      <register name="6" type="4">
+        <text>.</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgKiBAcmV0dXJuCg==</text>
+      <register name="5" type="4">
+        <text>.</text>
       </register>
       <register name="4" type="4">
-        <text>当</text>
+        <text>.</text>
       </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>
       </register>
       <register name="9" type="4">
-        <text>错</text>
+        <text>i</text>
       </register>
       <register name="8" type="4">
-        <text>误</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>refresh</text>
       </register>
       <register name="-" type="4">
-        <text>时</text>
+        <text>，如果为null，等同于调用{@link #searchDoc(OpsSearch)}，返回列只包含主键</text>
       </register>
     </registers>
     <search>
