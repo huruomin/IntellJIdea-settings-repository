@@ -342,6 +342,12 @@
         <mark key="." line="99" column="0" />
         <mark key="[" line="99" column="0" />
       </file>
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/aspect/OtsAspect.java" timestamp="1450341949923">
+        <mark key="'" line="99" column="0" />
+        <mark key="]" line="158" column="0" />
+        <mark key="." line="158" column="0" />
+        <mark key="[" line="158" column="0" />
+      </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/param/sys/GetSysParamRequest.java" timestamp="1450337188091">
         <mark key="]" line="16" column="6" />
         <mark key="^" line="16" column="6" />
@@ -571,17 +577,17 @@
       <jump line="109" column="16" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OtsService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBKU09ORmllbGQoKQo=</text>
       </register>
       <register name="3" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="2" type="4">
-        <text>*</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIEBKU09ORmllbGQK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIEBKU09ORmllbGQoKQo=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8qKiDP+8+iwODQzaO6zsSxvs/7z6IgKi8K</text>
@@ -602,7 +608,7 @@
         <text>%s/ignoreFields/ignoreProperties/g</text>
       </register>
       <register name="9" type="4">
-        <text>本</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
         <text>*</text>
