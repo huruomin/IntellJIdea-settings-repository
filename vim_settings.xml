@@ -291,11 +291,8 @@
         <mark key="." line="5" column="16" />
         <mark key="[" line="5" column="7" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" timestamp="1450327945532">
-        <mark key="]" line="492" column="93" />
-        <mark key="^" line="492" column="93" />
-        <mark key="." line="492" column="93" />
-        <mark key="[" line="492" column="79" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" timestamp="1450328916759">
+        <mark key="[" line="500" column="39" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/model/OtsModelWithColumns.java" timestamp="1450152634078">
         <mark key="]" line="15" column="52" />
@@ -675,46 +672,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9wc1NlYXJjaC5jbGVhckZpZWxkcygpLmZpZWxkKGdldEluZGV4UHJpbWFyeUtleShvcHNTZWFyY2guZ2V0SW5kZXgoKSkpOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text>异</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgSlNPTk9iamVjdCByZXN1bHRKc29uID0gSlNPTi5wYXJzZU9iamVjdChuZXdTZWFyY2gob3BzU2VhcmNoKS5zZWFyY2goKSk7Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>常</text>
+        <text>searchToArray</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9wc1NlYXJjaC5jbGVhckZpZWxkcygpLmZpZWxkKGdldEluZGV4UHJpbWFyeUtleShvcHNTZWFyY2guZ2V0SW5kZXgoKSkpOwo=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRTZWFyY2gob3BzU2VhcmNoKTsK</text>
+        <text encoding="base64">ICAgICAgICBzd2l0Y2ggKGFjdGlvbikgewogICAgICAgICAgICBjYXNlICJjb3VudCI6CiAgICAgICAgICAgICAgICBvcHNTZWFyY2guaGl0KDApLmhpdFN0YXJ0KDApOwogICAgICAgICAgICBjYXNlICJwa1NlYXJjaCI6CiAgICAgICAgICAgICAgICBvcHNTZWFyY2guY2xlYXJGaWVsZHMoKS5maWVsZChnZXRJbmRleFByaW1hcnlLZXkob3BzU2VhcmNoLmdldEluZGV4KCkpKTsKICAgICAgICAgICAgICAgIEFzc2VydC5pc1RydWUoIVN0cmluZy5jbGFzcy5lcXVhbHModHlwZSksICJ0eXBlIG11c3QgYmUgamF2YS5sYW5nLlN0cmluZyBpZiBhY3Rpb24gaXMgY291bnQgb3IgcGtTZWFyY2giKTsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgIH0K</text>
       </register>
-      <register name="7" type="4">
-        <text>取</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlzU2luZ2xlRmllbGRTZWFyY2gpIHsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>不</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
-      <register name="5" type="4">
-        <text>到</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>抛</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBPcHNTZWFyY2hSZXN1bHQ8VD4gcmVzdWx0ID0gbmV3IE9wc1NlYXJjaFJlc3VsdDw+KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>
       </register>
-      <register name="9" type="4">
-        <text>，</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEpTT05BcnJheSBpdGVtc0pzb24gPSAoSlNPTkFycmF5KSBKU09OUGF0aC5ldmFsKHJlc3VsdEpzb24sICIkLnJlc3VsdC5pdGVtcyIpOwogICAgICAgICAgICAgICAgaXRlbXMgPSBKU09OLnBhcnNlQXJyYXkoaXRlbXNKc29uLnRvSlNPTlN0cmluZygpLCB0eXBlKTsK</text>
       </register>
-      <register name="8" type="4">
-        <text>获</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="/" type="4">
         <text>refresh</text>
       </register>
       <register name="-" type="4">
-        <text>常</text>
+        <text>searchToArray</text>
       </register>
     </registers>
     <search>
