@@ -291,11 +291,11 @@
         <mark key="." line="5" column="16" />
         <mark key="[" line="5" column="7" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" timestamp="1450318101106">
-        <mark key="]" line="143" column="70" />
-        <mark key="^" line="143" column="70" />
-        <mark key="." line="143" column="70" />
-        <mark key="[" line="143" column="70" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" timestamp="1450319671967">
+        <mark key="]" line="448" column="16" />
+        <mark key="^" line="448" column="16" />
+        <mark key="." line="448" column="16" />
+        <mark key="[" line="448" column="16" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/model/OtsModelWithColumns.java" timestamp="1450152634078">
         <mark key="]" line="15" column="52" />
@@ -675,46 +675,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>用</text>
       </register>
-      <register name="3" type="4">
-        <text>三</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>&quot;</text>
+        <text>应</text>
       </register>
       <register name="1" type="4">
-        <text>'</text>
+        <text>用</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBPcHNTZWFyY2ggb3BzU2VhcmNoID0gbmV3IE9wc1NlYXJjaCgpLmluZGV4KCJ1c2VyIikucXVlcnkoInd4bmlja25hbWU6J8WjzbfI/SciKS5maWVsZCgia2V5IiwgInd4bmlja25hbWUiKTsK</text>
+        <text encoding="base64">ICAgIC8qIG9wZW4gc2VhcmNo06bTw73hubm7urTmICovCg==</text>
       </register>
-      <register name="7" type="4">
-        <text />
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgaW5kZXhQayA9IG51bGw7Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>dewfault</text>
+        <text>search</text>
       </register>
-      <register name="5" type="4">
-        <text>牛</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBDbG91ZHNlYXJjaFNlYXJjaCBzZWFyY2ggPSBuZXdTZWFyY2gob3BzU2VhcmNoKTsK</text>
       </register>
-      <register name="4" type="4">
-        <text>头</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgQ2FjaGU8U3RyaW5nLCBTZXQ8U3RyaW5nPj4gY2FjaGUgPSBDYWNoZUJ1aWxkZXIubmV3QnVpbGRlcigpLmJ1aWxkKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>
       </register>
       <register name="9" type="4">
-        <text>getIndexPrimaryKey(opsSearch.getIndex());</text>
+        <text encoding="base64">IGluZGV4UGs=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3BzU2VhcmNoLmNsZWFyRmllbGRzKCkuZmllbGQoaW5kZXhQayk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIG9vb28gPSBzZWFyY2guc2VhcmNoKCk7Cg==</text>
       </register>
       <register name="/" type="4">
         <text>refresh</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>用</text>
       </register>
     </registers>
     <search>
