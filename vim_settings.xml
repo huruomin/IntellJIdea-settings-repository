@@ -291,10 +291,11 @@
         <mark key="." line="5" column="16" />
         <mark key="[" line="5" column="7" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" timestamp="1450324747250">
-        <mark key="]" line="248" column="0" />
-        <mark key="." line="248" column="0" />
-        <mark key="[" line="248" column="0" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" timestamp="1450327945532">
+        <mark key="]" line="492" column="93" />
+        <mark key="^" line="492" column="93" />
+        <mark key="." line="492" column="93" />
+        <mark key="[" line="492" column="79" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/model/OtsModelWithColumns.java" timestamp="1450152634078">
         <mark key="]" line="15" column="52" />
@@ -674,46 +675,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWFyY2guZ2V0RmllbGRzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="4">
-        <text>)</text>
+        <text>异</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>常</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWFyY2guZ2V0RmllbGRzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnRTZWFyY2gob3BzU2VhcmNoKTsK</text>
       </register>
       <register name="7" type="4">
-        <text>l</text>
+        <text>取</text>
       </register>
       <register name="6" type="4">
-        <text>e</text>
+        <text>不</text>
       </register>
       <register name="5" type="4">
-        <text>s</text>
+        <text>到</text>
       </register>
       <register name="4" type="4">
-        <text>(</text>
+        <text>抛</text>
       </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>
       </register>
       <register name="9" type="4">
-        <text>a</text>
+        <text>，</text>
       </register>
       <register name="8" type="4">
-        <text>b</text>
+        <text>获</text>
       </register>
       <register name="/" type="4">
         <text>refresh</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>常</text>
       </register>
     </registers>
     <search>
