@@ -291,12 +291,12 @@
         <mark key="." line="5" column="16" />
         <mark key="[" line="5" column="7" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" timestamp="1450330488900">
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" timestamp="1450331128322">
         <mark key="'" line="51" column="49" />
-        <mark key="]" line="47" column="33" />
-        <mark key="^" line="47" column="33" />
-        <mark key="." line="47" column="33" />
-        <mark key="[" line="47" column="34" />
+        <mark key="]" line="561" column="0" />
+        <mark key="^" line="240" column="38" />
+        <mark key="." line="561" column="0" />
+        <mark key="[" line="561" column="0" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/model/OtsModelWithColumns.java" timestamp="1450152634078">
         <mark key="]" line="15" column="52" />
@@ -675,47 +675,47 @@
       <jump line="52" column="49" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>O</text>
+        <text>时</text>
       </register>
       <register name="2" type="4">
-        <text>N</text>
+        <text encoding="base64">CiAgICAgICAgLyoqCiAgICAgICAgICogR2V0dGVyIGZvciBwcm9wZXJ0eSAnZmllbGRzJy4KICAgICAgICAgKgogICAgICAgICAqIEByZXR1cm4gVmFsdWUgZm9yIHByb3BlcnR5ICdmaWVsZHMnLgogICAgICAgICAqLwogICAgICAgIHB1YmxpYyBNYXA8U3RyaW5nLCBTdHJpbmc+IGdldEZpZWxkcygpIHsKICAgICAgICAgICAgcmV0dXJuIGZpZWxkczsKICAgICAgICB9</text>
       </register>
-      <register name="1" type="4">
-        <text>_</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VhcmNoRG9jKG9wc1NlYXJjaCwgU3RyaW5nLmNsYXNzLCBTRUFSQ0hfQUNUSU9OX0NPVU5UKS5nZXRUb3RhbCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiB7QGluaGVyaXREb2N9CiAgICAgICAgICovCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>A</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyC0psDtt7W72MLrCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>C</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgKiBAcGFyYW0gbwo=</text>
       </register>
-      <register name="5" type="4">
-        <text>T</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgKiBAcmV0dXJuCg==</text>
       </register>
       <register name="4" type="4">
-        <text>I</text>
+        <text>当</text>
       </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>
       </register>
       <register name="9" type="4">
-        <text>_</text>
+        <text>错</text>
       </register>
       <register name="8" type="4">
-        <text>U</text>
+        <text>误</text>
       </register>
       <register name="/" type="4">
         <text>refresh</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>时</text>
       </register>
     </registers>
     <search>
