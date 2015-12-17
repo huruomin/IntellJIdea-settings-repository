@@ -342,11 +342,12 @@
         <mark key="." line="99" column="0" />
         <mark key="[" line="99" column="0" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/aspect/OtsAspect.java" timestamp="1450341949923">
-        <mark key="'" line="99" column="0" />
-        <mark key="]" line="158" column="0" />
-        <mark key="." line="158" column="0" />
-        <mark key="[" line="158" column="0" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/aspect/OtsAspect.java" timestamp="1450342765733">
+        <mark key="'" line="102" column="0" />
+        <mark key="]" line="179" column="35" />
+        <mark key="^" line="179" column="35" />
+        <mark key="." line="179" column="35" />
+        <mark key="[" line="179" column="36" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/param/sys/GetSysParamRequest.java" timestamp="1450337188091">
         <mark key="]" line="16" column="6" />
@@ -577,47 +578,47 @@
       <jump line="109" column="16" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OtsService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBKU09ORmllbGQoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>E</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIEBKU09ORmllbGQK</text>
+      <register name="2" type="4">
+        <text encoding="base64">IHRhYmxlTmFtZQ==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIEBKU09ORmllbGQoKQo=</text>
+      <register name="1" type="4">
+        <text>s</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKiDP+8+iwODQzaO6zsSxvs/7z6IgKi8K</text>
+        <text encoding="base64">ICAgICAgICB1c2VyTWV0YXMucHV0KE9TU19VU0VSX01FVEFfVEFCTEUsIHRhYmxlTmFtZSk7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>T</text>
       </register>
       <register name="6" type="4">
-        <text>*</text>
+        <text>A</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>B</text>
       </register>
       <register name="4" type="4">
-        <text>*</text>
+        <text>L</text>
       </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>E</text>
       </register>
       <register name="8" type="4">
-        <text>*</text>
+        <text>table</text>
       </register>
       <register name="/" type="4">
         <text>isTrue</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
     </registers>
     <search>
