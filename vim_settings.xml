@@ -184,10 +184,10 @@
         <mark key="." line="15" column="5" />
         <mark key="[" line="15" column="5" />
       </file>
-      <file name="D:/project/yanji/src/server/yanji-server/src/main/resources/api-servlet-context.xml" timestamp="1450405684147">
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="[" line="13" column="0" />
+      <file name="D:/project/yanji/src/server/yanji-server/src/main/resources/api-servlet-context.xml" timestamp="1450410531577">
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="[" line="14" column="0" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" timestamp="1450408368398">
         <mark key="'" line="50" column="0" />
@@ -731,9 +731,30 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8bXZjOmFzeW5jLXN1cHBvcnQgZGVmYXVsdC10aW1lb3V0PSIiCg==</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">CiAgICAgICAgUmVxdWVzdENvbmZpZyByZXF1ZXN0Q29uZmlnID0gUmVxdWVzdENvbmZpZy5jdXN0b20oKQogICAgICAgICAgICAgICAgLnNldFNvY2tldFRpbWVvdXQoMCkKICAgICAgICAgICAgICAgIC5zZXRDb25uZWN0VGltZW91dCgxMDAwKQogICAgICAgICAgICAgICAgLmJ1aWxkKCk7CiAgICAgICAgcmVxdWVzdC5zZXRDb25maWcocmVxdWVzdENvbmZpZyk7</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICA8bXZjOmFzeW5jLXN1cHBvcnQgZGVmYXVsdC10aW1lb3V0PSIiCg==</text>
+      </register>
+      <register name="0" type="4">
+        <text>GetDictsResponse</text>
+      </register>
+      <register name="7" type="4">
+        <text>1</text>
+      </register>
+      <register name="6" type="4">
+        <text>0</text>
+      </register>
+      <register name="5" type="4">
+        <text>0</text>
+      </register>
+      <register name="4" type="4">
         <text>//
 //        RequestConfig requestConfig = RequestConfig.custom()
 //                .setSocketTimeout(0)
@@ -741,35 +762,14 @@
 //                .build();
 //        request.setConfig(requestConfig);</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgUmVxdWVzdENvbmZpZyByZXF1ZXN0Q29uZmlnID0gUmVxdWVzdENvbmZpZy5jdXN0b20oKQogICAgICAgICAgICAgICAgLnNldFNvY2tldFRpbWVvdXQoMCkKICAgICAgICAgICAgICAgIC5zZXRDb25uZWN0VGltZW91dCgxMDAwKQogICAgICAgICAgICAgICAgLmJ1aWxkKCk7CiAgICAgICAgcmVxdWVzdC5zZXRDb25maWcocmVxdWVzdENvbmZpZyk7</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="0" type="4">
-        <text>GetDictsResponse</text>
-      </register>
-      <register name="7" type="4">
-        <text>0</text>
-      </register>
-      <register name="6" type="4">
-        <text>1</text>
-      </register>
-      <register name="5" type="4">
-        <text>0</text>
-      </register>
-      <register name="4" type="4">
-        <text>0</text>
-      </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFhYS5zZXRSZXN1bHQobnVsbCA9PSBub3RlID8gci5zZXRWYWx1ZSgibnVsbCIpIDogSlNPTi50b0pTT05TdHJpbmcobm90ZS5nZXRNZXNzYWdlKCkpKTsK</text>
+      <register name="9" type="4">
+        <text encoding="base64">IFN0cmluZw==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IFN0cmluZw==</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>async</text>
