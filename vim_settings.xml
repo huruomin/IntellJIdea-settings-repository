@@ -189,12 +189,11 @@
         <mark key="." line="13" column="0" />
         <mark key="[" line="13" column="0" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" timestamp="1448867982522">
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" timestamp="1450408368398">
         <mark key="'" line="50" column="0" />
-        <mark key="]" line="187" column="0" />
-        <mark key="^" line="171" column="47" />
-        <mark key="." line="187" column="0" />
-        <mark key="[" line="187" column="0" />
+        <mark key="]" line="203" column="0" />
+        <mark key="." line="203" column="0" />
+        <mark key="[" line="203" column="0" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/model/OtsRowGet.java" timestamp="1450152702505">
         <mark key="]" line="45" column="0" />
@@ -372,11 +371,11 @@
         <mark key="." line="135" column="11" />
         <mark key="[" line="135" column="7" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/controller/WeixinController.java" timestamp="1450406079396">
-        <mark key="]" line="162" column="18" />
-        <mark key="^" line="162" column="18" />
-        <mark key="." line="162" column="18" />
-        <mark key="[" line="161" column="19" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/controller/WeixinController.java" timestamp="1450407446392">
+        <mark key="]" line="164" column="0" />
+        <mark key="^" line="163" column="32" />
+        <mark key="." line="164" column="0" />
+        <mark key="[" line="164" column="0" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/param/weixin/GetMenuTypeResponse.java" timestamp="1450337203997">
         <mark key="]" line="18" column="5" />
@@ -561,6 +560,12 @@
         <mark key="." line="26" column="36" />
         <mark key="[" line="26" column="6" />
       </file>
+      <file name="D:/project/yanji/src/server/yanji-weixin-message-handler/src/main/java/com/yanji/wmh/Application.java" timestamp="1450407500650">
+        <mark key="]" line="35" column="45" />
+        <mark key="^" line="35" column="45" />
+        <mark key="." line="35" column="45" />
+        <mark key="[" line="34" column="27" />
+      </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/weixin/SyncUserStep.java" timestamp="1448844265239">
         <mark key="]" line="31" column="106" />
         <mark key="^" line="19" column="26" />
@@ -726,46 +731,51 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBudWxsID09IDsK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text>//
+//        RequestConfig requestConfig = RequestConfig.custom()
+//                .setSocketTimeout(0)
+//                .setConnectTimeout(1000)
+//                .build();
+//        request.setConfig(requestConfig);</text>
       </register>
       <register name="2" type="4">
-        <text>note ? &quot;null&quot; : JSON.toJSONString(note.getMessage())</text>
+        <text encoding="base64">CiAgICAgICAgUmVxdWVzdENvbmZpZyByZXF1ZXN0Q29uZmlnID0gUmVxdWVzdENvbmZpZy5jdXN0b20oKQogICAgICAgICAgICAgICAgLnNldFNvY2tldFRpbWVvdXQoMCkKICAgICAgICAgICAgICAgIC5zZXRDb25uZWN0VGltZW91dCgxMDAwKQogICAgICAgICAgICAgICAgLmJ1aWxkKCk7CiAgICAgICAgcmVxdWVzdC5zZXRDb25maWcocmVxdWVzdENvbmZpZyk7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBudWxsID09IDsK</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8YXN5bmMtc3VwcG9ydGVkPnRydWU8L2FzeW5jLXN1cHBvcnRlZD4K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBXaGVuIGFuIG9iamVjdCBpbXBsZW1lbnRpbmcgaW50ZXJmYWNlIDxjb2RlPlJ1bm5hYmxlPC9jb2RlPiBpcyB1c2VkCiAgICAgICAgICogdG8gY3JlYXRlIGEgdGhyZWFkLCBzdGFydGluZyB0aGUgdGhyZWFkIGNhdXNlcyB0aGUgb2JqZWN0J3MKICAgICAgICAgKiA8Y29kZT5ydW48L2NvZGU+IG1ldGhvZCB0byBiZSBjYWxsZWQgaW4gdGhhdCBzZXBhcmF0ZWx5IGV4ZWN1dGluZwogICAgICAgICAqIHRocmVhZC4KICAgICAgICAgKiA8cC8+CiAgICAgICAgICogVGhlIGdlbmVyYWwgY29udHJhY3Qgb2YgdGhlIG1ldGhvZCA8Y29kZT5ydW48L2NvZGU+IGlzIHRoYXQgaXQgbWF5CiAgICAgICAgICogdGFrZSBhbnkgYWN0aW9uIHdoYXRzb2V2ZXIuCiAgICAgICAgICoKICAgICAgICAgKiBAc2VlIFRocmVhZCNydW4oKQogICAgICAgICAqLwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1lc3NhZ2VSZWNlaXZlZCBub3RlID0gbW5zU2VydmljZS5wb3BOb3RlKE1lc3NhZ2VSZWNlaXZlZC5jbGFzcyk7CiAgICAgICAgICAgICAgICByZXR1cm4gbnVsbCA9PSBub3RlID8gIm51bGwiIDogSlNPTi50b0pTT05TdHJpbmcobm90ZS5nZXRNZXNzYWdlKCkpOwo=</text>
+      <register name="0" type="4">
+        <text>GetDictsResponse</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IENhbGxhYmxlPFN0cmluZz4oKSB7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgU3RyaW5nIGNhbGwoKSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgICAgICAgICAgfQogICAgICAgIH07Cg==</text>
+      <register name="7" type="4">
+        <text>0</text>
+      </register>
+      <register name="6" type="4">
+        <text>1</text>
+      </register>
+      <register name="5" type="4">
+        <text>0</text>
+      </register>
+      <register name="4" type="4">
+        <text>0</text>
       </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFhYS5zZXRSZXN1bHQobnVsbCA9PSBub3RlID8gci5zZXRWYWx1ZSgibnVsbCIpIDogSlNPTi50b0pTT05TdHJpbmcobm90ZS5nZXRNZXNzYWdlKCkpKTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhYWEuCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">IFN0cmluZw==</text>
       </register>
       <register name="/" type="4">
         <text>async</text>
       </register>
       <register name="-" type="4">
-        <text>note ? &quot;null&quot; : JSON.toJSONString(note.getMessage())</text>
+        <text>0</text>
       </register>
     </registers>
     <search>
