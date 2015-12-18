@@ -192,6 +192,11 @@
         <mark key="." line="26" column="93" />
         <mark key="[" line="26" column="93" />
       </file>
+      <file name="D:/project/yanji/src/server/yanji-server/src/main/resources/profiles/dev/api-servlet-context.xml" timestamp="1450424642785">
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
+        <mark key="[" line="71" column="0" />
+      </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" timestamp="1450408368398">
         <mark key="'" line="50" column="0" />
         <mark key="]" line="203" column="0" />
@@ -557,7 +562,7 @@
         <mark key="." line="9" column="25" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1450423435473">
+      <file name="/Dummy.txt" timestamp="1450425034127">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/project/yanji/src/server/yanji-weixin-message-handler/src/main/java/com/yanji/wmh/Keygen.java" timestamp="1448155558015">
@@ -747,40 +752,40 @@
     </jumps>
     <registers>
       <register name="3" type="4">
-        <text>c</text>
-      </register>
-      <register name="&quot;" type="4">
         <text>m</text>
       </register>
-      <register name="2" type="4">
-        <text>o</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>m</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIDwhLS0gyrm+ssys18rUtMz4uf1tdmO1xLSmwO0gLS0+CiAgICA8IS0tPG12YzpyZXNvdXJjZXMgbWFwcGluZz0iL2Nzcy8qKiIgbG9jYXRpb249Ii9jc3MvIiAvPi0tPgogICAgPCEtLTxtdmM6cmVzb3VyY2VzIG1hcHBpbmc9Ii9odG1sLyoqIiBsb2NhdGlvbj0iL2h0bWwvIiAvPi0tPgogICAgPCEtLTxtdmM6cmVzb3VyY2VzIG1hcHBpbmc9Ii9pbWcvKioiIGxvY2F0aW9uPSIvaW1nLyIgLz4tLT4KICAgIDwhLS08bXZjOnJlc291cmNlcyBtYXBwaW5nPSIvanMvKioiIGxvY2F0aW9uPSIvanMvIiAvPi0tPgogICAgPCEtLTxtdmM6cmVzb3VyY2VzIG1hcHBpbmc9Ii9mYXZpY29uLmljbyIgbG9jYXRpb249Ii9mYXZpY29uLmljbyIgLz4tLT4K</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxleGNsdXNpb24+CiAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5sb2dnaW5nLmxvZzRqPC9ncm91cElkPgogICAgICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPmxvZzRqLWNvcmU8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8L2V4Y2x1c2lvbj4K</text>
       </register>
       <register name="7" type="4">
-        <text>n</text>
-      </register>
-      <register name="6" type="4">
-        <text>c</text>
-      </register>
-      <register name="5" type="4">
         <text>s</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>.</text>
+      </register>
+      <register name="5" type="4">
+        <text>c</text>
+      </register>
+      <register name="4" type="4">
+        <text>o</text>
       </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>
       </register>
       <register name="9" type="4">
-        <text>y</text>
+        <text>n</text>
       </register>
       <register name="8" type="4">
-        <text>u</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>async</text>
