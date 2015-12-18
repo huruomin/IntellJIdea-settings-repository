@@ -117,11 +117,12 @@
         <mark key="." line="50" column="18" />
         <mark key="[" line="49" column="7" />
       </file>
-      <file name="D:/project/yanji/src/server/yanji-server/src/main/resources/api-spring-context.xml" timestamp="1449731154100">
-        <mark key="]" line="28" column="43" />
-        <mark key="^" line="28" column="43" />
-        <mark key="." line="28" column="43" />
-        <mark key="[" line="28" column="41" />
+      <file name="D:/project/yanji/src/server/yanji-server/src/main/resources/api-spring-context.xml" timestamp="1450415587765">
+        <mark key="'" line="38" column="5" />
+        <mark key="]" line="39" column="47" />
+        <mark key="^" line="39" column="47" />
+        <mark key="." line="39" column="47" />
+        <mark key="[" line="39" column="49" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/SysService.java" timestamp="1448871888309">
         <mark key="'" line="116" column="0" />
@@ -184,11 +185,10 @@
         <mark key="." line="15" column="5" />
         <mark key="[" line="15" column="5" />
       </file>
-      <file name="D:/project/yanji/src/server/yanji-server/src/main/resources/api-servlet-context.xml" timestamp="1450413640125">
-        <mark key="]" line="62" column="3" />
-        <mark key="^" line="62" column="3" />
-        <mark key="." line="62" column="3" />
-        <mark key="[" line="61" column="51" />
+      <file name="D:/project/yanji/src/server/yanji-server/src/main/resources/api-servlet-context.xml" timestamp="1450415566845">
+        <mark key="]" line="13" column="67" />
+        <mark key="." line="13" column="67" />
+        <mark key="[" line="13" column="66" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" timestamp="1450408368398">
         <mark key="'" line="50" column="0" />
@@ -630,7 +630,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" />
       <jump line="50" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" />
       <jump line="39" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OtsService.java" />
       <jump line="89" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" />
@@ -730,49 +729,50 @@
       <jump line="57" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/controller/WeixinController.java" />
       <jump line="61" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/controller/WeixinController.java" />
       <jump line="65" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/controller/WeixinController.java" />
+      <jump line="30" column="5" filename="D:/project/yanji/src/server/yanji-server/src/main/resources/api-spring-context.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cHJpdmF0ZSA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IG1uc1NlcnZpY2U=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">cHJpdmF0ZSA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1lc3NhZ2VSZWNlaXZlZCBub3RlID0gbW5zU2VydmljZS5wb3BOb3RlKE1lc3NhZ2VSZWNlaXZlZC5jbGFzcyk7CiAgICAgICAgICAgICAgICBHZXRTeXNQYXJhbVJlc3BvbnNlIHIgPSBuZXcgR2V0U3lzUGFyYW1SZXNwb25zZSgpOwogICAgICAgICAgICAgICAgci5zZXRWYWx1ZShudWxsID09IG5vdGUgPyAibnVsbCIgOiBKU09OLnRvSlNPTlN0cmluZyhub3RlLmdldE1lc3NhZ2UoKSkpOwogICAgICAgICAgICAgICAgYWFhLnNldFJlc3VsdChyKTsK</text>
+        <text encoding="base64">ICAgIDx0YXNrOmFubm90YXRpb24tZHJpdmVuIGV4ZWN1dG9yPSJteUV4ZWN1dG9yIi8+CiAgICA8dGFzazpleGVjdXRvciBpZD0ibXlFeGVjdXRvciIgcG9vbC1zaXplPSI1Ii8+Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>r</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">CiAgICBAQXN5bmMKICAgIHByaXZhdGUgdm9pZCBhc3luYyhEZWZlcnJlZFJlc3VsdDxHZXRTeXNQYXJhbVJlc3BvbnNlPiByZXN1bHQpIHsKICAgICAgICBNZXNzYWdlUmVjZWl2ZWQgbm90ZSA9IG1uc1NlcnZpY2UucG9wTm90ZShNZXNzYWdlUmVjZWl2ZWQuY2xhc3MpOwogICAgICAgIEdldFN5c1BhcmFtUmVzcG9uc2UgciA9IG5ldyBHZXRTeXNQYXJhbVJlc3BvbnNlKCk7CiAgICAgICAgci5zZXRWYWx1ZShudWxsID09IG5vdGUgPyAibnVsbCIgOiBKU09OLnRvSlNPTlN0cmluZyhub3RlLmdldE1lc3NhZ2UoKSkpOwogICAgICAgIHJlc3VsdC5zZXRSZXN1bHQocik7CiAgICB9</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>
       </register>
       <register name="9" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>async</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHJpdmF0ZSA=</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
