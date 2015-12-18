@@ -172,10 +172,11 @@
         <mark key="." line="125" column="0" />
         <mark key="[" line="125" column="0" />
       </file>
-      <file name="D:/project/yanji/src/server/yanji-server/src/main/webapp/WEB-INF/web.xml" timestamp="1450403571674">
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
-        <mark key="[" line="62" column="0" />
+      <file name="D:/project/yanji/src/server/yanji-server/src/main/webapp/WEB-INF/web.xml" timestamp="1450405158220">
+        <mark key="]" line="35" column="47" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="[" line="35" column="0" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/param/sys/GetSysParamResponse.java" timestamp="1450337194420">
         <mark key="]" line="15" column="5" />
@@ -183,10 +184,10 @@
         <mark key="." line="15" column="5" />
         <mark key="[" line="15" column="5" />
       </file>
-      <file name="D:/project/yanji/src/server/yanji-server/src/main/resources/api-servlet-context.xml" timestamp="1449731111823">
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-        <mark key="[" line="53" column="0" />
+      <file name="D:/project/yanji/src/server/yanji-server/src/main/resources/api-servlet-context.xml" timestamp="1450405684147">
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="[" line="13" column="0" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" timestamp="1448867982522">
         <mark key="'" line="50" column="0" />
@@ -371,11 +372,11 @@
         <mark key="." line="135" column="11" />
         <mark key="[" line="135" column="7" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/controller/WeixinController.java" timestamp="1450401228488">
-        <mark key="]" line="157" column="83" />
-        <mark key="^" line="157" column="82" />
-        <mark key="." line="157" column="83" />
-        <mark key="[" line="157" column="83" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/controller/WeixinController.java" timestamp="1450406079396">
+        <mark key="]" line="162" column="18" />
+        <mark key="^" line="162" column="18" />
+        <mark key="." line="162" column="18" />
+        <mark key="[" line="161" column="19" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/param/weixin/GetMenuTypeResponse.java" timestamp="1450337203997">
         <mark key="]" line="18" column="5" />
@@ -401,11 +402,11 @@
         <mark key="." line="44" column="31" />
         <mark key="[" line="44" column="27" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/pom.xml" timestamp="1450403828864">
-        <mark key="]" line="64" column="39" />
+      <file name="D:/project/huruomin/huruomin-java/pom.xml" timestamp="1450404457745">
+        <mark key="]" line="64" column="52" />
         <mark key="^" line="321" column="15" />
-        <mark key="." line="64" column="39" />
-        <mark key="[" line="64" column="38" />
+        <mark key="." line="64" column="52" />
+        <mark key="[" line="64" column="52" />
       </file>
       <file name="D:/project/yanji/src/server/dicts/dev/com.huruomin.dict.sys.FileType.dict" timestamp="1448271420658">
         <mark key="]" line="1" column="139" />
@@ -541,7 +542,7 @@
         <mark key="." line="9" column="25" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1450402014372">
+      <file name="/Dummy.txt" timestamp="1450405242015">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/project/yanji/src/server/yanji-weixin-message-handler/src/main/java/com/yanji/wmh/Keygen.java" timestamp="1448155558015">
@@ -724,53 +725,53 @@
       <jump line="139" column="8" filename="D:/Projects/huruomin-java/src/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>T</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBudWxsID09IDsK</text>
       </register>
-      <register name="3" type="4">
-        <text>H</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>O</text>
+        <text>note ? &quot;null&quot; : JSON.toJSONString(note.getMessage())</text>
       </register>
-      <register name="1" type="4">
-        <text>T</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBudWxsID09IDsK</text>
       </register>
-      <register name="0" type="4">
-        <text>${version.jetty-maven-plugin}</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICA8YXN5bmMtc3VwcG9ydGVkPnRydWU8L2FzeW5jLXN1cHBvcnRlZD4K</text>
       </register>
-      <register name="7" type="4">
-        <text>N</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBXaGVuIGFuIG9iamVjdCBpbXBsZW1lbnRpbmcgaW50ZXJmYWNlIDxjb2RlPlJ1bm5hYmxlPC9jb2RlPiBpcyB1c2VkCiAgICAgICAgICogdG8gY3JlYXRlIGEgdGhyZWFkLCBzdGFydGluZyB0aGUgdGhyZWFkIGNhdXNlcyB0aGUgb2JqZWN0J3MKICAgICAgICAgKiA8Y29kZT5ydW48L2NvZGU+IG1ldGhvZCB0byBiZSBjYWxsZWQgaW4gdGhhdCBzZXBhcmF0ZWx5IGV4ZWN1dGluZwogICAgICAgICAqIHRocmVhZC4KICAgICAgICAgKiA8cC8+CiAgICAgICAgICogVGhlIGdlbmVyYWwgY29udHJhY3Qgb2YgdGhlIG1ldGhvZCA8Y29kZT5ydW48L2NvZGU+IGlzIHRoYXQgaXQgbWF5CiAgICAgICAgICogdGFrZSBhbnkgYWN0aW9uIHdoYXRzb2V2ZXIuCiAgICAgICAgICoKICAgICAgICAgKiBAc2VlIFRocmVhZCNydW4oKQogICAgICAgICAqLwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>A</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>P</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE1lc3NhZ2VSZWNlaXZlZCBub3RlID0gbW5zU2VydmljZS5wb3BOb3RlKE1lc3NhZ2VSZWNlaXZlZC5jbGFzcyk7CiAgICAgICAgICAgICAgICByZXR1cm4gbnVsbCA9PSBub3RlID8gIm51bGwiIDogSlNPTi50b0pTT05TdHJpbmcobm90ZS5nZXRNZXNzYWdlKCkpOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text>S</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IENhbGxhYmxlPFN0cmluZz4oKSB7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgU3RyaW5nIGNhbGwoKSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgICAgICAgICAgfQogICAgICAgIH07Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>
       </register>
-      <register name="9" type="4">
-        <text>-</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>S</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBhYWEuCg==</text>
       </register>
       <register name="/" type="4">
-        <text>refresh</text>
+        <text>async</text>
       </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text>note ? &quot;null&quot; : JSON.toJSONString(note.getMessage())</text>
       </register>
     </registers>
     <search>
-      <last-search>refresh</last-search>
+      <last-search>async</last-search>
       <last-offset />
-      <last-pattern>refresh</last-pattern>
+      <last-pattern>async</last-pattern>
       <last-replace>ignoreProperties</last-replace>
       <last-substitute>ignoreFields</last-substitute>
       <last-dir>1</last-dir>
@@ -791,6 +792,7 @@
         <entry>pair</entry>
         <entry>count</entry>
         <entry>isTrue</entry>
+        <entry>async</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvL2lzRXF1YWwgPSBpc0VxdWFsICYmIC9n</entry>
