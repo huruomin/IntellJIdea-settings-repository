@@ -117,12 +117,12 @@
         <mark key="." line="50" column="18" />
         <mark key="[" line="49" column="7" />
       </file>
-      <file name="D:/project/yanji/src/server/yanji-server/src/main/resources/api-spring-context.xml" timestamp="1450415587765">
-        <mark key="'" line="38" column="5" />
-        <mark key="]" line="39" column="47" />
-        <mark key="^" line="39" column="47" />
-        <mark key="." line="39" column="47" />
-        <mark key="[" line="39" column="49" />
+      <file name="D:/project/yanji/src/server/yanji-server/src/main/resources/api-spring-context.xml" timestamp="1450416801715">
+        <mark key="'" line="40" column="5" />
+        <mark key="]" line="42" column="50" />
+        <mark key="^" line="18" column="10" />
+        <mark key="." line="18" column="10" />
+        <mark key="[" line="18" column="0" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/SysService.java" timestamp="1448871888309">
         <mark key="'" line="116" column="0" />
@@ -173,11 +173,11 @@
         <mark key="." line="125" column="0" />
         <mark key="[" line="125" column="0" />
       </file>
-      <file name="D:/project/yanji/src/server/yanji-server/src/main/webapp/WEB-INF/web.xml" timestamp="1450405158220">
-        <mark key="]" line="35" column="47" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="35" column="0" />
-        <mark key="[" line="35" column="0" />
+      <file name="D:/project/yanji/src/server/yanji-server/src/main/webapp/WEB-INF/web.xml" timestamp="1450418843265">
+        <mark key="]" line="117" column="0" />
+        <mark key="^" line="73" column="39" />
+        <mark key="." line="117" column="0" />
+        <mark key="[" line="117" column="0" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/param/sys/GetSysParamResponse.java" timestamp="1450337194420">
         <mark key="]" line="15" column="5" />
@@ -185,10 +185,12 @@
         <mark key="." line="15" column="5" />
         <mark key="[" line="15" column="5" />
       </file>
-      <file name="D:/project/yanji/src/server/yanji-server/src/main/resources/api-servlet-context.xml" timestamp="1450415566845">
-        <mark key="]" line="13" column="67" />
-        <mark key="." line="13" column="67" />
-        <mark key="[" line="13" column="66" />
+      <file name="D:/project/yanji/src/server/yanji-server/src/main/resources/api-servlet-context.xml" timestamp="1450419373572">
+        <mark key="'" line="0" column="0" />
+        <mark key="]" line="26" column="93" />
+        <mark key="^" line="10" column="6" />
+        <mark key="." line="26" column="93" />
+        <mark key="[" line="26" column="93" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" timestamp="1450408368398">
         <mark key="'" line="50" column="0" />
@@ -372,12 +374,12 @@
         <mark key="." line="135" column="11" />
         <mark key="[" line="135" column="7" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/controller/WeixinController.java" timestamp="1450414169987">
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/controller/WeixinController.java" timestamp="1450416380852">
         <mark key="'" line="65" column="0" />
-        <mark key="]" line="167" column="18" />
-        <mark key="^" line="167" column="18" />
-        <mark key="." line="167" column="18" />
-        <mark key="[" line="167" column="8" />
+        <mark key="]" line="166" column="83" />
+        <mark key="^" line="166" column="83" />
+        <mark key="." line="166" column="83" />
+        <mark key="[" line="166" column="83" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/param/weixin/GetMenuTypeResponse.java" timestamp="1450337203997">
         <mark key="]" line="18" column="5" />
@@ -458,6 +460,13 @@
         <mark key="^" line="35" column="3" />
         <mark key="." line="99" column="0" />
         <mark key="[" line="99" column="0" />
+      </file>
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/aspect/OtsAspect.java" timestamp="1450162994016">
+        <mark key="'" line="101" column="0" />
+        <mark key="]" line="128" column="21" />
+        <mark key="^" line="128" column="21" />
+        <mark key="." line="128" column="21" />
+        <mark key="[" line="128" column="16" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/param/sys/GetSysParamRequest.java" timestamp="1450337188091">
         <mark key="]" line="16" column="6" />
@@ -630,10 +639,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" />
-      <jump line="39" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OtsService.java" />
-      <jump line="89" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" />
-      <jump line="73" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" />
       <jump line="70" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" />
       <jump line="69" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" />
       <jump line="67" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" />
@@ -730,6 +735,10 @@
       <jump line="61" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/controller/WeixinController.java" />
       <jump line="65" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/controller/WeixinController.java" />
       <jump line="30" column="5" filename="D:/project/yanji/src/server/yanji-server/src/main/resources/api-spring-context.xml" />
+      <jump line="43" column="3" filename="D:/project/yanji/src/server/yanji-server/src/main/resources/api-servlet-context.xml" />
+      <jump line="17" column="25" filename="D:/project/yanji/src/server/yanji-server/src/main/resources/api-servlet-context.xml" />
+      <jump line="33" column="8" filename="D:/project/yanji/src/server/yanji-server/src/main/resources/api-servlet-context.xml" />
+      <jump line="0" column="0" filename="D:/project/yanji/src/server/yanji-server/src/main/resources/api-servlet-context.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -744,17 +753,17 @@
       <register name="1" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIDx0YXNrOmFubm90YXRpb24tZHJpdmVuIGV4ZWN1dG9yPSJteUV4ZWN1dG9yIi8+CiAgICA8dGFzazpleGVjdXRvciBpZD0ibXlFeGVjdXRvciIgcG9vbC1zaXplPSI1Ii8+Cg==</text>
+      <register name="0" type="4">
+        <text>http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>benas</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICAgIDwhLS0gZGVmYXVsdCBmaXJzdCBwYWdlIC0tPgogICAgPHdlbGNvbWUtZmlsZS1saXN0PgogICAgICAgIDx3ZWxjb21lLWZpbGU+dW5pcXVlSW5kZXguanNwPC93ZWxjb21lLWZpbGU+CiAgICA8L3dlbGNvbWUtZmlsZS1saXN0Pg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="4">
         <text encoding="base64">IA==</text>
@@ -763,10 +772,10 @@
         <text>%s/ignoreFields/ignoreProperties/g</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>泄</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text>露</text>
       </register>
       <register name="/" type="4">
         <text>async</text>
