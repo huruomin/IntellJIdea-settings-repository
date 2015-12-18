@@ -153,11 +153,11 @@
         <mark key="." line="15" column="14" />
         <mark key="[" line="15" column="6" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/MnsService.java" timestamp="1450336721216">
-        <mark key="]" line="35" column="6" />
-        <mark key="^" line="35" column="6" />
-        <mark key="." line="35" column="6" />
-        <mark key="[" line="35" column="6" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/MnsService.java" timestamp="1450414184446">
+        <mark key="]" line="130" column="10" />
+        <mark key="^" line="130" column="10" />
+        <mark key="." line="130" column="10" />
+        <mark key="[" line="130" column="4" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/model/OtsUtils.java" timestamp="1450161942729">
         <mark key="'" line="64" column="30" />
@@ -184,10 +184,11 @@
         <mark key="." line="15" column="5" />
         <mark key="[" line="15" column="5" />
       </file>
-      <file name="D:/project/yanji/src/server/yanji-server/src/main/resources/api-servlet-context.xml" timestamp="1450410531577">
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="[" line="14" column="0" />
+      <file name="D:/project/yanji/src/server/yanji-server/src/main/resources/api-servlet-context.xml" timestamp="1450413640125">
+        <mark key="]" line="62" column="3" />
+        <mark key="^" line="62" column="3" />
+        <mark key="." line="62" column="3" />
+        <mark key="[" line="61" column="51" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" timestamp="1450408368398">
         <mark key="'" line="50" column="0" />
@@ -371,11 +372,12 @@
         <mark key="." line="135" column="11" />
         <mark key="[" line="135" column="7" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/controller/WeixinController.java" timestamp="1450407446392">
-        <mark key="]" line="164" column="0" />
-        <mark key="^" line="163" column="32" />
-        <mark key="." line="164" column="0" />
-        <mark key="[" line="164" column="0" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/controller/WeixinController.java" timestamp="1450414169987">
+        <mark key="'" line="65" column="0" />
+        <mark key="]" line="167" column="18" />
+        <mark key="^" line="167" column="18" />
+        <mark key="." line="167" column="18" />
+        <mark key="[" line="167" column="8" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/param/weixin/GetMenuTypeResponse.java" timestamp="1450337203997">
         <mark key="]" line="18" column="5" />
@@ -628,10 +630,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" />
-      <jump line="62" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" />
-      <jump line="59" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" />
-      <jump line="56" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" />
       <jump line="53" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" />
       <jump line="50" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/batch/commons/ApiClient.java" />
       <jump line="39" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/OtsService.java" />
@@ -728,45 +726,44 @@
       <jump line="58" column="8" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0-sources.jar!/com/google/common/cache/Cache.java" />
       <jump line="225" column="43" filename="D:/Projects/huruomin-java/src/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" />
       <jump line="139" column="8" filename="D:/Projects/huruomin-java/src/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/OpsService.java" />
+      <jump line="53" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/controller/WeixinController.java" />
+      <jump line="57" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/controller/WeixinController.java" />
+      <jump line="61" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/controller/WeixinController.java" />
+      <jump line="65" column="0" filename="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/controller/WeixinController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8bXZjOmFzeW5jLXN1cHBvcnQgZGVmYXVsdC10aW1lb3V0PSIiCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgUmVxdWVzdENvbmZpZyByZXF1ZXN0Q29uZmlnID0gUmVxdWVzdENvbmZpZy5jdXN0b20oKQogICAgICAgICAgICAgICAgLnNldFNvY2tldFRpbWVvdXQoMCkKICAgICAgICAgICAgICAgIC5zZXRDb25uZWN0VGltZW91dCgxMDAwKQogICAgICAgICAgICAgICAgLmJ1aWxkKCk7CiAgICAgICAgcmVxdWVzdC5zZXRDb25maWcocmVxdWVzdENvbmZpZyk7</text>
+        <text encoding="base64">IG1uc1NlcnZpY2U=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>.</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8bXZjOmFzeW5jLXN1cHBvcnQgZGVmYXVsdC10aW1lb3V0PSIiCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
-      <register name="0" type="4">
-        <text>GetDictsResponse</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE1lc3NhZ2VSZWNlaXZlZCBub3RlID0gbW5zU2VydmljZS5wb3BOb3RlKE1lc3NhZ2VSZWNlaXZlZC5jbGFzcyk7CiAgICAgICAgICAgICAgICBHZXRTeXNQYXJhbVJlc3BvbnNlIHIgPSBuZXcgR2V0U3lzUGFyYW1SZXNwb25zZSgpOwogICAgICAgICAgICAgICAgci5zZXRWYWx1ZShudWxsID09IG5vdGUgPyAibnVsbCIgOiBKU09OLnRvSlNPTlN0cmluZyhub3RlLmdldE1lc3NhZ2UoKSkpOwogICAgICAgICAgICAgICAgYWFhLnNldFJlc3VsdChyKTsK</text>
       </register>
       <register name="7" type="4">
-        <text>1</text>
+        <text>)</text>
       </register>
       <register name="6" type="4">
-        <text>0</text>
+        <text>)</text>
       </register>
       <register name="5" type="4">
-        <text>0</text>
+        <text>r</text>
       </register>
       <register name="4" type="4">
-        <text>//
-//        RequestConfig requestConfig = RequestConfig.custom()
-//                .setSocketTimeout(0)
-//                .setConnectTimeout(1000)
-//                .build();
-//        request.setConfig(requestConfig);</text>
+        <text encoding="base64">CiAgICBAQXN5bmMKICAgIHByaXZhdGUgdm9pZCBhc3luYyhEZWZlcnJlZFJlc3VsdDxHZXRTeXNQYXJhbVJlc3BvbnNlPiByZXN1bHQpIHsKICAgICAgICBNZXNzYWdlUmVjZWl2ZWQgbm90ZSA9IG1uc1NlcnZpY2UucG9wTm90ZShNZXNzYWdlUmVjZWl2ZWQuY2xhc3MpOwogICAgICAgIEdldFN5c1BhcmFtUmVzcG9uc2UgciA9IG5ldyBHZXRTeXNQYXJhbVJlc3BvbnNlKCk7CiAgICAgICAgci5zZXRWYWx1ZShudWxsID09IG5vdGUgPyAibnVsbCIgOiBKU09OLnRvSlNPTlN0cmluZyhub3RlLmdldE1lc3NhZ2UoKSkpOwogICAgICAgIHJlc3VsdC5zZXRSZXN1bHQocik7CiAgICB9</text>
       </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IFN0cmluZw==</text>
+        <text>0</text>
       </register>
       <register name="8" type="4">
         <text>0</text>
@@ -775,7 +772,7 @@
         <text>async</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
     </registers>
     <search>
