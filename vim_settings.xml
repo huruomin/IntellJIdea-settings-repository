@@ -172,6 +172,12 @@
         <mark key="." line="125" column="0" />
         <mark key="[" line="125" column="0" />
       </file>
+      <file name="D:/project/yanji/src/server/yanji-server/src/main/webapp/WEB-INF/web.xml" timestamp="1450402296696">
+        <mark key="]" line="47" column="0" />
+        <mark key="^" line="62" column="46" />
+        <mark key="." line="47" column="0" />
+        <mark key="[" line="47" column="0" />
+      </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/param/sys/GetSysParamResponse.java" timestamp="1450337194420">
         <mark key="]" line="15" column="5" />
         <mark key="^" line="15" column="5" />
@@ -189,6 +195,12 @@
         <mark key="^" line="171" column="47" />
         <mark key="." line="187" column="0" />
         <mark key="[" line="187" column="0" />
+      </file>
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/model/OtsRowGet.java" timestamp="1450152702505">
+        <mark key="]" line="45" column="0" />
+        <mark key="^" line="44" column="18" />
+        <mark key="." line="45" column="0" />
+        <mark key="[" line="45" column="0" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/HttpClientService.java" timestamp="1449905348275">
         <mark key="]" line="22" column="8" />
@@ -269,6 +281,13 @@
         <mark key="." line="7" column="10" />
         <mark key="[" line="6" column="3" />
       </file>
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/note/weixin/MessageReceived.java" timestamp="1450337109774">
+        <mark key="]" line="18" column="5" />
+        <mark key="^" line="18" column="5" />
+        <mark key="." line="18" column="5" />
+        <mark key="[" line="18" column="5" />
+      </file>
+      <file name="D:/project/yanji/src/server/pom.xml" timestamp="1450400520641" />
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/model/sys/OtsRowPut.java" timestamp="1448526761038">
         <mark key="'" line="114" column="0" />
         <mark key="]" line="78" column="18" />
@@ -342,11 +361,10 @@
         <mark key="." line="22" column="24" />
         <mark key="[" line="20" column="31" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/controller/SysController.java" timestamp="1449712459833">
-        <mark key="]" line="61" column="0" />
-        <mark key="^" line="61" column="91" />
-        <mark key="." line="61" column="0" />
-        <mark key="[" line="61" column="0" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/controller/SysController.java" timestamp="1450399701807">
+        <mark key="]" line="118" column="0" />
+        <mark key="." line="118" column="0" />
+        <mark key="[" line="118" column="0" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/core/PropertyService.java" timestamp="1449906447838">
         <mark key="]" line="135" column="11" />
@@ -354,11 +372,11 @@
         <mark key="." line="135" column="11" />
         <mark key="[" line="135" column="7" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/controller/WeixinController.java" timestamp="1449712442690">
-        <mark key="]" line="137" column="0" />
-        <mark key="^" line="62" column="5" />
-        <mark key="." line="137" column="0" />
-        <mark key="[" line="137" column="0" />
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/controller/WeixinController.java" timestamp="1450401228488">
+        <mark key="]" line="157" column="83" />
+        <mark key="^" line="157" column="82" />
+        <mark key="." line="157" column="83" />
+        <mark key="[" line="157" column="83" />
       </file>
       <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/param/weixin/GetMenuTypeResponse.java" timestamp="1450337203997">
         <mark key="]" line="18" column="5" />
@@ -384,10 +402,11 @@
         <mark key="." line="44" column="31" />
         <mark key="[" line="44" column="27" />
       </file>
-      <file name="D:/project/huruomin/huruomin-java/pom.xml" timestamp="1448854617919">
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-        <mark key="[" line="39" column="0" />
+      <file name="D:/project/huruomin/huruomin-java/pom.xml" timestamp="1450401793994">
+        <mark key="]" line="64" column="50" />
+        <mark key="^" line="64" column="50" />
+        <mark key="." line="64" column="50" />
+        <mark key="[" line="64" column="36" />
       </file>
       <file name="D:/project/yanji/src/server/dicts/dev/com.huruomin.dict.sys.FileType.dict" timestamp="1448271420658">
         <mark key="]" line="1" column="139" />
@@ -517,7 +536,13 @@
         <mark key="." line="47" column="21" />
         <mark key="[" line="47" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1450362595794">
+      <file name="D:/project/huruomin/huruomin-java/huruomin-commons/src/main/java/com/huruomin/mvc/service/model/OpsSearchResult.java" timestamp="1450256582016">
+        <mark key="]" line="9" column="25" />
+        <mark key="^" line="9" column="25" />
+        <mark key="." line="9" column="25" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1450402014372">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/project/yanji/src/server/yanji-weixin-message-handler/src/main/java/com/yanji/wmh/Keygen.java" timestamp="1448155558015">
@@ -701,46 +726,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRJbmRleEV4aXN0KGluZGV4KTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQFN1cHByZXNzV2FybmluZ3MoInVuY2hlY2tlZCIpCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRJbmRleEV4aXN0KGluZGV4KTsK</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHR5cGUuZXF1YWxzKFN0cmluZy5jbGFzcykpIHsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdC5zZXRJdGVtcyhpdGVtcyk7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdC5zZXRJdGVtcyhpdGVtcyk7Cg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJ1bmNoZWNrZWQiKQo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">CiAgICA8ZmlsdGVyPgogICAgICAgIDxmaWx0ZXItbmFtZT5TcHJpbmcgT3BlbkVudGl0eU1hbmFnZXJJblZpZXdGaWx0ZXI8L2ZpbHRlci1uYW1lPgogICAgICAgIDxmaWx0ZXItY2xhc3M+b3JnLnNwcmluZ2ZyYW1ld29yay5+Lk9wZW5FbnRpdHlNYW5hZ2VySW5WaWV3RmlsdGVyPC9maWx0ZXItY2xhc3M+CiAgICAgICAgPGFzeW5jLXN1cHBvcnRlZD50cnVlPC9hc3luYy1zdXBwb3J0ZWQ+CiAgICA8L2ZpbHRlcj4KICAgIDxmaWx0ZXItbWFwcGluZz4KICAgICAgICA8ZmlsdGVyLW5hbWU+U3ByaW5nIE9wZW5FbnRpdHlNYW5hZ2VySW5WaWV3RmlsdGVyPC9maWx0ZXItbmFtZT4KICAgICAgICA8dXJsLXBhdHRlcm4+Lyo8L3VybC1wYXR0ZXJuPgogICAgICAgIDxkaXNwYXRjaGVyPlJFUVVFU1Q8L2Rpc3BhdGNoZXI+CiAgICAgICAgPGRpc3BhdGNoZXI+QVNZTkM8L2Rpc3BhdGNoZXI+CiAgICA8L2ZpbHRlci1tYXBwaW5nPgo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICA8dmVyc2lvbi5qZXR0eS1tYXZlbi1wbHVnaW4+OC4xLjExLnYyMDEzMDUyMDwvdmVyc2lvbi5qZXR0eS1tYXZlbi1wbHVnaW4+Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text>5</text>
+      </register>
+      <register name="6" type="4">
+        <text>2</text>
+      </register>
+      <register name="5" type="4">
+        <text>0</text>
+      </register>
+      <register name="4" type="4">
+        <text>0</text>
       </register>
       <register name=":" type="4">
         <text>%s/ignoreFields/ignoreProperties/g</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>3</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>refresh</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
       </register>
     </registers>
     <search>
@@ -820,6 +845,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
