@@ -3,12 +3,34 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/Projects/huruomin-java/src/huruomin-commons/src/main/java/com/huruomin/batch/weixin/MessageDispatchStep.java" timestamp="1450518219142">
+        <mark key="]" line="31" column="43" />
+        <mark key="^" line="31" column="43" />
+        <mark key="." line="31" column="43" />
+        <mark key="[" line="31" column="43" />
+      </file>
       <file name="/HTML File.txt.ft" timestamp="1450518134064">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIiIK</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>+</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="1" type="4">
+        <text>+</text>
+      </register>
+      <register name="-" type="4">
+        <text>+</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
